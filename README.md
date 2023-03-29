@@ -26,3 +26,6 @@ process('./sample/Xist_TEMA.xls', out='./sample/Xist_TEMA_chs.xls', lang='chs')
 # folder / 文件夹模式
 process('sample', out='./sample/chs', lang='chs')
 ```
+
+## 备注
+* labels.csv 为词条文本库，其中大部分词条为机翻，正在人工缓慢校对。
