@@ -1,0 +1,2202 @@
+TABLE Table_AcousticIndicator "Acoustic Indicator"
+0, "Undetermined"
+1, "No"
+2, "Yes"
+END
+
+TABLE Table_BaffleOrientation "Baffle Orientation"
+0, "Program sets"
+1, "Parallel"
+2, "Perpendicular"
+END
+
+TABLE Table_BaffleOrientRpt "Baffle Orientation"
+0, "PROGRAM"
+1, "PARALLEL"
+2, "PERPEND."
+END
+
+TABLE Table_BaffleType "Baffle Type"
+0, "None"
+1, "Single segmental"
+2, "Double segmental"
+4, "Rods"
+6, "Peripheral"
+8, "Single helical"
+9, "Double helical"
+10, "EMbaffle"
+11, "EM Wide"
+12, "EM Segmental"
+13, "Square One"
+14, "Disk and doughnut"
+15, "Lok"
+16, "Helixchanger-single"
+17, "Helixchanger-double"
+END
+
+TABLE Table_BaffleTypeRpt "Baffle Type"
+0, "None"
+1, "Single-Seg."
+2, "Double-Seg."
+4, "Rods"
+6, "Peripheral"
+8, "Single Helical"
+9, "Double Helical"
+10, "EMbaffle"
+11, "EM Wide"
+12, "EM Segmental"
+13, "Square One"
+14, "Disk & Donut"
+15, "Lok"
+16, "Helixchanger-Sng."
+17, "Helixchanger-Dbl."
+END
+
+TABLE Table_BaffleTypeDes "Baffle Type"
+0, "None"
+1, "Sng. Seg."
+2, "Dbl. Seg."
+4, "Rods"
+6, "Peripheral"
+8, "Sng. Helical"
+9, "Dbl. Helical"
+10, "EMbaffle"
+11, "EM Wide"
+12, "EM Seg."
+13, "Sqr. One"
+14, "Disk & Donut"
+15, "Lok"
+16, "HeliXchgr-Sng."
+17, "HeliXchgr-Dbl."
+END
+
+TABLE Table_BeltType "Belt Type"
+0, "Unspecified"
+1, "Slot"
+2, "Gap"
+END
+
+TABLE Table_BodyFlange "Body Flange"
+0, "Unspecified"
+1, "None"
+2, "Lap joint"
+3, "Ring"
+4, "Integral straight hub"
+5, "Integral tapered hub"
+END
+
+TABLE Table_BoilOption "Boil Option"
+0, "Unspecified"
+1, "Pool boiling"
+2, "Thermosiphon"
+3, "Forced circulation"
+4, "Falling film"
+END
+
+TABLE Table_CodeReq "Code Req"
+0, "<BLANK>"
+1, "ASME"
+2, "CODAP"
+3, "AD Merkblatter"
+4, "PD 5500"
+5, "EN13445"
+END
+
+TABLE Table_ComponentDB "Component DB"
+0, "None"
+1, "HTRI (legacy)"
+2, "DIPPR"
+3, "Phillips"
+4, "PPDS"
+5, "ASPEN"
+6, "PRO/II"
+7, "HYSYS"
+8, "REFPROP"
+9, "CAPE-OPEN"
+10, "VMGThermo"
+11, "UniSim® Design"
+12, "PetroSIM"
+13, "Unknown"
+14, "User Components"
+15, "ProMax"
+16, "UniSim® Thermo"
+17, "HTRI Fluid Properties (new)"
+END
+
+TABLE Table_CondCorr "Cond Correlation"
+0, "HTRI Proration"
+1, "Literature"
+2, "Composition Profile"
+3, "Reflux"
+4, "Rose-Briggs"
+5, "Ammonia-Water"
+6, "High-Fin Dehumidification"
+7, "High-Fin Approximation"
+END
+
+TABLE Table_CondCorrRpt "Cond Correlation"
+0, "RPM"
+1, "LITERATURE"
+2, "CPM"
+3, "REFLUX"
+4, "ROSE-BRIGGS"
+5, "AMMONIA-WATER"
+6, "HIGH-FIN DEHUMIDIFICATION"
+7, "HIGH-FIN APPROXIMATION"
+END
+
+TABLE Table_CondOption "Cond Option"
+0, "Unspecified"
+1, "Normal"
+2, "Knockback reflux"
+END
+
+TABLE Table_CountMethod "Count Method"
+0, "Rigorous"
+1, "Approximate"
+END
+
+TABLE Table_DimStand "Dim Stand"
+0, "Unspecified"
+1, "ANSI-American"
+2, "ISO"
+3, "DIN-German"
+99, "Other"
+END
+
+TABLE Table_EndFlange "End Flange"
+0, "Unspecified"
+1, "None"
+2, "Lap joint"
+3, "Ring"
+4, "Integral straight hub"
+5, "Integral tapered hub"
+END
+
+TABLE Table_EndLocation "End Location"
+0, "Unspecified"
+1, "Front of exchanger"
+2, "Rear of exchanger"
+END
+
+TABLE Table_ExchangerSide "Exchanger Side"
+0, "Unspecified"
+1, "Shellside"
+2, "Tubeside"
+END
+
+TABLE Table_ExpJointType "Expansion Joint Type"
+0, "<BLANK>"
+1, "None"
+2, "Flanged and flued"
+3, "Flanged only"
+4, "Unreinforced bellows"
+5, "Reinforced bellows"
+END
+
+TABLE Table_FluidAllocation "Fluid Allocation"
+0, "Shellside"
+1, "Tubeside"
+END
+
+TABLE Table_FHSupportType "FH Support Type"
+1, "None"
+2, "Full support"
+END
+
+TABLE Table_FlashType "Flash Type"
+0, "Integral"
+1, "Differential"
+END
+
+TABLE Table_FlowDirection "Flow Direction"
+0, "Unspecified"
+1, "Countercurrent"
+2, "Cocurrent"
+END
+
+TABLE Table_FrontHeadType "Front Head Type"
+1, "A"
+2, "B"
+3, "C"
+4, "N"
+5, "D"
+END
+
+TABLE Table_HeadCover "Head Cover"
+0, "Unspecified"
+1, "Flat bolted"
+2, "Flat welded"
+3, "Ellipsoidal"
+4, "Torisperical"
+5, "Hemispherical"
+6, "Cone"
+7, "Elbow"
+8, "Dished"
+END
+
+TABLE Table_HeadType "Head Type"
+0, "Unspecified"
+1, "A-channel & removable cover"
+2, "B - bonnet bolted or integral with tubesheet"
+3, "C - channel integral with tubesheet & removable bundle"
+4, "N - channel integral with tubesheet & non-removable bundle"
+5, "D - high pressure enclosure"
+11, "L - fixed tubesheet, removable channel and flat cover"
+12, "M - fixed tubesheet, removable or integral bonnet"
+13, "N - fixed tubesheet, integral channel & removable flat cover"
+14, "P - outside packed floating head"
+15, "S - floating head with backing device"
+16, "T - pull-through floating head"
+17, "U - U-tube bundle"
+18, "W - externally sealed floating tubesheet"
+END
+
+TABLE Table_HRCrvVariable "Heat Release Curve Variable"
+0, "Unspecified"
+1, "Heat release curve based on duty"
+2, "Heat release curve based on temperature"
+3, "Heat release curve based on fraction vapor"
+END
+
+TABLE Table_ImpingeLocation "Impinge Location"
+0, "Unspecified"
+1, "On bundle"
+2, "In nozzle dome"
+3, "Tubeside"
+END
+
+TABLE Table_ImpingeType "Impinge Type"
+0, "Circular plate"
+1, "Rectangular plate"
+2, "Rods"
+3, "None"
+4, "Sleeve"
+5, "Shroud"
+6, "Dummy twisted tubes"
+END
+
+TABLE Table_KettleType "Kettle Type"
+0, "Unspecified"
+1, "Enlarged shell with eccentric reducers"
+2, "Enlarged shell with formed heads"
+END
+
+TABLE Table_LayoutAngle "Layout Angle"
+30, "30"
+45, "45"
+60, "60"
+90, "90"
+END
+
+TABLE Table_BaffSealType "Baffle Seal Type"
+0, "None"
+1, "Welded"
+2, "Lamiflex"
+3, "Channel strips"
+4, "Kempchen T4"
+END
+
+TABLE Table_MatStand "Material Standard"
+0, "Unspecified"
+1, "ASTM-American"
+2, "AFNOR-French"
+3, "DIN-German"
+99, "Other"
+END
+
+TABLE Table_NozzleDesign "Nozzle Design"
+0, "Unspecified"
+1, "Optimized design"
+2, "ANSI"
+3, "ISO"
+4, "DIN"
+END
+
+TABLE Table_NozzleDist "Nozzle Dist"
+0, "Unspecified"
+1, "None"
+2, "Plain"
+3, "Impingement"
+4, "Distributor"
+5, "Sparge"
+END
+
+TABLE Table_NozzleEntrance "Nozzle Entrance"
+0, "Unspecified"
+1, "Radial"
+2, "Tangential"
+3, "Elbow"
+4, "Axial"
+END
+
+TABLE Table_NozzleFace "Nozzle Face"
+0, "Unspecified"
+1, "Flat face"
+2, "Raised face"
+3, "Tongue and groove"
+4, "Stub end"
+END
+
+TABLE Table_NozzleFlange "Nozzle Flange"
+0, "Unspecified"
+1, "Slip-on"
+2, "Lap joint"
+3, "Weld neck"
+4, "Long weld neck"
+5, "Self-reinforce neck"
+END
+
+TABLE Table_NozzleFunction "Nozzle Function"
+0, "Unspecified"
+1, "Inlet"
+2, "Outlet"
+3, "Liquid inlet"
+4, "Vapor outlet"
+5, "Sparge"
+6, "Safety valve"
+7, "Vent (no flow)"
+8, "Drain (no flow)"
+9, "Manhole"
+10, "Inspection port"
+11, "Liquid outlet"
+END
+
+TABLE Table_OperationMode "Operation Mode"
+0, "Rating"
+1, "Design"
+2, "Simulation"
+4, "Grid Design"
+END
+
+TABLE Table_Orientation "Orientation"
+0, "Unspecified"
+1, "Horizontal"
+2, "Vertical"
+END
+
+TABLE Table_PhaseAllowed "Phase Allowed"
+0, "Mixed"
+1, "Vapor"
+2, "Liquid"
+END
+
+TABLE Table_Phase "Phase"
+0, "Vapor"
+1, "Liquid"
+END
+
+TABLE Table_PhaseHR "Phase Heat Release"
+0, "Unspecified"
+1, "Mixed"
+2, "Vapor"
+3, "Liquid"
+4, "Low density liquid"
+5, "High density liquid"
+6, "Noncondensables"
+END
+
+TABLE Table_PipeCode "Pipe Code"
+1, "Straight pipe"
+2, "Bend"
+3, "Sudden enlargement"
+4, "Sudden contraction"
+5, "Globe valve"
+6, "Gate valve"
+7, "Thin orifice"
+8, "Thick orifice"
+9, "User defined"
+10, "Header pipe"
+11, "Nozzle pipe"
+12, "Tee"
+13, "Inside face of bottom tubesheet (vert)"
+14, "Inside face of top tubesheet (vert)"
+15, "Bottom inside surface of shell (horz)"
+16, "Top inside surface of shell (horz)"
+17, "Pump"
+18, "45 elbow long radius"
+19, "45 elbow short radius"
+20, "45 elbow mitered"
+21, "90 elbow long radius"
+22, "90 elbow short radius"
+23, "90 elbow mitered"
+24, "Concentric reducer/exp."
+25, "Eccentric reducer/exp."
+26, "Header (height only)"
+27, "Column Liquid Height"
+END
+
+TABLE Table_PipeType "Piping Type"
+0, "No piping specified"
+1, "Thermosiphon reboiler"
+2, "Forced flow reboiler"
+END
+
+TABLE Table_PipeLocation "Pipe Location"
+0, "Unspecified"
+1, "Inlet"
+2, "Outlet"
+END
+
+TABLE Table_QuantityUnits "Quantity Units"
+0, "Mole fraction"
+1, "Weight fraction"
+2, "Weight"
+3, "Moles"
+END
+
+TABLE Table_RearHeadType "Rear Head Type"
+11, "L"
+12, "M"
+13, "N"
+14, "P"
+15, "S"
+16, "T"
+17, "U"
+18, "W"
+END
+
+TABLE Table_ServiceClass "Service Class"
+0, "Unspecified"
+1, "Normal"
+2, "Lethal"
+3, "Low temperature"
+END
+
+TABLE Table_ShellCover "Shell Cover"
+0, "Unspecified"
+1, "Flat bolted"
+2, "Flat welded"
+3, "Ellipsoidal"
+4, "Torispherical"
+END
+
+TABLE Table_ShellEntrance "Shell Entrance"
+0, "Unspecified"
+1, "Full tube layout"
+2, "Remove tubes with the nozzle projection"
+3, "Nozzle dome with a full tube layout"
+4, "Distributor belt with a full tube layout"
+5, "Remove tubes/Entrance area equals nozzle area"
+6, "Remove tubes to meet TEMA rho-V2"
+7, "User specified"
+END
+
+TABLE Table_ShellType "Shell Type"
+0, "E"
+1, "F"
+2, "G"
+3, "H"
+4, "J12"
+5, "J21"
+6, "K"
+7, "X"
+END
+
+TABLE Table_StreamPhase "Stream Phase"
+0, "All liquid"
+1, "All vapor"
+2, "Two-phase"
+END
+
+TABLE Table_TEMAClass "TEMA Class"
+1, "R"
+2, "C"
+3, "B"
+4, "non-TEMA"
+END
+
+TABLE Table_VibIndicator "Vibration Indicator"
+0, "Undetermined"
+1, "No"
+2, "Yes"
+END
+
+TABLE Table_VibTubePosition "Vib Tube Position"
+0, "Undetermined"
+1, "Top row"
+2, "Row outside baffle overlap"
+3, "Row inside baffle overlap at top"
+4, "Row inside baffle overlap at bottom"
+5, "Bottom row"
+END
+
+TABLE Table_VibPosition "Vibration Analysis Location"
+0, "Inlet"
+1, "Center"
+2, "Outlet"
+3, "U-Bend"
+4, "R-Head"
+5, "Top"
+6, "Bottom"
+END
+
+TABLE Table_YesNo "Yes/No"
+0, "No"
+1, "Yes"
+END
+
+TABLE Table_YesNoUnpec "Yes/No/Unspec"
+0, "<BLANK>"
+1, "No"
+2, "Yes"
+END
+
+TABLE Table_Yes2No1 "Yes/No"
+1, "No"
+2, "Yes"
+END
+
+TABLE Table_YesNoCalc "Yes/No/Calculate"
+0, "<BLANK>"
+1, "No"
+2, "Yes"
+3, "Program control"
+END
+
+TABLE Table_SmallShellType "Small Shell Type"
+0, "Unspecified"
+1, "Pipe"
+2, "Plate"
+END
+
+TABLE Table_DiaRef "Diameter Reference"
+0, "Unspecified"
+1, "Inside diameter"
+2, "Outside diameter"
+END
+
+TABLE Table_XPassDesign "XPass Design"
+0, "Program control"
+1, "Odd only"
+2, "Even only"
+END
+
+TABLE Table_TubeExtType "Tube External Type"
+0, "Unspecified"
+1, "Plain"
+2, "Low Fin"
+3, "Longitudinal Fin"
+4, "Corrugated"
+5, "Sintered"
+6, "Enhanced Boiling"
+7, "High Fin"
+8, "Stud Fin"
+9, "Twisted"
+10, "Twisted Low Fin"
+11, "Continuous Fin"
+12, "Elliptical Tubes"
+21, "UOP High Flux (Internal)"
+22, "UOP High Flux (External)"
+23, "Wieland GEWA-KS"
+24, "IPERAC"
+25, "GEA BTT Std. G-Fin"
+26, "G GROOVY"
+27, "EXT.GROOVY"
+28, "L GROOVY"
+30, "HPT Thermo-B"
+40, "AVEX - G1"
+41, "AVEX - G2"
+END
+
+TABLE Table_TubeIntType "Tube Internal Type"
+0, "Unspecified"
+1, "None"
+2, "Microfin"
+3, "Longitudinal Fin"
+4, "Corrugated"
+5, "Core"
+6, "Twisted Tape"
+7, "Wire Loop"
+8, "Helicore"
+9, "Wire-wrapped Core"
+10, "Static Mixer"
+21, "UOP Fin Type 1"
+22, "UOP Fin Type 2"
+23, "GEWA-KS"
+24, "hiTRAN Insert"
+30, "HPT Microfin Type 1"
+31, "HPT Microfin Type 2"
+40, "AVEX - MF"
+END
+
+TABLE Table_TubeStatus "Tube Status"
+0, "Normal tube"
+1, "Tie rod"
+2, "Removed tube"
+3, "Dummy tube"
+4, "Impingement rod"
+END
+
+TABLE Table_TubeSheetType "Tube Sheet Type"
+0, "<BLANK>"
+1, "Single"
+2, "Double with gap"
+3, "Double integral"
+END
+
+TABLE Table_TubeSheetLocation "Tube Sheet Location"
+0, "Unspecified"
+1, "Front"
+2, "Rear"
+END
+
+TABLE Table_FirstPassLocation "First Pass Location"
+0, "Program sets"
+1, "Top left"
+2, "Top right"
+3, "Bottom left"
+4, "Bottom right"
+5, "Top"
+6, "Bottom"
+7, "Left"
+8, "Right"
+END
+
+TABLE Table_TubePattern "Tube Pattern"
+0, "Unspecified"
+1, "30 degree (Triangular)"
+2, "60 degree (Rotated triangular)"
+3, "90 degree (Square)"
+4, "45 degree (Rotated square)"
+END
+
+TABLE Table_PassLayoutType "Pass Layout Type"
+0, "Unspecified"
+1, "Quadrant"
+2, "Mixed or H-banded"
+7, "Mixed or H-banded (Type 1)"
+8, "Mixed or H-banded (Type 2)"
+3, "Ribbon"
+4, "Rotated quadrant"
+5, "Rotated mixed"
+9, "Rotated mixed (Type 1)"
+10, "Rotated mixed (Type 2)"
+6, "Rotated ribbon"
+END
+
+TABLE Table_TubeSheetJoint "Tube Sheet Joint"
+0, "<BLANK>"
+1, "Expanded (No groove)"
+2, "Expanded (1 groove)"
+3, "Expanded (2 grooves)"
+4, "Strength welded"
+5, "Expanded and seal welded (1 groove)"
+6, "Expanded and seal welded (2 grooves)"
+7, "Expanded and strength welded"
+END
+
+TABLE Table_TubeSheetSymmetry "Tube Sheet Symmetry"
+0, "No"
+1, "Yes"
+2, "Partial"
+END
+
+TABLE Table_TubeAlignment "Tube Alignment"
+0, "Unspecified"
+1, "Not aligned between passes"
+2, "U-tube; adjusted to give minimum bend radius"
+3, "Semi; alignment in flow and perpendicular direction"
+4, "Full; alignment in all directions"
+END
+
+TABLE Table_TubeSheetOD "Tube Sheet OD"
+0, "Unspecified"
+1, "To shell OD; N head only"
+2, "To gasket OD; Not bolted through"
+3, "To flange OD; Bolted through"
+4, "Integral with shell; Bolted through"
+END
+
+TABLE Table_TubePassIncrement "Tube Pass Increment"
+0, "Even 2,4,6"
+1, "1-Even 1,2,4"
+2, "Any 1,2,3,4"
+END
+
+TABLE Table_TubeWallThickness "Tube Wall Thickness"
+0, "Unspecified"
+1, "Average"
+2, "Minimum"
+END
+
+TABLE Table_TubeConstruction "Tube Construction"
+0, "Unspecified"
+1, "Welded"
+2, "Seamless"
+END
+
+TABLE Table_USupportType "U Support Type"
+1, "None"
+2, "Full support"
+END
+
+TABLE Table_ClearanceType "Clearance Type"
+0, "TEMA"
+1, "Large,50% more than TEMA"
+2, "Extra large,Twice TEMA"
+3, "Tight,Half of TEMA"
+END
+
+TABLE Table_UNozzleLocation "U-bend Nozzle Location"
+0, "At U-bend"
+1, "Before U-bend"
+2, "After U-bend"
+3, "At rear head"
+END
+
+TABLE Table_RodLayoutAngle "Rod Layout Angle"
+30, "30"
+45, "45"
+60, "60"
+90, "90"
+END
+
+TABLE Table_PhaseCondition "Phase Condition"
+1, "Two phase"
+3, "Sensible gas"
+2, "Sensible liquid"
+5, "No phase change"
+END
+
+TABLE Table_FactorMethod "Friction Factor Method"
+0, "Commercial"
+1, "Smooth"
+2, "Colebrook-White"
+END
+
+TABLE Table_NucleateMethod "Nucleate Boiling Method"
+0, "Program decides"
+1, "Physical property/boiling range"
+2, "Physical property/Schluender"
+3, "Physical property/theoretical boiling range"
+4, "Falling film/HTRI"
+5, "Falling film/Chun-Seban"
+6, "Reduced property/boiling range"
+END
+
+TABLE Table_NucleateMethodRpt "Nucleate Boiling Method"
+0, "PROGRAM"
+1, "PP/BR"
+2, "PP/SCH."
+3, "PP/TBR"
+4, "FF/HTRI"
+5, "FF/CS"
+6, "RP/BR"
+END
+
+TABLE Table_UserMethod "User Method"
+0, "Unspecified"
+1, "Nucleate boiling method"
+2, "Film boiling method"
+END
+
+TABLE Table_OutputUnitSet "Output Unit Set"
+0, "Same as input"
+1, "US"
+2, "SI"
+3, "MKH"
+END
+
+TABLE Table_MessageLevel "Message Level"
+0, "Warnings and Fatal messages"
+1, "Fatal messages only"
+2, "Fatal, warning and informative messages"
+END
+
+TABLE Table_ReportStyle "Report Style"
+0, "Wide format"
+1, "Narrow format"
+END
+
+TABLE Table_PropertyOption "Property Option"
+3, "Use property generator"
+1, "Composition based"
+0, "Property tables"
+2, "Combination"
+END
+
+TABLE Table_HeatReleaseOption "Heat Release Option"
+0, "User specified via TP grid"
+1, "Straight line (dew/bubble point)"
+2, "Program calculated"
+END
+
+TABLE Table_CompositionUnit "Composition Unit"
+0, "Mole/mole fraction"
+1, "Mass/mass fraction"
+END
+
+TABLE Table_YesProgram "Yes/Program"
+0, "Program decides"
+1, "Yes"
+END
+
+TABLE Table_DataUnits "Data input units"
+0, "US"
+1, "SI"
+2, "MKH"
+END
+
+TABLE Table_TubeRemoval "Tube Removal"
+0, "Half"
+1, "Both"
+2, "None"
+END
+
+TABLE Table_FluidCondition "Fluid Condition"
+0, "Unknown"
+1, "Cond. Vapor"
+2, "Boil. Liquid"
+3, "Sens. Gas"
+4, "Sens. Liquid"
+5, "Mixed No Phase Change"
+END
+
+TABLE Table_FluidTherm "Fluid Condition"
+0, "HOT"
+1, "COLD"
+END
+
+TABLE Table_H2OFoulType "Water Fouling Type"
+0, "None"
+1, "Generalized"
+2, "Type based"
+END
+
+TABLE Table_ShellNozzleLocation "Shellside Outlet Nozzle Location"
+0, "Program decides"
+1, "Opposite side"
+2, "Same side"
+END
+
+TABLE Table_CFUnitType "Crossflow Unit Type"
+0, "Unspecified"
+1, "Air-cooled heat exchanger"
+2, "Natural draft air-cooler"
+3, "Economizer"
+4, "Air-cooler single increment calculation method"
+5, "Fired heater radiant tube coil"
+6, "Fired heater convection section"
+7, "A-Frame air-cooler"
+END
+
+TABLE Table_CFUnitConfiguration "Crossflow Unit Configuration"
+0, "Unspecified"
+1, "Normal"
+2, "A Frame"
+3, "V Frame"
+4, "Cell Type"
+END
+
+TABLE Table_PlenumLocation "Plenum Location"
+0, "Unspecified"
+1, "Inlet"
+2, "Outlet"
+END
+
+TABLE Table_CFTubesideFlowType "Crossflow tubeside flow"
+0, "Unspecified"
+1, "Countercurrent to crossflow"
+2, "Cocurrent to crossflow"
+END
+
+TABLE Table_BundleFrameMaterial "Bundle Frame Material"
+0, "Unspecified"
+1, "Galvanized Steel"
+2, "Prefab Welded"
+END
+
+TABLE Table_MountingLocation "Mounting Location"
+0, "Unspecified"
+1, "Grade"
+2, "Piperack"
+END
+
+TABLE Table_FanInletType "Fan Inlet Type"
+0, "Unspecified"
+1, "None"
+2, "Conical"
+3, "Shallow Radius"
+4, "Deep Ellipse"
+5, "Flanged"
+6, "15 Degree Cone"
+7, "30 Degree Cone"
+8, "Bell Shape"
+9, "Straight"
+END
+
+TABLE Table_FanDriverType "Fan Driver Type"
+0, "Unspecified"
+1, "Right Angle Gear"
+2, "V-Belt"
+3, "Direct"
+4, "Right Angle Gear With Fan Support"
+5, "Suspended V-Belt Driver Motor Shaft Down"
+END
+
+TABLE Table_FanPitchControl "Fan Pitch Control"
+0, "Unspecified"
+1, "None"
+2, "Manual"
+3, "Auto"
+END
+
+TABLE Table_FanPitchOnFailure "Fan Pitch Air Failure Response"
+0, "Unspecified"
+1, "None"
+2, "Minimum"
+3, "Maximum"
+4, "Lock-up"
+END
+
+TABLE Table_LouverType "Louver Type"
+0, "Unspecified"
+END
+
+TABLE Table_LouverControl "Louver Control Type"
+0, "Unspecified"
+1, "None"
+2, "Auto"
+3, "Manual"
+END
+
+TABLE Table_LouverOnFailure "Louver Air Failure Response"
+0, "Unspecified"
+1, "None"
+2, "Open"
+3, "Close"
+4, "Lock-up"
+END
+
+TABLE Table_PlenumType "Plenum Type"
+0, "Unspecified"
+1, "None"
+2, "Tapered"
+3, "Box"
+END
+
+TABLE Table_ChimneyType "Chimney Type"
+0, "Unspecified"
+1, "Rectangular"
+2, "Round"
+END
+
+TABLE Table_CFTubeExtType "Tube External Type"
+0, "Unspecified"
+1, "None"
+2, "Integral"
+3, "L-type Welded"
+4, "U-type Welded"
+5, "I-type Welded"
+6, "L-type Tension Wrapped"
+7, "L-type Tension Overlapped"
+8, "Extruded Sleeve"
+9, "Metal Coated"
+10, "Tube-in-plate"
+11, "G-finned"
+12, "Modified (Trapezoid) G-finned"
+13, "Shoulder Grooved"
+14, "Circular Studs"
+15, "Rectangular Studs"
+16, "Elliptical Studs"
+17, "Lenticular Studs"
+18, "Chamfered Studs"
+19, "Low Fin"
+20, "Segmented I-foot"
+21, "Segmented L-foot"
+22, "Rectangular I-foot"
+23, "Rectangular L-foot"
+END
+
+TABLE Table_CFOperationMode "Mode Of Operation"
+0, "Unspecified"
+1, "Design"
+2, "Rating"
+3, "Simulation"
+END
+
+TABLE Table_CFCondCorr "Condensing Correlation"
+0, "Unspecified"
+1, "Mass Transfer Film Model"
+2, "Modified Proration Model"
+END
+
+TABLE Table_BundleTubeLayout "Bundle Tube layout"
+0, "Staggered"
+1, "Inline"
+END
+
+TABLE Table_AirMaldistCode "Air Maldistribution Code"
+0, "Unspecified"
+1, "All walls open"
+2, "Left wall blocked"
+3, "Top wall blocked"
+4, "Right wall blocked"
+5, "Left and top walls blocked"
+6, "Top and right walls blocked"
+7, "Left and right walls blocked"
+8, "Left, top, and right walls blocked"
+9, "Bottom wall blocked"
+10, "Bottom and left walls blocked"
+11, "Bottom and top walls blocked"
+12, "Bottom and right walls blocked"
+13, "Bottom, top, and right walls blocked"
+14, "Bottom, left, and right walls blocked"
+15, "Bottom, left, and top walls blocked"
+16, "All walls blocked"
+END
+
+TABLE Table_BundleDefaultType "Bundle Default Type"
+0, "User defined"
+1, "Rows"
+2, "Side-by-side"
+3, "Rows/Side-by-side"
+4, "Equal count"
+5, "Convection"
+6, "Rows with defined passes"
+END
+
+TABLE Table_AirHumidityMeasure "Air Humidity Measure"
+0, "Unspecified"
+1, "Percent relative humidity"
+2, "Wet bulb temperature"
+3, "Dew point temperature"
+END
+
+TABLE Table_AirFlowMeasure "Air Flow Units"
+0, "Unspecified"
+1, "Face velocity"
+2, "Mass flow rate"
+3, "Standard CFM"
+4, "Actual CFM"
+END
+
+TABLE Table_FanArrangement "Fan Arrangement"
+0, "Forced draft"
+1, "Induced draft"
+END
+
+TABLE Table_FanManufacturer "Fan Manufacturer"
+0, "Unspecified"
+1, "Hudson"
+2, "Howden"
+3, "Moore"
+4, "Cofimco"
+5, "Axial Fans"
+99, "All"
+END
+
+TABLE Table_TubeForm "Tube form"
+0, "Straight"
+1, "U-tube"
+2, "Serpentine"
+END
+
+TABLE Table_SealStripType "Seal Strip Type"
+0, "Seal Strip"
+1, "Skid Bar"
+2, "Pass Partition Plate"
+END
+
+TABLE Table_ImpingementType "Nozzle Impingement Type"
+0, "If required by TEMA"
+1, "Yes"
+2, "No"
+3, "No/No tube removal"
+END
+
+TABLE Table_FlowOrientation "Passlane Flow Orientation"
+0, "Unspecified"
+1, "Parallel"
+2, "Perpendicular"
+END
+
+TABLE Table_FiredHeaterStreamType "Fired Heater Stream Type"
+200, "Convection Flue Gas Inlet"
+201, "Convection Flue Gas Outlet"
+202, "Convection Process Inlet"
+203, "Convection Process Outlet"
+204, "Firebox Flue Gas Inlet"
+205, "Firebox Flue Gas Outlet"
+206, "Firebox Process Inlet"
+207, "Firebox Process Outlet"
+END
+
+TABLE Table_ShellAndTubeHxType "Shell and Tube Exchanger Type"
+0, "TEMA"
+1, "Hairpin"
+2, "Double-pipe"
+3, "Hairpin"
+4, "Jacketed Pipe"
+5, "Feedwater Heater"
+END
+
+TABLE Table_ClosureType "Closure Type"
+0, "Separated head"
+1, "Fixed tubesheet"
+2, "Lok-flange"
+3, "Separated/Taperlok"
+4, "ZR closure"
+END
+
+TABLE Table_BlkFluidAllocation "Fluid Allocation"
+0, "Service"
+1, "Process"
+END
+
+TABLE Table_BlkExchangerType "Fluid Allocation"
+0, "Monoblock"
+1, "Cylindrical"
+2, "Cubical"
+END
+
+TABLE Table_FinnedTubeCorr "Finned tube correlation"
+1, "HTRI"
+2, "ESCOA"
+END
+
+TABLE Table_DesignGridRunMethod "Design grid run method"
+0, "Shortcut"
+1, "Rigorous"
+END
+
+TABLE Table_ProcessInletLoc "Process Inlet Location"
+0, "At fixed head"
+1, "At floating head"
+END
+
+TABLE Table_VibDampMethod "Vibration Damping Method"
+0, "HTRI Method"
+1, "TEMA Method"
+2, "User defined value"
+END
+
+TABLE Table_TubeExtHighFinType "High Fin Type"
+0, "Unspecified"
+1, "Circular"
+2, "Serrated"
+3, "Rectangular"
+END
+
+TABLE Table_AirMaldistControl "Air Maldistribution Control"
+0, "None"
+1, "Use maldistribution profile"
+2, "Estimate using blocked sides"
+3, "Use fan on/off logic"
+END
+
+TABLE Table_ShellUBendType "Shell U-Bend Type"
+0, "Single piece crossing"
+1, "Single piece no crossing"
+2, "Welded crossing"
+3, "Welded no crossing"
+END
+
+TABLE Table_TemperatureCode "Temperature Code"
+0, "Fixed temperature"
+1, "Dew point"
+2, "Bubble point"
+3, "Degrees subcooled"
+4, "Degrees superheated"
+END
+
+TABLE Table_RadiographyType "Radiography Type"
+0, "None"
+1, "Spot"
+2, "Full"
+3, "100%"
+END
+
+TABLE Table_PHEType "Plate Exchanger Type"
+0, "Brazed"
+1, "Gasketed"
+END
+
+TABLE Table_ThrmlCond "Thermal Condition"
+0, "Hot"
+1, "Cold"
+END
+
+TABLE Table_FrntBckLoc "Location"
+0, "Front"
+1, "Back"
+END
+
+TABLE Table_UpDwnFlowDir "Flow Direction"
+0, "Upflow"
+1, "Downflow"
+END
+
+TABLE Table_UZArrangement "UZ Arrangement"
+1, "U"
+0, "Z"
+END
+
+TABLE Table_ChnlSpec "Channel Specification"
+0, "Per pass"
+1, "Total"
+2, "User defined"
+END
+
+TABLE Table_PassSpec "Pass Specification"
+0, "Unspecified"
+1, "Single Pass"
+2, "Symmetric Passes"
+END
+
+TABLE Table_PltType "Plate Type"
+0, "User defined"
+1, "Horizontal Herringbone"
+END
+
+TABLE Table_PltGasketMat "Plate Gasket Material"
+15, "Chlorosulphonated Polythene"
+25, "EPDM"
+30, "Fluoroelastomer Grade E"
+35, "Fluoroelastomer Grade GF"
+50, "Nitrile"
+60, "Polychloroprene"
+70, "Resin-Cured Butyl"
+75, "Silicone"
+80, "Viton"
+END
+
+TABLE Table_PltGasketType "Plate Gasket Type"
+0, "Clip-on"
+1, "Snap-on"
+2, "Welded"
+END
+
+TABLE Table_PltZoneType "Plate Zone Type"
+0, "Channel"
+1, "Port"
+END
+
+TABLE Table_PltFlowPath "Plate Flow Path"
+0, "Diagonal"
+1, "Parallel"
+END
+
+TABLE Table_StreamSource "Stream Source"
+0, "User defined"
+1, "From file"
+END
+
+TABLE Table_HighFinMethods "High-fin methods"
+0, "Literature"
+1, "HTRI"
+END
+
+TABLE Table_InstabilityMsg "Thermosiphon Instability Message"
+1, "Stable system, no threshold found"
+2, "Stable system, low vaporization and no threshold found"
+3, "Stable system"
+4, "Unstable system"
+END
+
+TABLE Table_PltChnlType "Plate channel type"
+1, "1/1"
+2, "1/2"
+3, "2/2"
+4, "1/3"
+5, "2/3"
+6, "3/3"
+7, "1/4"
+8, "2/4"
+9, "3/4"
+10, "4/4"
+11, "1/5"
+12, "2/5"
+13, "3/5"
+14, "4/5"
+15, "5/5"
+END
+
+TABLE Table_PltExType "External plate type"
+0, "Frame Plate"
+1, "Pressure Plate"
+END
+
+TABLE Table_PltPortPos "Plate port position"
+0, "Left Side"
+1, "Right Side"
+END
+
+TABLE Table_FHRunType "Fired heater run type"
+1, "Combustion"
+2, "API 530 Tube Design"
+3, "Standalone Convection"
+4, "Cylindrical Heater"
+5, "Box Heater"
+END
+
+TABLE Table_PltDesMethod "Plate Design Method"
+0, "Program Algorithm"
+1, "User Defined"
+END
+
+TABLE Table_VibSpanType "Vib Span Type"
+0, "Leg A"
+1, "Bend"
+2, "Leg B"
+END
+
+TABLE Table_CFTubeHTCMethod "Heat Transfer Coef. methods"
+1, "HTRI"
+2, "API 530"
+END
+
+TABLE Table_LongFinMethod "Longitudinal fin calculation method"
+0, "HTRI"
+1, "KHT"
+END
+
+TABLE Table_InletPortLoc "Inlet Port Locations"
+0, "Unspecified"
+1, "Opposite Sides"
+2, "Same Side"
+END
+
+TABLE Table_VibDampingOption "Damping Option"
+1, "Normalized"
+2, "Log Decrement"
+3, "Table"
+END
+
+TABLE Table_VibSupportType "Support Type"
+0, "Baffle"
+1, "Tubesheet"
+2, "None"
+3, "ExxonMobil DTS™"
+4, "ExxonMobil STS™"
+END
+
+TABLE Table_UopFluidType "UOP High Flux Fluids"
+1, "Propylene, Propane, Ethylene + 2% Oil (0-150 psi)"
+2, "C2 Splitter Bottoms (95%+ C2H6) (300 psig)"
+3, "C3 Splitter Bottoms"
+4, "Refrigerants, R-11, R-12, Ammonia (0-100 psig)"
+5, "Water - Clean (0-100 psig) (Copper)"
+6, "Hexane, Benzene (0-100 psig) (pure)"
+7, "C9 Naphthas (0-100 psig)"
+8, "Naphtha Stabilizer Bottoms (15 Atms) - Worst Case"
+9, "Refinery Debutanizer Bottoms (0 psig)"
+10, "Demethanizer Bottoms (300-500 psig)"
+11, "Benzene Toluene Xylene Mixtures (BTX)"
+12, "Mixed Xylenes +30% C9+ Aromatics (0 psig)"
+13, "Wide Boiling Range - Fouling Service (hb = 650)"
+30, "Ammonia, Steel (0-150 psig)"
+31, "Ethanol (0-100 psig) (Copper)"
+END
+
+TABLE Table_NetConfiguration "Network Configuration"
+0, "No Network"
+1, "Hot and Cold in Series"
+2, "Hot and Cold in Parallel"
+3, "Hot in Series, Cold in Parallel"
+4, "Cold in Series, Hot in Parallel"
+END
+
+TABLE Table_FrontHeadLocation "Front Head Location"
+0, "Left"
+1, "Right"
+2, "Bottom"
+3, "Top"
+END
+
+TABLE Table_NozzleExit "Nozzle Entrance"
+0, "Same as inlet"
+1, "Radial"
+2, "Axial"
+END
+
+TABLE Table_SealRodStatus "Partition Seal Rod Status"
+0, "Empty"
+1, "Seal rod"
+END
+
+TABLE Table_FiredHeaterType "Fired Heater Type"
+0, "Combustion"
+1, "Convection"
+2, "Radiant"
+3, "API530"
+END
+
+TABLE Table_RadiantType "Radiant Type"
+0, "Cylindrical"
+1, "Box"
+2, "Single Zone"
+END
+
+TABLE Table_FlueCalcOpt "Flue Calculation Option"
+0, "Generate flue gas as combusted (No radiant duty/losses)"
+1, "Specify flue gas temperature (Required radiant duty calculated)"
+2, "Specify radiant duty/losses (Flue gas temperature calculated)"
+END
+
+TABLE Table_HumidityBasis "Humidity Basis"
+0, "Relative humidity"
+1, "Volume water/weight air"
+2, "Weight water/weight air"
+3, "Volume water/volume air"
+END
+
+TABLE Table_FuelType "Fuel Type"
+0, "Gas"
+1, "Fuel oil"
+2, "Liquid/solid"
+END
+
+TABLE Table_CmbFlowBasis "Flow Basis"
+0, "Mass"
+1, "Moles"
+2, "Volume"
+3, "Duty"
+4, "Wt/Wt (Steam/Fuel)"
+END
+
+TABLE Table_ExcessOxBasis "Excess Oxidant Basis"
+0, "None"
+1, "Percent"
+2, "O2 Dry"
+3, "O2 Wet"
+4, "Wet volume/volume"
+5, "Wet volume/weight"
+END
+
+TABLE Table_OxidantType "Oxidant Type"
+0, "Ambient air"
+1, "Gas"
+2, "Preheated air"
+END
+
+TABLE Table_DiluentType "Diluent Type"
+0, "None"
+1, "Steam"
+END
+
+TABLE Table_OilCharType "Oil Characterization Type"
+0, "API"
+1, "Grade"
+2, "Specific gravity"
+END
+
+TABLE Table_BurnerAxis "Burner Axis"
+0, "X"
+1, "Y"
+2, "Z"
+END
+
+TABLE Table_RoofOpeningType "Roof Opening Type"
+0, "Rectangular"
+1, "Circular"
+2, "Annular"
+END
+
+TABLE Table_DutyBasis "Heater Duty Basis"
+0, "Fuel"
+1, "Radiant"
+2, "Radiant+Convective"
+END
+
+TABLE Table_CylDutyType "Cylindrical Heater Duty Type"
+0, "Duty"
+1, "Flux"
+END
+
+TABLE Table_CylProcOutletLoc "Process Outlet Location"
+0, "Bottom"
+1, "Top"
+END
+
+TABLE Table_BurnNozDiaBasis "Burner Nozzle Diameter Basis"
+0, "Nozzle diameter"
+1, "Flue gas velocity"
+END
+
+TABLE Table_FHWallSchedule "Wall Schedule"
+40, "S40"
+80, "S80"
+160, "S160"
+END
+
+TABLE Table_FHTubeMetallurgy "Tube Metallurgy"
+0, "LOW-CS"
+1, "MED-CS"
+2, "C.5MO"
+3, "1.25CR"
+4, "2.25CR"
+5, "3CR"
+6, "5CR"
+7, "5CR-SI"
+8, "7CR"
+9, "9CR"
+10, "9CR-VA"
+11, "T304&H"
+12, "T316&H"
+13, "T316L"
+14, "T321"
+15, "T321H"
+16, "T347&H"
+17, "800H"
+18, "HK40"
+19, "T410"
+99, "OTHER"
+END
+
+TABLE Table_FHTubePosition "Tube Position"
+0, "Innermost or only row"
+1, "Outermost of two rows"
+END
+
+TABLE Table_FHTubePosAbbr "Tube Position"
+0, "Inner"
+1, "Outer"
+END
+
+TABLE Table_FHTubeFiring "Tube Firing"
+0, "Single row against wall"
+1, "Single row double-fired"
+2, "Double row against wall"
+3, "Double row double-fired"
+4, "Three rows bare convection"
+END
+
+TABLE Table_FHTubeFirAbbr "Tube Firing"
+0, "Single"
+1, "Sng/Dbl"
+2, "Double"
+3, "Dbl/Dbl"
+4, "Three Cnv"
+END
+
+TABLE Table_FHNominalTubeSize "Nominal Tube Size"
+2, "N2"
+3, "N3"
+4, "N4"
+5, "N5"
+6, "N6"
+8, "N8"
+10, "N10"
+12, "N12"
+END
+
+TABLE Table_BoxHeaterType "Box Heater Type"
+0, "Single-cell top opening"
+1, "Single-cell side opening"
+2, "Single-cell double roof opening"
+3, "Double-cell or single-cell with radiant wall"
+4, "Arbor, U-tube, or inverted U-tube"
+8, "No specified tube geometry"
+END
+
+TABLE Table_BoxInsulationBasis "Box Insulation Basis"
+0, "Specified heat loss coefficients"
+1, "Specified insulation material/thickness"
+2, "Adiabatic/No heat loss"
+END
+
+TABLE Table_BoxFireDir "Firing Direction"
+0, "Floor/Firing upwards"
+1, "End wall/Firing toward opposite end"
+2, "Both end walls/Firing toward each other"
+END
+
+TABLE Table_BoxFireDirRpt "Firing Direction"
+0, "Floor"
+1, "End wall"
+2, "Both walls"
+END
+
+TABLE Table_BurnerGroup "Burner Group"
+0, "User defined"
+1, "Axial air"
+2, "Swirl air"
+END
+
+TABLE Table_FHTubeOrientation "Tube Orientation"
+0, "Horizontal"
+1, "Vertical"
+2, "Side-to-Side"
+3, "Front-to-Back"
+END
+
+TABLE Table_TubeMetalTableType "Tube Metal Table Type"
+0, "Short"
+1, "Detailed"
+END
+
+TABLE Table_TubeLifeType "Tube Life Type"
+0, "Past"
+1, "Future"
+2, "MaxFuture"
+END
+
+TABLE Table_SpecCalc "Specified/Calculated"
+0, "Specify"
+1, "Calculate"
+2, "SOR"
+END
+
+TABLE Table_MinAvg "Minimum/Average"
+0, "Minimum"
+1, "Average"
+END
+
+TABLE Table_MetalType "Metal Type"
+0, "Unspecified"
+1, "Ferritic"
+2, "Austenitic"
+END
+
+TABLE Table_API530TubeType "API530 Tube Type"
+0, "Tubing"
+1, "Piping"
+END
+
+TABLE Table_TimeLife "Time Life Evaluation Type"
+0, "Past only"
+1, "Future only"
+2, "Past and Future"
+END
+
+TABLE Table_TubeFluxType "Tube Flux Type"
+0, "Single row fired from both sides"
+1, "Single row against refractory"
+2, "Front row of double row against refractory"
+3, "Back row of double row against refractory"
+4, "Double row fired from both"
+5, "Single row no back radiation"
+END
+
+TABLE Table_TubeFluxTypeRpt "Tube Flux Type"
+0, "Single/Both"
+1, "Single/Refract"
+2, "Dble(1)/Refract"
+3, "Dble(2)/Refract"
+4, "Dble/Both"
+5, "Single/None"
+END
+
+TABLE Table_SZHeaterType "Single Zone Heater Type"
+0, "Box"
+1, "Cylindrical"
+END
+
+TABLE Table_SZSpecType "Single Zone Spec Type"
+0, "Outlet flue gas temperature"
+1, "Radiant section duty"
+2, "Thermal stirring factor"
+END
+
+TABLE Table_SZHeatLossBasis "Single Zone Heat Loss Basis"
+0, "Fraction of heat input"
+1, "Absolute loss"
+END
+
+TABLE Table_StackElementType "Stack Element Type"
+0, "Convection Bundle"
+1, "Damper"
+2, "Straight Duct"
+3, "Sudden Contraction"
+4, "Gradual Contraction"
+5, "Sudden Enlargement"
+6, "Gradual Enlargement"
+7, "Sudden Exit"
+8, "User-Defined Fitting"
+9, "90-degree Elbow"
+10, "45-degree Elbow"
+11, "90-degree Mitered Elbow"
+12, "Tee"
+END
+
+TABLE Table_ProcessToFlueGasLoc "Process To Flue Gas Location"
+0, "At flue gas inlet"
+1, "At flue gas exit"
+END
+
+TABLE Table_TInterpOption "Temperature Interpolation Option"
+0, "Program"
+1, "Linear"
+2, "Quadratic"
+3, "Cubic"
+END
+
+TABLE Table_API530DesCriteria "API530 Design criteria"
+0, "Rupture"
+1, "Elastic"
+END
+
+TABLE Table_SurfaceZone "Surface Zone"
+0, "Front End"
+1, "Back End"
+2, "Left Side"
+3, "Right Side"
+4, "Floor"
+5, "Roof"
+END
+
+TABLE Table_SurfaceZoneAbbrev "Surface Zone"
+0, "FE"
+1, "BE"
+2, "LS"
+3, "RS"
+4, "FL"
+5, "RF"
+END
+
+TABLE Table_HeatReleaseType "Heat release type"
+0, "Specific enthalpy"
+1, "Total duty from inlet"
+END
+
+TABLE Table_SpiralHxType "Spiral Heat Exchanger Type"
+0, "Unspecified"
+1, "Type I:  Countercurrent spiral flow"
+2, "Type I:  Cocurrent spiral flow"
+3, "Type II: Crossflow with upflow boiling"
+4, "Type II: Crossflow with downflow condensing"
+END
+
+TABLE Table_FlangeClass "Flange Classification"
+150, "150#"
+300, "300#"
+400, "400#"
+600, "600#"
+900, "900#"
+1500, "1500#"
+2500, "2500#"
+END
+
+TABLE Table_HxSupportType "Support type"
+0, "Saddle"
+1, "Lug"
+END
+
+TABLE Table_STServiceType "Shell and Tube Exchanger Service Type"
+0, "Generic shell and tube"
+1, "Flooded evaporator"
+2, "Thermosiphon reboiler"
+3, "Forced flow reboiler"
+7, "Once through reboiler"
+4, "Kettle reboiler"
+5, "Falling film evaporator - tubeside"
+6, "Reflux condenser - tubeside"
+8, "Reflux condenser - shellside"
+END
+
+TABLE Table_TempIncrOption "Temperature Increment Option"
+3, "Weighted Temperature"
+0, "Equal Temperature"
+1, "Equal Enthalpy"
+2, "Equal Fraction"
+END
+
+TABLE Table_COStartTempOption "Starting Temperature Option"
+0, "Inlet Temperature"
+1, "Specified Temperature"
+END
+
+TABLE Table_COEndTempOption "Ending Temperature Option"
+0, "Opposite Stream Inlet Temperature"
+1, "Calculated Outlet Temperature"
+2, "Specified Temperature"
+3, "Specified Temperature Approached"
+END
+
+TABLE Table_COStartPresOption "Starting Pressure Option"
+0, "Inlet Pressure"
+1, "Specified Pressure"
+END
+
+TABLE Table_COEndPresOption "Ending Pressure Option"
+0, "Calculated Pressure"
+1, "Specified Pressure"
+2, "Specified Pressure Drop"
+END
+
+TABLE Table_NozzleStackMark "Nozzle Mark"
+0, "None"
+1, "S1"
+2, "S2"
+3, "S3"
+4, "S4"
+5, "T1"
+6, "T2"
+7, "T3"
+8, "T4"
+END
+
+TABLE Table_EMBTubeHoleTol "EM Baffle Tube Hole Tolerance"
+0, "Standard"
+1, "Close"
+END
+
+TABLE Table_ComponentSource "Component Source"
+-1, "Unknown"
+0, "Library"
+1, "User defined"
+2, "Petroleum"
+3, "Assay"
+4, "Assay cut"
+END
+
+TABLE Table_AFrameInletNozzleLoc "A-Frame Inlet Nozzle Location"
+0, "Center of bundle"
+1, "Left of bundle"
+2, "Right of bundle"
+END
+
+TABLE Table_LWDOrientation "LWD Orientation"
+0, "Parallel"
+1, "Perpendicular"
+END
+
+TABLE Table_BaffleCutType "Baffle Cut Type"
+0, "Percent shell ID"
+1, "Window area percent"
+2, "Cut row number"
+END
+
+TABLE Table_ProgYesNo "Program/Yes/No"
+0, "Program set"
+1, "Yes"
+2, "No"
+END
+
+TABLE Table_FStreamSealDevice "F-Stream Seal Device Type"
+1, "Rods"
+2, "Dummy tubes"
+3, "Blank strips"
+END
+
+TABLE Table_RebInletPresLoc "Reboiler Inlet Pressure Location"
+0, "At inlet nozzle"
+1, "At column bottom liquid surface"
+2, "At top of bundle"
+END
+
+TABLE Table_UnitOrientation "Orientation"
+0, "Horizontal"
+1, "Vertical"
+2, "Incline"
+END
+
+TABLE Table_PFRelaxSpec "Specification"
+1, "Duty"
+2, "Flow"
+3, "TOut"
+4, "TIn"
+END
+
+TABLE Table_Vacuum "Design Vacuum"
+0, "None"
+1, "Full"
+END
+
+TABLE Table_ShellEntranceType "Shell Entrance Type"
+0, "Add impingement if TEMA requires"
+1, "Use impingement device"
+2, "Use annular distributor "
+3, "No impingement device and no tube removal"
+4, "No impingement device "
+END
+
+TABLE Table_ShellExitType "Shell Exit Type"
+4, "Remove tubes if TEMA requires"
+3, "Do not remove tubes"
+2, "Use annular distributor "
+END
+
+TABLE Table_PFLayPatType "Layer Pattern Type"
+0, "No mirroring"
+1, "Odd mirroring"
+2, "Even mirroring"
+END
+
+TABLE Table_PFCalcLevel "Calculation Level"
+1, "Single calculation level"
+2, "Multiple calculation levels"
+END
+
+TABLE Table_PFCalcMode "Calculation Mode"
+1, "Stream-by-stream"
+2, "Layer-by-layer"
+3, "Crossflow"
+4, "Design"
+END
+
+TABLE Table_PFDistType "Distributor Type"
+1, "Full"
+2, "Indirect"
+4, "Diagonal"
+5, "Mitered"
+7, "Hardway"
+END
+
+TABLE Table_PFDistOpen "Distributor Entrance Location"
+1, "Center"
+2, "Left side"
+3, "Right side"
+4, "Twin on sides"
+5, "Left end"
+6, "Right end"
+7, "Twin on ends"
+END
+
+TABLE Table_PFElemType "Element Type"
+1, "Fin"
+2, "Distributor"
+END
+
+TABLE Table_PFFinCorr "Fin Correlation"
+1, "Latest correlations"
+2, "Pre-2006 correlations"
+END
+
+TABLE Table_PFFinType "Fin Type"
+1, "Plain"
+2, "Perforated"
+3, "Serrated"
+4, "Wavy"
+END
+
+TABLE Table_PFHeadPurpose "Head Purpose"
+1, "Inlet"
+2, "Outlet"
+3, "Redistributor"
+END
+
+TABLE Table_PFMaterial "Material"
+1, "Aluminum"
+2, "Stainless steel"
+3, "Titanium"
+END
+
+TABLE Table_PFOrientation "Unit Orientation"
+1, "Vertical (End A at top)"
+2, "Vertical (End A at bottom)"
+3, "Horizontal (vertical parting sheets)"
+4, "Horizontal (horizontal parting sheets)"
+5, "Inclined (vertical parting sheets)"
+6, "Inclined (inclined parting sheets)"
+END
+
+TABLE Table_PFRebCalc "Reboiler Calculation"
+0, "Not a reboiler"
+1, "Internal thermosiphon"
+2, "External thermosiphon"
+3, "Kettle"
+END
+
+TABLE Table_PFSide "Side"
+1, "Top side (end A of layers)"
+1, "Back side (end A of layers)"
+2, "Right side"
+3, "Bottom side (end B of layers)"
+3, "Front side (end B or layers)"
+4, "Left side"
+END
+
+TABLE Table_PFCondAdj "Condensing Stream Adjustment"
+0, "Exit quality"
+1, "Flow rate"
+2, "Stream pressure"
+END
+
+TABLE Table_PFVLEMethod "VLE Method"
+1, "Ideal"
+2, "SRK"
+END
+
+TABLE Table_PFCalcArray "Precalc Arrays"
+0, "Full calculations"
+1, "Pre-calculate"
+2, "Program decides"
+END
+
+TABLE Table_PFIncLngCond "Include Longitudinal Conduction"
+0, "No"
+1, "Parting sheets"
+2, "Parting sheets and fins"
+END
+
+TABLE Table_PFDesGeom "Input Geometry for Design"
+0, "Ignore all geometry"
+1, "Use basic geometry only"
+2, "Use distributor geometry only"
+3, "Use all geometry"
+END
+
+TABLE Table_PFDesSHDP "Allowable DP for Design"
+0, "Frictional pressure drop only"
+1, "Static head + frictional for all upflow streams"
+2, "Static head + gravity for all upflow boiling streams"
+END
+
+TABLE Table_PFXMix "Crosspass Mixing"
+0, "No mixing"
+1, "Complete"
+END
+
+TABLE Table_PFDistPerfLoc "Distributor Performance Location"
+0, "Left"
+1, "Right"
+2, "Center"
+3, "Mean"
+END
+
+TABLE Table_PFFlowDir "Stream Flow Direction"
+-1, "B to A"
+1, "A to B"
+END
+
+TABLE Table_PFLayerFlowType "Platefin Layer Flow Type"
+1, "Axial flow"
+2, "Crossflow"
+END
+
+TABLE Table_PFLayerSectType "Platefin Layer Section Type"
+0, "Main"
+1, "Redistributor"
+END
+
+TABLE Table_PFEnd "Platefin End"
+0, "A"
+1, "B"
+END
+
+TABLE Table_PFTSCalc "Platefin Thermosyphon Calculation"
+1, "Calculate boiling flow rate"
+2, "Calculate required static head"
+END
+
+TABLE Table_PassLaneType "Passlane Type"
+0, "Unspecified"
+1, "Primary"
+2, "Secondary"
+END
+
+TABLE Table_PGenRegenOption "Runtime Property Generation Option"
+0, "Always"
+1, "If not generated"
+2, "If associated input changes"
+3, "Never"
+END
+
+TABLE Table_PFDoubleBankOption "Platefin Double-Banking Option"
+1, "Low heat load layers"
+2, "No special layers"
+END
+
+TABLE Table_PFRedistType "Platefin Redistributor Type"
+0, "None"
+1, "Splitting"
+2, "Combining"
+3, "Draw-off"
+END
+
+TABLE Table_LLPropMethod "Bulk Liquid-Liquid Property Method"
+1, "Mass weighted properties"
+2, "Use package mixing rules"
+END
+
+TABLE Table_TLOSquareAlignment "Square Layout Alignment"
+0, "Program set"
+1, "On vertical c/l"
+2, "On horizontal c/l"
+3, "On both c/l"
+4, "Off both c/l"
+END
+
+TABLE Table_BaffleCutAdjustment "Baffle Cut Adjustment"
+0, "Program set"
+1, "No adjustment"
+2, "On tube c/l"
+3, "Between rows"
+END
+
+TABLE Table_WidthOfRodsOption "Impingment Rods Width Option"
+0, "Use rod row width to nozzle diameter"
+1, "Cover tubes with rods"
+END
+
+TABLE Table_CriticalPointBasis "Critical Point Basis"
+0, "Local liquid phase "
+1, "Overall composition"
+END
+
+TABLE Table_CriticalPointMethod "Critical Point Basis"
+0, "Pseudo critical"
+1, "True critical"
+END
+
+TABLE Table_HighFinGeometryType "Fin Geometry Type"
+0, "Undefined"
+1, "I-Foot"
+2, "L-Foot"
+3, "Overlapped L-Foot"
+4, "Extruded"
+END
+
+TABLE Table_FillPasslaneOption "Fill Passlane Option"
+0, "Program Set"
+1, "Yes"
+2, "No"
+3, "Parallel lanes only"
+4, "Perpendicular lanes only"
+END
+
+TABLE Table_PropertyMechanism "Property Generation Mechanism"
+0, "Dynamic runtime properties"
+1, "Use property generator"
+END
+
+TABLE Table_PgenGridOption "Property Generation Grid Option"
+3, "Use process conditions"
+2, "Defined P and T ranges"
+1, "Defined P  and  T values"
+0, "Defined P values, T Ranges"
+END
+
+TABLE Table_DesignLogic "Design Logic"
+0, "Smart Design"
+1, "Grid Design"
+END
+
+TABLE Table_DesignBasePlateBasis "Design Basis Plate Basis"
+0, "Inside Diameter"
+1, "Outside Diameter"
+END
+
+TABLE Table_PassPartitionForm "Pass Partition Construction"
+0, "Program set"
+1, "Not tapered"
+2, "Tapered"
+END
+
+TABLE Table_SeriesUnitRunOrder "Series Unit Run Order"
+0, "Program decides"
+1, "First unit"
+2, "Last unit"
+END
+
+TABLE Table_SeriesDutyEstimate "Series Duty Estimation Option"
+0, "Estimated duty"
+1, "Est. fraction of max. duty"
+END
+
+TABLE Table_ChimneyShape "Chimney Shape"
+0, "Round"
+1, "Rectangular"
+END
+
+TABLE Table_ParallelCutLocation "Parallel Baffle Cut Location"
+0, "Program set"
+1, "Front"
+2, "Back"
+3, "Top"
+4, "Bottom"
+END
+

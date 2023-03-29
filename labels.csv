@@ -1,0 +1,2784 @@
+label,en,chs
+LBL_1STTUBEFLOWDIR,1st tube flow direction,第一管程的流动方向
+LBL_A,a,a
+LBL_ABC,"A, B, C","A, B, C"
+LBL_ABSDUTY,Absorbed duty,吸收的负荷
+LBL_ACCESS,Access,可见
+LBL_ACCESSFROM,Access from,可见自
+LBL_ACOUVIB,Acoustic Vibration Check,声学振动检查
+LBL_ACROSSBRNR,Across burner,穿过燃烧器
+LBL_ACROSSBUND,Across bundle,穿过管束
+LBL_ACROSSPLEN,Across plenum,穿过管箱
+LBL_ACTNUMTOSPEC,Actual number / specified,实际数量/指定数量
+LBL_ACTOAU,Act'l overall coeff,实际传热系数
+LBL_ACTTHRTDIA,Actual throat diameter,实际喉径
+LBL_ACTUAL,Actual,实际
+LBL_ACTUALU,Actual U,实际U
+LBL_ADDMASSFACT,Added mass factor,增加的质量系数
+LBL_ADJGAS,Adjacent Gas,邻近的气流
+LBL_AEDUKLERFLOWMAP,A.E. Dukler flow map,A.E. Dukler流型图
+LBL_AIR,Air,空气
+LBL_AIRFJCURVE,Airside FJ-Curve,空气侧FJ曲线
+LBL_AIRHUM,Air humidity,空气湿度
+LBL_AIRPREHEAT,Air preheater,空气预热器
+LBL_AIRSIDE,Airside,空气侧
+LBL_AIRSIDEFLUID,Airside Fluid,空气侧流体
+LBL_AIRSIDEPRESSDROP,Airside Pressure Drop,空气侧压降
+LBL_AIRSIDEVEL,Airside Velocities,空气侧流速
+LBL_AIRSIDEVELMAX,Maximum Airside Velocities,空气侧最大流速
+LBL_AIRSUPP,Air supply,空气供应
+LBL_AIRTEMP,Air temperature,空气温度
+LBL_ALLOWSTRESS,Allowable stress,许用应力
+LBL_ALTABVSEA,Altitude above sea level,海拔
+LBL_AMB,Ambient,环境
+LBL_AMBAIRCONDITIONS,Ambient Air Conditions,环境空气条件
+LBL_AMBAIRTEMPEFFCALC,"Ambient air temperature, efficiency calculation",环境空气温度，效率计算
+LBL_AMBAIRTEMPSTKDES,"Ambient air temperature, stack design",环境空气温度，烟囱设计
+LBL_AMBAIRTUREXH,Ambient / preheated air / gas turbine exhaust,环境/预热空气/燃气轮机排气
+LBL_AMBTEMPMAXMIN,"Ambient temperature, maximum / minimum",环境温度，最高/最低
+LBL_AMBTEMPMAXMIN2,"Ambient temperature, Max / Min",环境温度，最高/最低
+LBL_AMPLITUDE,Amplitude,振幅
+LBL_ANALFIRSTTUBEROW,analysis at first tube row,第一管排的分析
+LBL_ANALRESULTS,Analysis Results,分析结果
+LBL_ANCHOR,Anchor (Material and Type),锚（材料和类型）
+LBL_ANNUDISTR,Annular Distributor,环形分配器
+LBL_ANTOINEABTC,Antoine constants ln(VP) = A + B/(T + C),安托万常数 ln(VP) = A + B/(T + C)
+LBL_AONGAXIS,Along axis,轴向
+LBL_API530,API 530,API 530
+LBL_API530HEATFLUX,Heat Flux Parameters,热通量参数
+LBL_API530HEATTRANCOEF,Heat Transfer Coefficient Parameters,传热系数参数
+LBL_API530HTC,API 530 Process Heat Transfer Coefficient,API 530 工艺传热系数
+LBL_API530METALTEMP,API 530 Metal Temperature,API 530 金属温度
+LBL_API530METPROP,API 530 Metal Properties,API 530 金属性能
+LBL_API530OPERCOND,Operating Conditions,操作条件
+LBL_API530TUBEMETAL,Metal Temperature Parameters,金属温度参数
+LBL_API530TUBETHKDES,API 530 Tube Thickness Design,API 530 换热管厚度设计
+LBL_API560N1L1,"At design conditions, minimum of 90% of the available draft with air register fully open shall be",在设计条件下，至少有90%的可用风量在空气调节器完全打开的情况下被利用到整个燃烧器。
+LBL_API560N1L2,"utilized across the burner. In addition, a minimum of 75% of the air side pressure drop with air",此外，在空气调节器全开的情况下，整个燃烧器喉部应使用至少75%的空气侧压降。
+LBL_API560N1L3,registers full open shall be utilized across burner throat.,
+LBL_API560N2L1,Vendor to guarantee burner flame length.,供应商保证燃烧器的火焰长度。
+LBL_API560N3L1,"Vendor to guarantee excess air, heat release and draft loss across burner.",供应商保证多余的空气，热量释放和整个燃烧器的气流损失。
+LBL_APISTD560,API STD - 560,API STD - 560
+LBL_APITUBETHKNOTE1,"For elastic design (fraction of time in rupture regime = 0), the maximum tube temperature equals input for temperature at maximum operating pressure.  For rupture design (fraction of time in rupture regime > 0), the maximum allowable continuous temperature at average pressure is based on actual thickness selected to give design life, but limited to Maximum Design Metal Temperature for selected tube material.",对于弹性设计（破裂状态下的时间分数=0），最大管子温度等于最大工作压力下的温度输入。 对于破裂设计（破裂状态下的时间分数>0），平均压力下的最大允许连续温度是基于为设计寿命而选择的实际厚度，但仅限于所选管子材料的最大设计金属温度。
+LBL_APITUBETHKNOTE2,"Maximum elastic design temperature is limited to stress curve intersection temperature.  If tube is operated above this temperature, then rupture design controls and the average pressure shall not exceed pressure shown in the rupture design.",最大的弹性设计温度被限制在应力曲线的交点温度。 如果管子在这个温度以上运行，那么破裂设计就会受到控制，平均压力不得超过破裂设计中显示的压力。
+LBL_APITUBETHKNOTE3,The rupture analysis for a linear changing temperature profile is based on a lower limit of the start of run temperature and an upper limit of the end of run temperature. A tube operating continuously at the equivalent temperature will suffer the same creep damage as the one operating at the above linear profile.  Operation at a constant metal temperature above the equivalent temperature may result in a life shorter than the design life.,线性变化的温度曲线的断裂分析是基于运行开始温度的下限和运行结束温度的上限。 在等效温度下连续运行的管子将遭受与在上述线性剖面下运行的管子相同的蠕变损坏。 在高于等效温度的恒定金属温度下运行可能会导致寿命短于设计寿命。
+LBL_APITUBETHKNOTE4,The rupture design is performed at a constant temperature equal to the equivalent temperature and the specified design life.,破裂设计是在等于等效温度和指定设计寿命的恒定温度下进行的。
+LBL_APPSHELL,Approximate shellside,壳侧约
+LBL_APPSTRESS,Applied stress,施加应力
+LBL_APPTUBE,Approximate tubeside,管侧约
+LBL_ARCH,Arch,拱
+LBL_AREA,Area,面积
+LBL_AREAEXTBARE,Area Extended/Bare,延伸面积/基管面积
+LBL_AREALEN,Area/length,面积/长度
+LBL_AREAPERPLATE,Area per plate,每块板的面积
+LBL_AREARAT,Area ratio,面积比
+LBL_AREARATIOFINBARE,Area ratio (fin/bare),面积比（翅片/基管）
+LBL_AREARATIOOUTIN,Area ratio (out/in),面积比（出/进）
+LBL_ASTMEP,ASTM End Point,ASTM 终点
+LBL_ASTMIP,ASTM Initial Boiling Point,ASTM 初始沸点
+LBL_ASTMMP,ASTM Mid-Point,ASTM 中间点
+LBL_ASTMSPECGR,ASTM Specification and Grade,ASTM 规格和等级
+LBL_ASYMPASS,Asymmetric pass,非对称流程
+LBL_ATBURNERS,@ burners,燃烧器处
+LBL_ATDESTEMP,@design temp,设计温度
+LBL_ATFRONTHEAD,At front head,前总管
+LBL_ATMINAMBTEMP,@min. ambient temp,最小环境温度
+LBL_ATOMMEDAIRSTMMEC,Atomizing medium: air / steam / mechanical,雾化介质：空气/蒸汽/机械
+LBL_ATOMMEDOILRAT,Atomizing medium / oil ratio,雾化介质/油的比例
+LBL_ATOMSTMTEMP,Atomizing steam temp.,雾化蒸汽温度
+LBL_ATREARHEAD,At rear head,后总管
+LBL_ATTENMETH,Attenuation method,衰减法
+LBL_AVGCROSSFLOWVEL,Crossflow velocity ,横流速度
+LBL_AVGCROSSVELRAT,Average crossflow velocity ratio,平均横流速度比
+LBL_AVGFGCP,Average flue gas heat capacity,平均烟气热容
+LBL_AVGFILMCOEF,Average film coef.,平均薄膜传热系数
+LBL_AVGFLUX,Average flux,平均通量
+LBL_AVGFLUXOD,Average heat flux (OD),平均热通量（OD）
+LBL_AVGFLUXRATE,Average flux rate,平均通量率
+LBL_AVGGASTEMP,Average gas temperature,平均气体温度
+LBL_AVGINSDIA,Average inside diameter,平均内径
+LBL_AVGLONGFLOWVEL,Longitudinal velocity,纵向速度
+LBL_AVGMETTEMP,Avg metal temperature,平均金属温度
+LBL_AVGOUTDIA,Average outside diameter,平均外径
+LBL_AVGPLATEPIT,Average plate pitch,平均板间距
+LBL_AVGPRESS,Average pressure,平均压力
+LBL_AVGPRNNUM,Average Prandtl number,平均普朗特尔数
+LBL_AVGRADFLUXDENSALLOW,"Avg. rad. sect. flux density, allow.",允许的平均径向截面通量密度
+LBL_AVGRADFLUXDENSCALC,"Avg. rad. sect. flux density, calc.",计算的平均径向截面通量密度
+LBL_AVGSKINTEMP,Average skin temperature,平均表面温度
+LBL_AVGTHK,Avg. thickness,平均厚度
+LBL_AVGTUBEMET,Average tube metal,平均管金属
+LBL_AVGVEL,Average velocity,平均流速
+LBL_AVGWALLTHK,Average wall thickness,平均壁厚
+LBL_AXIAL,AXIAL,轴向
+LBL_AXIAL2,Axial,轴向
+LBL_AXIALSTRESS,Axial stress loading,轴向应力加载
+LBL_AXIALWITHDISTRIBUTOR,Axial with distributor,带分配器的轴流式
+LBL_B,b,b
+LBL_BACK,Back,后
+LBL_BACKEND,Back end,后端
+LBL_BACKWALLT,Back wall temperature,后壁温度
+LBL_BACKWARD,Backward,向后
+LBL_BAFFCUT,Baffle cut,折流板切口
+LBL_BAFFCUTDIA,Baffle cut (% dia),切口（%直径）
+LBL_BAFFCUTORI,Baffle cut orientation,折流板切口方向
+LBL_BAFFGEO,Baffle Geometry,折流板形状
+LBL_BAFFINFO,Baffle Information,折流板信息
+LBL_BAFFLAY,Baffle layout,折流板布局
+LBL_BAFFLEDATA,Baffle Data,折流板数据
+LBL_BAFFLES,Baffles,折流板
+LBL_BAFFORIENT,Baffle orientation,折流板方向
+LBL_BAFFOVERLAP,Baffle overlap,折流板重叠
+LBL_BAFFSPA,"Baffle spacing,",折流板间距
+LBL_BAFFTHICK,Baffle thickness,板厚
+LBL_BAFFTIPCROSSVELRAT,Baffle tip cross velocity ratio,折流板尖端交叉流速比
+LBL_BAFFTOSHELL,Baffle-to-shell,折流板到壳
+LBL_BAFFTYPE,Baffle type,折流板类型
+LBL_BAREAREA,Bare area,基管面积
+LBL_BAREAREABUND,Bare area/bundle,基管面积/管束
+LBL_BAREAREAUNIT,Bare area/unit (effective),基管面积/单位（有效）
+LBL_BARETUBENUM,Bare tubes: number,基管：数量
+LBL_BASE,Base,基地
+LBL_BASETHK,Base thickness,底部厚度
+LBL_BAYSPARAPERUNIT,Bays in parallel per unit,每个单元并列的托架
+LBL_BAYSPARAUNIT,Bays in parallel/unit,并列的托架/单元
+LBL_BE,BE,BE
+LBL_BEHINDTUBE,Behind tube,管子后面
+LBL_BETA,Beta,β
+LBL_BETWEENPADS,Between pads,垫子之间
+LBL_BEFOREEFFLEN,Before eff. Length,有效长度前
+LBL_AFTEREFFLEN,After eff. Length,有效长度后
+LBL_BLADE,Blade,叶片
+LBL_BLADEANG,Blade angle,叶片角度
+LBL_BLADES,blades,叶片
+LBL_BLOCKEDSIDES,Blocked sides,阻挡侧
+LBL_BOILFLOWREG,Boiling flow regime,沸腾流型
+LBL_BOILMECH,Boiling mechanism,沸腾机制
+LBL_BOILRANGE,Boiling range,沸腾范围
+LBL_BOILREG,Boiling regime,沸腾型
+LBL_BOILSIDEPIPDATA,Boiling Side Piping Data,沸腾侧的管道数据
+LBL_BOILTHINFILMH,Boiling thin film h,沸腾的薄膜h
+LBL_BOLTHING,Bolted / hinged,螺栓式/铰链式
+LBL_BOND,Bond,绑定
+LBL_BOTTOM,Bottom,底部
+LBL_BOTTOMVALUE,Bottom value,底部数值
+LBL_BOX,Box,盒子
+LBL_BOXBURNINFO,Burner information for gas space,燃气空间的燃烧器信息
+LBL_BOXBURNLOC,Burner Locations,燃烧器位置
+LBL_BOXBURNMON,Burner monitor,燃烧器监测
+LBL_BOXBURNPARAM,Burner Parameters,燃烧器参数
+LBL_BOXGEO,Box Geometry,箱形状
+LBL_BOXGSBURNPARAM,Gas Space Burner Parameters,燃气空间燃烧器参数
+LBL_BOXGSCONFIG,Gas Space Configuration,气体空间配置
+LBL_BOXHEATER,Box Heater,箱式加热器
+LBL_BOXHEATLOSSCOEF,Heat Loss Coefficients,热损失系数
+LBL_BOXINSCOEF,Insulation Specification,绝热规格
+LBL_BOXINSMAT,Insulation Materials and Thickness,绝热材料和厚度
+LBL_BOXNUMBURNERS,Number of Gas Space Burners,燃气空间燃烧器的数量
+LBL_BOXOPTIONAL,Box Heater Optional Data,箱式加热器可选数据
+LBL_BOXTUBEFLOWDIR,Tube Flow Direction,管内流动方向
+LBL_BOXTUBELOC,Tube Locations,管位置
+LBL_BOXTUBEPASSSEQ,Tube Pass Sequence,管程顺序
+LBL_BOXTUBESECTGEO,Tube Section Geometry,管截面形状
+LBL_BOXTUBESINKDEF,Tube Sink Definition,管状水槽的定义
+LBL_BREECHING,Breeching,裂缝
+LBL_BRNCIRDIA,Burner circle diameter,燃烧器圆直径
+LBL_BRNDATA,Burner data,燃烧器数据
+LBL_BRNDATASHT,Burner datasheet,燃烧器数据表
+LBL_BRNFIREDATA,Burner firing data,燃烧器点火数据
+LBL_BRNOXIDDENS,Burner oxidant density,燃烧器氧化剂密度
+LBL_BRNOXIDTEMP,Burner oxidant temperature,燃烧器氧化剂温度
+LBL_BRNOXIDVEL,Burner oxidant velocity,燃烧器氧化剂的速度
+LBL_BRNPLENUM,Burner plenum,燃烧器的管子
+LBL_BRNTILE,Burner tile,燃烧器瓷砖
+LBL_BRNWALLTHK,Burner wall lining thickness,燃烧器壁衬厚度
+LBL_BUBBLEPTAT,Bubble point at,气泡点在
+LBL_BUBDEWPROPERTYDATA,Bubble/Dew Point Property Data,泡沫/露点属性数据
+LBL_BULKFLUIDCOND,Bulk thermal conductivity,流体热导率
+LBL_BULKFLUIDVISC,Bulk fluid viscosity,流体粘度
+LBL_BULKPROC,Bulk processes,批量加工
+LBL_BULKTEMP,Bulk temperature,流体温度
+LBL_BUNDCROSSVEL,Bundle crossflow velocity,管束错流流速
+LBL_BUNDENTREXIT,Bundle Entrance/Exit,管束进口/出口
+LBL_BUNDIN,Bundle inlet,管束进口
+LBL_BUNDLE,Bundle,管束
+LBL_BUNDLEDATA,Bundle Data,管束数据
+LBL_BUNDLEFLOWFRACT,Bundle flow fraction,管束流量分数
+LBL_BUNDLEINFO,Bundle Information,管束信息
+LBL_BUNDLELAYOUTDATA,Bundle Layout Data,管束排管数据
+LBL_BUNDLETOP,Bundle top,管束顶部
+LBL_BUNDNUM,Bundle Number,管束编号
+LBL_BUNDOUT,Bundle outlet,管束出口
+LBL_BUNDPARABAY,Bundles in parallel/bay,并列/海湾中的管束
+LBL_BUNDPARAPERBAY,Bundles parallel per bay,捆绑式的每间房都是平行的
+LBL_BUNDSHELLVEL,Bundle/shell velocity,捆绑/外壳速度
+LBL_BUNDTOSHELL,Bundle-to-shell,捆绑到外壳
+LBL_BUNDWID,Bundle width,管束宽度
+LBL_BURNER,Burner,燃烧器
+LBL_BURNERMOM,Burner momentum,燃烧器动力
+LBL_BURNERNUM,Burner number,燃烧器编号
+LBL_BURNERS,Burners,燃烧器
+LBL_CALCABORT,Calculations Aborted,中断的计算
+LBL_CALCAIRFLOWMALDIST,Calculated Airside Flow Maldistribution Profile,计算的空气侧流量不良分布图
+LBL_CALCAIRTEMPMALDIST,Calculated Airside Temperature Maldistribution Profile,计算的空气侧温度不良分布图
+LBL_CALCCONT,Calculations Continue,继续计算
+LBL_CALCHEATFLUX,Calculated heat flux,计算的热通量
+LBL_CALCHEATRELLHV,Calculated heat release (LHV),计算的热释放（LHV）
+LBL_CALCINCR,Calculation increment,计算增量
+LBL_CALCULATED,Calculated,计算的
+LBL_CAPACITY,Capacity,能力
+LBL_CASE,Case,工况
+LBL_CASECONFIG,Case Configuration,工况配置
+LBL_CASEDESC,Case Description,工况描述
+LBL_CASINGMAT,Casing material,套管材料
+LBL_CASINGTEMP,Casing temperature,套管温度
+LBL_CASINGTHK,Casing thickness,套管厚度
+LBL_CENTER,Center,中心
+LBL_CENTSPACE,Central spacing,中心间距
+LBL_CHANGE,Change,变化
+LBL_CHANN,Channel,管箱
+LBL_CHANNCOV,Channel Cover,管箱封头
+LBL_CHANNMON,Channel Monitor,管箱监测
+LBL_CHANNPRESSDROP,Channel pressure drop,通道压降
+LBL_CHANNS,Channels,管箱
+LBL_CHANNSEP,Channels separated,通道分离
+LBL_CHANNSPAC,Channel spacing,通道间距
+LBL_CHANNVEL,Channel velocity,通道速度
+LBL_CHANNWID,Channel width,通道宽度
+LBL_CHANSPECDATA,Channel Specification Data,通道规格数据
+LBL_CHENNUM,Chen number,陈氏数
+LBL_CHEVANG,Chevron angle,V角
+LBL_CLEAN,Clean,清洁
+LBL_CLEANCOEF,Clean coef,清洁系数
+LBL_CLEARANCE,Clearance,清理
+LBL_CLEARDATA,Clearance data,清理数据
+LBL_CLOSURE,Closure,闭合
+LBL_CMBAIR,Combustion air,燃烧空气
+LBL_CMBDESCOND,Combustion design conditions,燃烧设计条件
+LBL_CMBDIL,Combustion diluent,燃烧稀释剂
+LBL_CMBFUEL,Combustion fuel,燃料
+LBL_CMBOXID,Combustion oxidant,燃烧氧化剂
+LBL_CMBSTRMPROP,Combustion Stream Properties,燃烧流属性
+LBL_CO,CO,CO
+LBL_COANAL,CO or NOx analyzer,CO或NOx分析仪
+LBL_COCURRENT,Cocurrent,并流
+LBL_COCURRENTFLOW,Cocurrent flow,并流
+LBL_COILARR,Coil arrangement,芯体布置
+LBL_COILDES,Coil design,线圈设计
+LBL_COKEALLOW,Coking allowance,炼焦津贴
+LBL_COKECOND,Coke thermal conductivity,焦炭的导热性能
+LBL_COKELAYTHK,Coke layer thickness,焦炭层厚度
+LBL_COLD,Cold,冷
+LBL_COLDFILMCOEFF,Cold film coefficient,冷膜系数
+LBL_COLDFLUID,Cold fluid,冷流体
+LBL_COLDIN,Cold Inlet,冷进口
+LBL_COLDINLETLOC,Cold inlet location,冷进口位置
+LBL_COLDLEGSPANPROFILE,Leg B Span Profiles Table,腿部B跨度型材表
+LBL_COLDOUT,Cold Outlet,冷出口
+LBL_COLDPASSES,Cold Passes,冷流程数
+LBL_COLDPASSNO,Cold pass #,冷流程
+LBL_COLDPASSNUM,Cold pass number,冷流程序号
+LBL_COLDPLATEWALLTEMP,Cold fluid plate wall temperature,冷流体板壁温度
+LBL_COLDREG,Cold regime,寒冷制度
+LBL_COLDSIDE,Coldside,冷侧
+LBL_COLDSIDE2,Cold side,冷侧
+LBL_COLDSIDEDELTAP,Coldside delta P,冷侧压差
+LBL_COLDSIDEH,Coldside h,冷侧h
+LBL_COLDUZARR,Cold U/Z arrangement,冷U/Z安排
+LBL_COLINOUTCOL,Column / Inlet / Outlet / Column,立柱/进水口/出水口/立柱
+LBL_COLUMNBOTTOM,Column bottom,柱底
+LBL_COMBUSTION,Combustion,燃烧
+LBL_COMMINT,Common / integra,共同的/不平等的
+LBL_COMMONPLATEDATA,Common Plate Data,通用板块数据
+LBL_COMMPLATEGEO,Common Plate Geometry,常见的板材几何形状
+LBL_COMP,Composition,构成
+LBL_COMPBOILMETHOD,Component boiling method,成分沸腾法
+LBL_COMPONENT,Component,组成部分
+LBL_COMPONENTDATA,Component Data,组件数据
+LBL_COMPONENTNUMBER,Component number,部件编号
+LBL_COMPVLEDATA,Component VLE Data,组件VLE数据
+LBL_COND,Conductivity,导电性
+LBL_CONDBOILCOEFF,Condensing/Boiling coefficient,冷凝/沸腾系数
+LBL_CONDFILMCOEF,Condensate film coefficient,冷凝液薄膜系数
+LBL_CONDFILMH,Condensate film h,冷凝液薄膜h
+LBL_CONDREG,Condensate regime,冷凝液制度
+LBL_CONEXPLOSS,Contraction/expansion loss,收缩/膨胀损失
+LBL_CONFIG,Configuration,配置
+LBL_CONNDIA,Connection diameter,连接直径
+LBL_CONNECTIONS,Connections,连接
+LBL_CONNMAT,Connection material,连接材料
+LBL_CONT,CONT,CONT
+LBL_CONTFJCURVEDATA,Control FJ-Curve Data,控制FJ-曲线数据
+LBL_CONTINUE, (cont.),(续)
+LBL_CONTLOSSTOWER,Contraction loss from tower,塔台的收缩损失
+LBL_CONTMETHODSDATA,Control Methods Data,控制方法数据
+LBL_CONTNAMEDATA,Control Name Data,控件名称数据
+LBL_CONTROLDATA,Control Data,控制数据
+LBL_CONTSAFETYDATA,Control Safety Data,控制安全数据
+LBL_CONTSHELLSINSERIES,Control Shells-in-Series,系列中的控制壳
+LBL_CONTUSERDEFMETH,Control User-Defined Methods Data,控制用户定义的方法数据
+LBL_CONTVIBDATA,Control Vibration Data,控制振动数据
+LBL_CONTVOL,Control volume,控制音量
+LBL_CONV,Convective,对流性
+LBL_CONVABREV,Conv.,Conv.
+LBL_CONVBOILH,Conv. boiling h,Conv. 沸点h
+LBL_CONVBOILH2,Convective boiling h,对流性沸腾h
+LBL_CONVDUTY,Convection duty,对流工作
+LBL_CONVECTIVE,Convective,对流性
+LBL_CONVFRAC,Convective fraction,对流部分
+LBL_CONVPRCMON,Convection Process Monitor,对流过程监控
+LBL_CONVSEC,Convection section,对流部分
+LBL_CONVSECGEO,Convection Section Geometry,对流部分的几何形状
+LBL_CONVSECOUTSUM,Convection Section Output Summary,对流部分的输出摘要
+LBL_CONVSECPERF,Convection Section Performance,对流部分的性能
+LBL_CONVSECTFLUXDENS,"CONV. SECT. FLUX DENSITY, (BARE TUBE)",理事长 隔离区。 通量密度，(基管)
+LBL_CONVSETLOSS,Convection setting loss,对流设置损失
+LBL_CONVWTFAC,Convective weight factor,对流权重系数
+LBL_CORBELWIDTH,Corbel width,墙角宽度
+LBL_CORBELYN,Corbels (yes or no),灯柱（是或不是）
+LBL_COREDIA,Core diameter,磁芯直径
+LBL_CORRACT,Corrosion actual,腐蚀的实际情况
+LBL_CORRALLOW,Corrosion allow,腐蚀允许
+LBL_CORRALLOWSPEC,Corrosion allowance specified,指定的腐蚀津贴
+LBL_CORRALLOWTUBE,"Corrosion allowance, tubes / fittings",腐蚀津贴，管道/配件
+LBL_CORRFRACB,Corrosion fraction (B),腐蚀部分 (B)
+LBL_CORRMTD,Corrected MTD,更正后的MTD
+LBL_CORROSION,Corrosion,腐蚀
+LBL_CORRPERCOVERD,Corrected percent overdesign,更正后的超额设计百分比
+LBL_CORRRATE,Corrosion rate,腐蚀率
+LBL_CORRTOO2,Corrected to 3% O2 (dry basis @ design heat release),纠正为3%的O2（干基，设计释放热量）。
+LBL_COSTFACTOR,Cost Factor,成本因素
+LBL_COUNT,Count,计数
+LBL_COUNTERCURFLOW,Countercurrent flow,逆流
+LBL_COUNTERCURRENT,Countercurrent,逆流
+LBL_CRITGAPVEL,Critical Gap Velocity,临界缝隙速度
+LBL_CRITHEATFLUX,Critical heat flux,临界热通量
+LBL_CRITPRESS,Critical pressure,临界压力
+LBL_CRITTEMP,Critical temperature,临界温度
+LBL_CRITVEL,Critical velocity,临界速度
+LBL_CRITVELRATIOMON,Critical Velocity Ratio Monitor,临界速度比显示器
+LBL_CROSS,Cross,叉叉
+LBL_CROSSAMP,Crossflow amplitude,横流振幅
+LBL_CROSSFLOW,Crossflow,横流
+LBL_CROSSFLOWFJCURVE,Shellside Crossflow FJ-Curve,壳边横流FJ-曲线
+LBL_CROSSOVER,Crossover,交叉点
+LBL_CROSSOVERS,Crossovers,交叉点
+LBL_CROSSPASSES,Crosspasses,交叉通道
+LBL_CROSSPASSINREG,Crosspasses in region,区域内的交叉通道
+LBL_CROSSRHOVSQ,Crossflow RHO-V-SQ,横流RHO-V-SQ
+LBL_CROSSSECTIONAREA,Cross section area,截面面积
+LBL_CROSSSHELL,Crosspasses/shellpass,折流次数
+LBL_CROSSVEL,Crossflow velocity,横流速度
+LBL_CTRCTR,Ctr-Ctr,Ctr-Ctr
+LBL_CUMMAREA,Cumulative area,累计面积
+LBL_CUMMDUTY,Cumulative duty,累计关税
+LBL_CUMUHEI,Cumulative height,累计高度
+LBL_CUTTWIST,Cut/Twist,剪切/扭转
+LBL_CWALLTEMP,Cold fluid tubewall temperature,冷流体管壁温度
+LBL_CYLCONFIG,Cylindrical Heater Configuration,圆柱形加热器配置
+LBL_CYLEMISS,Cylindrical Heater Emissivities,圆柱形加热器的辐射率
+LBL_CYLENGBAL,Cylindrical Radiant Section Energy Balance,圆柱形辐射截面能量平衡
+LBL_CYLFLUEGASCIRC,Cylindrical Heater Flue Gas Circulation,圆柱形加热器的烟道气循环
+LBL_CYLHEATER,Cylindrical Heater,圆柱形加热器
+LBL_CYLINSLOSSCOEF,Cylindrical Heater Insulation Loss Coefficients,圆柱形加热器的绝缘损耗系数
+LBL_CYLPROCMETH,Heater Process Methods,加热器工艺方法
+LBL_CYLTUBEGEO,Cylindrical Heater Tube Geometry,圆柱形加热管的几何形状
+LBL_DAMPERS,Dampers,减震器
+LBL_DAMPINGRATIO,Damping Ratio,阻尼比
+LBL_DAMPINGRATIOTABLE,Damping Ratio Table,阻尼比表
+LBL_DAMPREG,Damper or registers,风门或调节器
+LBL_DATA,Data,数据
+LBL_DATACHECKMESS,Data Check Messages,数据检查信息
+LBL_DATAFATALMSGS,See Data Check Message Report for Fatal Messages.,参见《致命信息的数据检查信息报告》。
+LBL_DATAINFOMSGS,See Data Check Messages Report for Informative Messages.,参见《数据检查信息报告》中的信息性信息。
+LBL_DATANOMSGS,No Data Check Messages.,没有数据检查信息。
+LBL_DATAUNITS,Units,单位
+LBL_DATAWARNINGMSGS,See Data Check Messages Report for Warning Messages.,警告信息见数据检查信息报告。
+LBL_DBLSEG,Double-Segmental,双段式
+LBL_DBLSEG2,Double-Seg.,双色球。
+LBL_DEBUGREPORT,Debug Report,调试报告
+LBL_DEG,deg,°
+LBL_DEG2,Deg,°
+LBL_DEGREES,degrees,学位
+LBL_DELTACORR,Delta MTD correction,Delta MTD校正
+LBL_DEN,Density,密度
+LBL_DESBASTUBEWALL,Design basis: tube wall thickness (code or specification),设计依据：管壁厚度（法规或规范）。
+LBL_DESCEXTSURF,Description of extended surface,扩展面的描述
+LBL_DESCONSTRAINTSDATA,Design Constraints Data,设计约束条件数据
+LBL_DESCRIT,Design criterion,设计标准
+LBL_DESFLDTEMP,Design fluid temperature,设计流体温度
+LBL_DESFLUEGASVEL,Design flue gas velocity,设计烟气速度
+LBL_DESIGN,Design,设计
+LBL_DESIGNDATA,Design Data,设计数据
+LBL_DESIGNGEOMETRYDATA,Design Geometry Data,设计几何数据
+LBL_DESLIFESTRESS,Design life for stress,压力的设计寿命
+LBL_DESMETTEMP,Design metal temperature,设计金属温度
+LBL_DESMODEUOP,HTRI has not confirmed nor endorsed the UOP heat transfer and pressure drop correlations used,HTRI没有确认也没有认可UOP所使用的传热和压降的相关性。
+LBL_DESOPTIONSDATA,Design Options Data,设计选项数据
+LBL_DESPRESAVG,Design pressure (average),设计压力（平均）
+LBL_DESPRESELRUP,"Design pressure, elastic / rupture",设计压力，弹性/断裂
+LBL_DESRES,Design results,设计结果
+LBL_DESTUBEMETTEMP,Design tube metal temperature,设计管金属温度
+LBL_DESWARNINGSDATA,Design Warnings Data,设计警告数据
+LBL_DETAPIPINFO,Detailed Piping Information,详细的管道信息
+LBL_DEWPTAT,Dew point at,露点在
+LBL_DIA,Diameter,直径
+LBL_DIACLEAR,Diametral Clearances,圆周率间隙
+LBL_DIAGRAM,Diagram,图示
+LBL_DIAGLEN,Diagonal length,对角线长度
+LBL_DIFFRES,Differential resistance,差分电阻
+LBL_DILUENT,Diluent,稀释剂
+LBL_DIMS,Dimensions,尺寸
+LBL_DIMA,Dimension A,尺寸A
+LBL_DIMB,Dimension B,尺寸B
+LBL_DIMHTTHK,Dimensions (height x diameter /thickness),尺寸（高 x 直径 / 厚）。
+LBL_DIMHTWID,"Dimension, Height / Width",尺寸，高度/宽度
+LBL_DIRFIRING,Direction of firing,开枪的方向
+LBL_DISTBRNCC,Distance burner center line to tube center line,燃烧器中心线到管子中心线的距离
+LBL_DISTBRNCR,Distance burner center line to unshielded refractory,燃烧器中心线到非屏蔽耐火材料的距离
+LBL_DISTCOMP,Distillation data or feed composition,蒸馏数据或进料组成
+LBL_DISTFRONT,Distance to front,到前面的距离
+LBL_DISTILLATION,Distillation,蒸馏
+LBL_DISTREAR,Distance to rear,与后方的距离
+LBL_DISTRIBUTORDATA,Distributor Data,经销商数据
+LBL_DISTRENTRY,Distributor entry,经销商入口
+LBL_DISTREXIT,Distributor exit,经销商退出
+LBL_DISTRMONITOR,Distributor monitor,经销商监控
+LBL_DISTTANG,Distance to tangent,与切线的距离
+LBL_DL,DL,DL
+LBL_DOORS,Doors,门
+LBL_DOWN,Down,下降
+LBL_DOWNWARD,Downward,下行
+LBL_DPALLOW,dP/Allow.,dP/允许。
+LBL_DPALLOWCLNFOUL,"Pressure drop, allowable (clean /fouled)",压降，允许的（清洁/污损）。
+LBL_DPALLOWIN,Pressure drop allowed in,允许的压降在
+LBL_DPCALCCLNFOUL,"Pressure drop, calculated (clean /fouled)",压降，计算（清洁/污损）。
+LBL_DPXBRNRDESHR,Pressure drop across burner @ design heat release,燃烧器上的压降@设计放热量
+LBL_DR,DR,医师
+LBL_DRAFT,Draft,草案
+LBL_DRAFTARCH,Draft @ Arch,草案@拱门
+LBL_DRAFTAVAIL,Draft available,现有草案
+LBL_DRAFTBRIDGEWALL,Draft @ bridgewall,草案 @ 桥头堡
+LBL_DRAFTFLOOR,Draft @ floor,草案@地板
+LBL_DRAFTFORCED,FORCED,被迫的
+LBL_DRAFTINDUCED,INDUCED,诱导
+LBL_DRAFTLOSS,Draft (air pressure) loss,吃水（空气压力）损失
+LBL_DRAFTREL,Draft rel. arch @ 0.1 inH2O,在0.1 inH2O的情况下，起草相关的拱门
+LBL_DRAFTTYPE,Draft type: forced / natural / induced,起风类型：强制/自然/诱导
+LBL_DRAFTUNSPECIFIED,UNSPECIFIED,未说明
+LBL_DRIVER,Driver,驱动程序
+LBL_DU,DU,DU
+LBL_DUCTS,Ducts,风道
+LBL_DUKLERMAPFLOWREG,Dukler map flow regime,杜克勒地图流量制度
+LBL_DUROPERPER,Duration of operating period,运行期
+LBL_DUTY,Duty,职责
+LBL_DUTYCNV,Duty absorbed by convection,通过对流吸收的义务
+LBL_DUTYRAD,Duty absorbed by radiation,辐射吸收的义务
+LBL_DUTYRAT,Duty ratio,负载率
+LBL_DX,DX,DX
+LBL_DXORG,DX relative to origin,相对于原点的DX
+LBL_DY,DY,DY
+LBL_DYORG,DY relative to origin,相对于原产地的DY
+LBL_DZ,DZ,DZ
+LBL_DZORG,DZ relative to origin,相对于原点的DZ
+LBL_EDGESEALS,Edge seals,边缘密封
+LBL_EFFAREA,Eff. area,有效面积
+LBL_EFFECTAREA,Effective area,有效面积
+LBL_EFFJETOPEN,Effective jet opening,有效喷射口
+LBL_EFFLEN,Effective length,有效长度
+LBL_EFFLHV,Efficiency (LHV),效率（LHV）。
+LBL_EFFMEANTEMPDIFF,Effective mean temperature difference,有效平均温差
+LBL_EFFOVERTEMPDIFF,Effective overall temperature difference,有效温差
+LBL_EFFTEMP,Eff. temp,强度温度
+LBL_EFFTUBELEN,Effective tube length,有效管长
+LBL_EFFY,Efficiency,效率
+LBL_ELASTDESPRES,Elastic design pressure,弹性设计压力
+LBL_ELASTDESRES,Elastic design results,弹性设计结果
+LBL_ELASTMOD,Elastic modulus,弹性模量
+LBL_ELEMENT,Element,元素
+LBL_ELETYPE,Element type,元素类型
+LBL_EMISS,Emissivity,辐射率
+LBL_EMISSREQ,Emission requirements,排放要求
+LBL_EMISSSINK,Emissivity of sink,水槽的发射率
+LBL_EMTD,EMTD,EMTD
+LBL_ENBALPCTHEAT,"Energy Balance, % of Total Heat Available",能量平衡，占可用总热量的百分比
+LBL_END,End,结束
+LBL_ENDOFPERIOD,End of Period,期末
+LBL_ENDOFRUN,EOR,EOR
+LBL_ENDOFRUN2,End of Run,运行结束
+LBL_ENDS,Ends,结束语
+LBL_ENERGYBAL,Energy balance,能量平衡
+LBL_ENHANCEDDPMULT,Enhanced pressure drop mult,增强压降多
+LBL_ENHANCEDHTMULT,Enhanced heat transfer mult,增强传热多
+LBL_ENTERING,Entering,进入
+LBL_ENTHALPY,Enthalpy,焓
+LBL_ENTRANCE,Entrance,入口处
+LBL_ENVAREA,Envelope area,信封区域
+LBL_EQUIDIA,Equivalent diameter,等效直径
+LBL_EQUILEN,Equivalent length,等效长度
+LBL_EQUISHEARSTR,Equivalent shear stress,等效剪切应力
+LBL_EQUITEMP,Equivalent temperature,等效温度
+LBL_EQUITEMPCALC,Equivalent temperature calculation,等效温度计算
+LBL_EQUIVALENT,Equivalent,等价物
+LBL_EXAIRDESHR,Excess air @ design heat release,多余的空气@设计放热
+LBL_EXCESSAIR,Excess air,多余的空气
+LBL_EXCHFLUIDVOL,Exchanger Fluid Volumes,容积
+LBL_EXCHPERF,Exchanger Performance,热交换器性能
+LBL_EXIT,Exit,退出
+LBL_EXITPIPECHORATIO,Exit pipe choke ratio,出口管道扼流圈比率
+LBL_EXITVERHEADHEI,Exit vertical header height,出口垂直标题高度
+LBL_EXITVERPIPEFLOWREG,Exit Vertical Pipe Flow Regime (Estimated),出口垂直管道流量制度（估计值）
+LBL_EXPLOSSTOWER,Expansion loss into tower,进入塔台的膨胀损失
+LBL_EXPTUBELIFE,Expected tube life,预期的管子寿命
+LBL_EXPVTWALLS,Exposed vertical walls,暴露的垂直墙面
+LBL_EXTAREA,Extended area,扩展区域
+LBL_EXTAREABUND,Extended area/bundle,扩展区/捆绑区
+LBL_EXTAREAPERBUND,Extended area per bundle,每一捆的扩展面积
+LBL_EXTAREAPERUNIT,Extended area per unit (effective),每单位扩展面积（有效）
+LBL_EXTAREAUNIT,Extended area/unit (effective),扩展面积/单位（有效）
+LBL_EXTENHTUBEGEO,Externally Enhanced Tube Geometry,外部增强型管子的几何形状
+LBL_EXTLINING,Extent of lining,衬垫的范围
+LBL_EXTRATIO,Extension ratio (total area / bare area),扩展率（总面积/裸露面积）
+LBL_EXTSURFTUBENUM,Extended surface tubes: number,扩展表面管：数量
+LBL_FACE,Face,脸部
+LBL_FACEVEL,Face velocity,面部速度
+LBL_FACTOR,Factor,因素
+LBL_FACTXMINCRV,Factor times minimum curve,系数乘以最小曲线
+LBL_FAIRMAPREG,Fair map regime,公平的地图制度
+LBL_FALLFILM,Falling Film,坠落的电影
+LBL_FANAREABLOCK,Fan area blockage,风扇区堵塞
+LBL_FANDESCPOW,Fan Description and Fan Power,风扇描述和风扇功率
+LBL_FANDRIEFF,Fan and drive efficiency,风扇和驱动器的效率
+LBL_FANGEO,Fan Geometry,风扇的几何形状
+LBL_FANGUARD,Fan guard,风扇护罩
+LBL_FANPOWER,Driver (design/min. ambient),驱动器（设计/环境）
+LBL_FANRATING,Fan Rating,风扇等级
+LBL_FANRING,Fan ring,扇形环
+LBL_FANRING15DEG,15 deg,15度
+LBL_FANRING30DEG,30 deg,30度
+LBL_FANRINGBELL,Bell,贝尔
+LBL_FANRINGFLANGED,Flanged,法兰盘式
+LBL_FANRINGSTRAIGHT,Straight,直线
+LBL_FANRINGTYPE,Fan ring type,风扇环型
+LBL_FANS,Fan(s),扇子(s)
+LBL_FANSDATA,Fans Data,粉丝数据
+LBL_FANSIZE,Fan Size,风扇尺寸
+LBL_FANSPEED,Fan speed,风扇速度
+LBL_FAPI530FIG1,F (per API 530 Figure 1),F (根据API 530图1)
+LBL_FATALERR,Fatal errors,致命的错误
+LBL_FATALMSGS,Fatal Messages,致命信息
+LBL_FB,FB,基金会
+LBL_FBOXBWTEMP,Firebox bridgewall temperature,火箱桥壁温度
+LBL_FBOXHT,Firebox height,火箱高度
+LBL_FBOXMON,Firebox Monitor (Box Heater),火箱监控器（箱式加热器）
+LBL_FBOXTAB,Firebox Tables (Box Heater),火箱表（箱式加热器）
+LBL_FCYLMON,Firebox Monitor (Cylindrical Heater),火箱显示器（圆柱形加热器）
+LBL_FCYLTAB,Firebox Tables (Cylindrical Heater),火箱表(圆柱形加热器)
+LBL_FE,FE,基金会
+LBL_FEED,Feed,饲料
+LBL_FFACT,f-Factor,f-Factor
+LBL_FFACTORAB,f-Factor a and b,f-系数a和b
+LBL_FGWALLS,Flue gas entering side walls,进入侧壁的烟气
+LBL_FHTRDATASHT,Fired heater data sheet,燃烧的加热器数据表
+LBL_FILM,Film,电影
+LBL_FILMBOILH,Film boiling h,薄膜沸腾h
+LBL_FILMCOEFBAREEXT,"Film coefficient, Bare/Extended",薄膜系数，裸露的/扩展的
+LBL_FIN,Fin,翅片
+LBL_FINPADMAIN,Fin pad - main fin,翅片垫 - 主翅
+LBL_FINAL,Final,最后
+LBL_FINALRES,Final Results,最终结果
+LBL_FINALSNDMETTHK,Final sound metal thickness,最终健全的金属厚度
+LBL_FINDATA,Fin Data,财务数据
+LBL_FINDEN,Fin density,翅片密度
+LBL_FINEFF,Fin Efficiency,翅片效率
+LBL_FINGEO,Fin Geometry,翅片的几何形状
+LBL_FINHEI,Fin height,翅片高度
+LBL_FINMATERIAL,Fin material,翅片材料
+LBL_FINNED,Finned,翅片式
+LBL_FINROOT,Fin root,翅根
+LBL_FINROOTDIA,Fin root diameter,翅根直径
+LBL_FINS,fins,翅片
+LBL_FINSPERLENGTH,Fins per unit length,每单位长度的鱼鳍
+LBL_FINSPERLENGTH2,Fins/length,鳍/长度
+LBL_FINTHICK,Fin thickness,翅片厚度
+LBL_FINTHICKNESSBASE,Fin thickness at base,底部的翅片厚度
+LBL_FINTHICKNESSTIP,Fin thickness at tip,顶端的翅片厚度
+LBL_FINTIPTEMP,Fin tip temperature,翅尖温度
+LBL_FINTYPE,Fin type,翅片类型
+LBL_FINPAD12,Fin type - pad 1/2,翅片类型 - 垫1/2
+LBL_FINPAD123,Fin type - pad 1/2/3,翅片类型 - 垫1/2/3
+LBL_FINTYPENONE,None,无
+LBL_FINTYPERECTANGULAR,Rectangular,长方形
+LBL_FINTYPEROUND,Round,圆的
+LBL_FINTYPEROUNDPLAIN,Plain round,普通圆形
+LBL_FINTYPEROUNDSEG,Segmented round,分段式圆形
+LBL_FINTYPEROUNDSTUDS,Round studs,圆形螺柱
+LBL_FINTYPEDTS,Circular,循环
+LBL_FIREDIR,Firing direction,射击方向
+LBL_FIRGROUP,First group,第一组
+LBL_FIRST,First,首先
+LBL_FITALLOW,Fitting allowance,装配余量
+LBL_FJAREB,fj=aRe^b,fj=aRe^b
+LBL_FL,FL,FL
+LBL_FLAMEDET,Flame detection,火焰检测
+LBL_FLAMEDETECT,"Flame detection, type",火焰检测，类型
+LBL_FLAMELEN,Flame length,火焰长度
+LBL_FLAMELENDESHR,Flame length @ design heat release,火焰长度@设计释放热量
+LBL_FLAMELENEQN,Flame Length =\nF * A * (Burner Duty) ** B,火焰长度 = nF * A * (燃烧器负载) ** B
+LBL_FLAMESHAPE,"Flame shape (round, flat, etc.)",火焰形状（圆形、扁平等）
+LBL_FLANGEMAT,Flange material,法兰盘材料
+LBL_FLANGESIZE,Flange size and rating,法兰盘尺寸和额定值
+LBL_FLANGESIZE2,Flange size / rating,法兰盘尺寸/额定值
+LBL_FLOOR,Floor,地板
+LBL_FLOORSURFACE,Floor surface,地板表面
+LBL_FLOW,Flow,流程
+LBL_FLOWAREA,Flow area,流动面积
+LBL_FLOWAREAPAD1,Flow area - pad 1,流动区域 - 垫子1
+LBL_FLOWAREAPAD2,Flow area - pad 2,流动区域 - 垫子2
+LBL_FLOWAREAPAD3,Flow area - pad 3,流动区域 - 垫层3
+LBL_FLOWAREAEFFLEN,Flow area - eff. length,流动面积-有效长度
+LBL_FLOWCONF,Flow configuration,流量配置
+LBL_FLOWCONFFIRHOTCHANN,"Flow configuration, first hot channel",流量配置，第一个热通道
+LBL_FLOWCONFIG1STHCHAN,Flow configuration in first hot channel,第一个热通道的流量配置
+LBL_FLOWCONFIGOVERALL,Flow configuration overall,流动配置整体
+LBL_FLOWDISTMON,Flow Distribution Monitor,流量分布监测器
+LBL_FLOWFRAC,Flow Fractions,流动分量
+LBL_FLOWFRACHEATTRANS,Flow fractions for heat transfer,传热的流量分数
+LBL_FLOWFRACVAP,Flow fractions for vapor phase,气相的流动分量
+LBL_FLOWPATH,Flow path,流动路径
+LBL_FLOWPATHACROSSPLATE,Flow path across plate,流过板块的路径
+LBL_FLOWRATE,Flow rate,流速
+LBL_FLOWREGPARAM,Flow regime param.,流动系统参数。
+LBL_FLOWREGPARAMETER,Flow regime parameter,流动制度参数
+LBL_FLOWVEL,Flow Velocities,流动速度
+LBL_FLUEGAS,Flue Gas,烟道气
+LBL_FLUEGASCMBPRES,Flue gas / combustion air pressure,烟气/燃烧空气压力
+LBL_FLUEGASCMBTEMP,Flue gas / combustion air temperature,烟气/燃烧空气温度
+LBL_FLUEGASCOEF,Flue Gas coefficient,烟气系数
+LBL_FLUEGASCOND,Flue Gas Conditions,烟道气条件
+LBL_FLUEGASEXIT,Flue Gas Properties leaving indicated stack element,离开指定烟囱元件的烟气特性
+LBL_FLUEGASFEED,Flue Gas Feed,烟道气进气
+LBL_FLUEGASFILM,Flue gas film coefficient,烟道气膜系数
+LBL_FLUEGASFLOW,Flue gas flow monitor,烟气流量监测器
+LBL_FLUEGASINLET,Flue Gas Inlet,烟道气入口
+LBL_FLUEGASMON,Flue Gas Monitor,烟道气体监测仪
+LBL_FLUEGASQUANT,Flue gas quantity,烟气量
+LBL_FLUEGASROW,Flue Gas Properties leaving indicated convection tube row,离开指定对流管行的烟气特性
+LBL_FLUEGASSAMP,Flue gas sample,烟气样品
+LBL_FLUEGASINOUTT,Flue gas inlet/outlet temperature,烟气入口/出口温度
+LBL_FLUEGASINOUTP,Flue gas inlet/outlet pressure,烟气入口/出口压力
+LBL_FLUEGASTEMP,Flue gas temp.,烟道气温度。
+LBL_FLUEGASTEMPIN,Flue gas temperature in,烟气温度在
+LBL_FLUEGASTEMPLEAVING,Flue gas temperature leaving:,离开的烟气温度。
+LBL_FLUEGASTEMPOUT,Flue gas temperature out,烟道气温度出
+LBL_FLUEGASVEL,Flue gas mass velocity through convection section,通过对流部分的烟气质量速度
+LBL_FLUID,Fluid,流体
+LBL_FLUIDCOND,Fluid condition,流体状态
+LBL_FLUIDDEN,Fluid density,流体密度
+LBL_FLUIDFORBND,Tubeside Fluid for Stack Bundle,用于堆栈捆绑的管侧流体
+LBL_FLUIDFORUNIT,Fluid for Unit,单位的流体
+LBL_FLUIDINST,Fluidelastic Instability Check,流体弹性不稳定性检查
+LBL_FLUIDINSTCONS,Fluidelastic instability constant,流体弹性不稳定常数
+LBL_FLUIDINSTRAT,Fluidelastic instability ratio,流体弹性不稳定比率
+LBL_FLUIDLEAKMTDCORR,Fluid leakage MTD correction,流体泄漏MTD校正
+LBL_FLUIDNAME,Fluid name,流体名称
+LBL_FLUIDPHASE,Fluid phase,流动相
+LBL_FLUIDTEMP,Fluid temperature,流体温度
+LBL_FLUXSINKZONE,Fluxes to Sink Zones,通向下沉区的通量
+LBL_FORCEFLOWREB,Forced-flow reboiler,强制流再沸器
+LBL_FORHVYOIL,(For heavy oil firing added 0.5 feet),(对于重油燃烧，增加0.5英尺）
+LBL_FORWARD,Forward,前进
+LBL_FOULFAC,Fouling factor,污损因子
+LBL_FOULING,Fouling,犯规
+LBL_FOULINOUT,"Fouling factor, Inside/Outside",污损因素，内部/外部
+LBL_FOULLAY,Fouling layer,污损层
+LBL_FOULLAYTHICK,Fouling layer thickness,污损层厚度
+LBL_FOULRES,Fouling resistance,污垢热阻
+LBL_FOULTHICK,Fouling thickness,结垢厚度
+LBL_FOURVALUESPERPOINT,Four values printed  in pressure drop monitor per data point:,每个数据点在压降监测仪中打印四个数值。
+LBL_FRACCONV,Fraction convection,馏分对流
+LBL_FRACOPEN,Fraction open,打开的部分
+LBL_FRACSINK,Fraction Sink,分数水槽
+LBL_FRACSRCS,Fractional Sources,分数来源
+LBL_FRACTIMERUPREG,Fraction of time in rupture regime,处于断裂状态的时间比例
+LBL_FRACTION,Fraction,分数
+LBL_FRACTSINK,Fract. Sink,分数。 水槽
+LBL_FRACUP,Frac Up,裂解
+LBL_FREESPCPLEN,Free space below plenum,储气罐下方的自由空间
+LBL_FREQUENCY,Frequency,頻率
+LBL_FRICFAC,Friction factor,摩擦系数
+LBL_FRICFACMULT,Friction factor multiplier,摩擦系数乘数
+LBL_FRICLOSS,Friction loss,摩擦损失
+LBL_FRICLOSSFIT,Frictional loss in fittings,配件中的摩擦损失
+LBL_FRICLOSSPIPE,Frictional loss in pipe,管道中的摩擦损失
+LBL_FRICPRESSDROP,Frictional pressure drop,摩擦压降
+LBL_FRICTION,Friction,摩擦力
+LBL_FRICPAD1,Friction in pad 1,垫子1中的摩擦力
+LBL_FRICPAD2,Friction in pad 2,垫子2的摩擦力
+LBL_FRICPAD3,Friction in pad 3,垫子3的摩擦力
+LBL_FRONT,Front,正面
+LBL_FRONTEND,Front end,前端
+LBL_FRONTHEAD,Front head,前面的头
+LBL_FRONTHEADLOC,Front head location,前部头部位置
+LBL_FRONTWALLT,Front wall temperature,前壁温度
+LBL_FSTRSEALRODNO,No.,数量
+LBL_FSTRSEALRODS,Passlane seal rods,分程密封杆
+LBL_FUEL,Fuel,燃油
+LBL_FUELAIRDILRATE,Fuel + Air + Diluent rate,燃料+空气+稀释剂率
+LBL_FUELCHAR,Fuel characteristics,燃料特性
+LBL_FUELEFFCALC,"Fuel efficiency calculated, % (LHV)",计算的燃料效率，%（LHV）。
+LBL_FUELEFFGUAR,"Fuel efficiency guaranteed, % (LHV)",保证的燃料效率，% (LHV)
+LBL_FUELGASCOMP,Fuel gas composition (mole %),燃料气体的组成（摩尔%)
+LBL_FUELHHV,Fuel energy based on HHV,基于HHV的燃料能量
+LBL_FUELLHV,Fuel energy based on LHV,基于LHV的燃料能量
+LBL_FUELLHV2,Fuel (LHV),燃料(LHV)
+LBL_FUELPRES,Fuel pressure,燃油压力
+LBL_FUELPRESBRN,Fuel pressure available @ burner,燃烧器处的可用燃油压力
+LBL_FUELPRESREQ,Fuel pressure required,所需的燃油压力
+LBL_FUELRATE,Fuel rate,燃油率
+LBL_FUELTEMPBRN,Fuel temperature @ burner,燃烧器处的燃料温度
+LBL_FUELTYPE,Fuel type,燃料类型
+LBL_FULLBAFFUBEND,Full baffle at U-bend,U型弯道处的全挡板
+LBL_FULLSUPUBEND,Full support at U-Bend,在U-Bend的全面支持
+LBL_FUTPERIOD,Future period,未来时期
+LBL_FUTUREDAMAGE,Future Damage Evaluation,未来的损害评估
+LBL_GALVREQ,Galvanizing requirements,镀锌要求
+LBL_GAMMA,Gamma,伽玛
+LBL_GAPVEL,Gap Velocity,间隙速度
+LBL_GAS,Gas,燃气
+LBL_GASFUELCHAR,Gas fuel characteristics,气体燃料特性
+LBL_GASKETS,Gaskets,垫片
+LBL_GASRADAT,Gas radiates at,气体辐射在
+LBL_GASSPACE,Gas space,气体空间
+LBL_GASSPACENUM,Gas space number,气体空间数
+LBL_GASSPACEQBAL,Gas space energy balance,气体空间能量平衡
+LBL_GASSPACES,Gas spaces,气体空间
+LBL_GASSPACEWALL,Gas space wall,燃气空间墙
+LBL_GASTEMP,Gas temperature,气体温度
+LBL_GASTEMPMON,Gas Temperature Monitor,气体温度监测器
+LBL_GASTYPE,Gas type,气体类型
+LBL_GEN,General,一般
+LBL_GENDATA,General data,一般数据
+LBL_GEO,Geometry,几何学
+LBL_GEODATA,Geometry data,几何数据
+LBL_GRAYGASEMIS,Gray gas emissivity,灰气辐射率
+LBL_GROUNDCLEAR,Ground clearance,离地间隙
+LBL_GROUPMON,Group Monitor,集团监控
+LBL_GROUPNO,Group #,组 #
+LBL_GROUPNUM,Group number,组别编号
+LBL_GROUPNUM2,Group Number,集团编号
+LBL_GS1,GS1,GS1
+LBL_GS2,GS2,GS2
+LBL_GS3,GS3,GS3
+LBL_HAILSCREEN,Hail screen,冰雹屏幕
+LBL_HALFPLNRANG,Half planar angle,半平面角
+LBL_HCESTOPTION,Hydrocarbon Estimation Option,油气估算选项
+LBL_HCRATIO,H / C Ratio (By Weight),H/C比率（按重量计算）
+LBL_HEADBOX,Header Box,标题框
+LBL_HEADBOXES,Header boxes,标题框
+LBL_HEADDEP,Header - depth,页眉--深度
+LBL_HEADDEP2,Header depth,页眉深度
+LBL_HEADERPIPEID,Header inside diameter,头部内径
+LBL_HEADERPIPELEN,Header length,标头长度
+LBL_HEADPIPE,Header Pipe,头管
+LBL_HEADERPAD3,Header - pad 3,接头 - 垫3
+LBL_HEADERFINPAD,Header - fin pad,接头 - 翅片垫
+LBL_HEADERLOC,Header location,页眉位置
+LBL_HEATABS,Heat absorption,吸热
+LBL_HEATAVAILBRN,Heat available via burners,通过燃烧器提供热量
+LBL_HEATBOX,Heat into box,加热入箱
+LBL_HEATBRN,Heat release per burner,每个燃烧器的热量释放
+LBL_HEATCAP,Heat capacity,热容量
+LBL_HEATCONT,Heat content,热量含量
+LBL_HEATDUTY,Heat Duty,热力值
+LBL_HEATDUTYCALSPE,"Heat duty, Calculated/Specified",热负荷，计算/指定
+LBL_HEATDUTYTOFLOWRATE,Heat duty/flow rate,热负荷/流速
+LBL_HEATEFF,Heater efficiency,加热器效率
+LBL_HEATERSECT,Heater section,加热器部分
+LBL_HEATERSURF,Heater surface,加热器表面
+LBL_HEATFLUX,Heat flux,热通量
+LBL_HEATLOSS,Heat loss,热量损失
+LBL_HEATPARAM,Heater parameters,加热器参数
+LBL_HEATREL,Heat release,热量释放
+LBL_HEATRELLHV,Heat release (LHV),热量释放（LHV）
+LBL_HEATRELTOT,Heat release (Total),热量释放（总量）
+LBL_HEATTRAN,Heat transfer,热传递
+LBL_HEATTRANCOEFF,Heat transfer coefficient,传热系数
+LBL_HEATTRANPARA,Heat Transfer Parameters,传热参数
+LBL_HEATTRANPRESSDROPPARA,Heat Transfer and Pressure Drop Parameters,传热和压降参数
+LBL_HEATTRANSAFFAC,Heat transfer safety factor,传热安全系数
+LBL_HEATVAL,Heating value,热值
+LBL_HEIABOSHELL,Height above shell,壳体以上的高度
+LBL_HEICHANGE,Height change,高度变化
+LBL_HEIGHT,Height,高度
+LBL_HEIUNDINLETNOZZ,Height under inlet nozzle,进气口下的高度
+LBL_HEIUNDNOZZ,Height under nozzle,喷头下的高度
+LBL_HEIUNDOUTLETNOZZ,Height under outlet nozzle,出口喷嘴下的高度
+LBL_HELICOREPROFILE,Helicore profile,Helicore简介
+LBL_HELIXANGLE,Helix angle,螺旋角
+LBL_HELICALLEAD,Helical lead,螺旋形导线
+LBL_HHV,HHV,HHV
+LBL_HIGHFINDPMETHOD,High-fin pressure drop method,高翅压降法
+LBL_HIGHFINHTMETHOD,High-fin heat transfer method,高翅传热法
+LBL_HINDOOR,Hinged door / bolted panel,铰链式门/螺栓式面板
+LBL_HORIDISPORTCENT,Horizontal distance of port centers,港口中心的水平距离
+LBL_HORIPORTCC,Horizontal port c-c,水平口c-c
+LBL_HORZ,Horizontal,卧式
+LBL_HORZ2,Horz.,卧式
+LBL_HOT,Hot,热
+LBL_HOTFACETEMP,"Hot face temperature, Design / Calculated",热面温度，设计/计算
+LBL_HOTFILMCOEFF,Hot film coefficient,热膜系数
+LBL_HOTFLUID,Hot fluid,热液
+LBL_HOTIN,Hot Inlet,热进水口
+LBL_HOTINFLOWDIR,Hot inlet flow direction,热入口流向
+LBL_HOTLEGSPANPROFILE,Leg A Span Profiles Table,腿部A跨度型材表
+LBL_HOTOUT,Hot Outlet,热销产品
+LBL_HOTPASSES,Hot Passes,热门通行证
+LBL_HOTPASSNO,Hot pass #,热传 #
+LBL_HOTPASSNUM,Hot pass number,热传号
+LBL_HOTPLATEWALLTEMP,Hot fluid plate wall temperature,热流体板壁温度
+LBL_HOTREG,Hot regime,热门制度
+LBL_HOTSIDE,Hotside,霍特塞德
+LBL_HOTSIDE2,Hot side,热面
+LBL_HOTSIDEDELTAP,Hotside delta P,热点三角洲P
+LBL_HOTSIDEH,Hotside h,Hotside h
+LBL_HOTUZARR,Hot U/Z arrangement,热门的U/Z安排
+LBL_HOURS,Hours,小时
+LBL_HRENTRYTYPE,Heat release entry type,热释放入口类型
+LBL_HTABVGR,Height above grade,高于地面的高度
+LBL_HTPARA,H. T. Parameters,H.T.参数
+LBL_HTRCASETHK,Heater casing thickness,加热器外壳厚度
+LBL_HTRHEATER,Height of heater,加热器的高度
+LBL_HTRTEMPPROF,Heater Temperature Profile,加热器温度曲线
+LBL_HTEFFLEN,HT effective length,HT有效长度
+LBL_HWALLTEMP,Hot fluid tubewall temperature,热液管壁温度
+LBL_HYDSTATPRES,Hydrostatic test pressure,静水试验压力
+LBL_HZ,Hz,赫兹
+LBL_HZ2,HZ,HZ
+LBL_ID,ID,身份证
+LBL_IGNMETH,Ignition method,点火方式
+LBL_IGNPORT,Ignition port,点火口
+LBL_IMPDATA,Impingement data,撞击数据
+LBL_IMPDIANOZZ,Impingement diameter/nozzle,撞击直径/喷嘴
+LBL_IMPLENWIDTH,Imp. length/width,印象中的长度/宽度
+LBL_IMPPLATE,Impingement plate,撞击板
+LBL_IMPDEVICE,Impingement device,撞击装置
+LBL_IMPPRES,Impingement present,防冲挡板
+LBL_IMPRODROWS,Impingement rod rows,撞击杆行
+LBL_IMPSLEEVEROWS,Impingement sleeve rows,撞击套筒行
+LBL_IN,In,在
+LBL_INC,Increment,增量
+LBL_INCLINE,Incline,坡度
+LBL_INCLINE2,Incl.,包括。
+LBL_INCMON,Incremental Monitor,增量监测器
+LBL_INCREMENTS,Increments,增量
+LBL_INFANGUARD,in fan guard,在风扇的保护下
+LBL_INFOMSGS,Informative Messages,信息化的消息
+LBL_INFORMATIVE,Informative,信息化
+LBL_INHAILSCREEN,in hail screen,在冰雹屏幕
+LBL_INITIAL,Initial,初始
+LBL_INITSNDMETTHK,Initial sound metal thickness,初始健全的金属厚度
+LBL_INLET,Inlet,进水口
+LBL_INLETAIRVEL,Inlet Airside Velocities,进气口空侧速度
+LBL_INLETAITCNTL,Inlet air control,进气口控制
+LBL_INLETCHANNEND,Inlet at channel end,通道末端的进水口
+LBL_INLETCOND,Inlet conditions,进气口条件
+LBL_INLETDISTR,Inlet distributor,进气口分配器
+LBL_INLETHEI,Inlet height,进气口高度
+LBL_INLETID,Inlet inside diameter,进气口内径
+LBL_INLETMAT,Inlet: material,进气口：材料
+LBL_INLETNOZZLE,Inlet nozzle,进水口
+LBL_INLETPIPE,Inlet Piping,进气管道
+LBL_INLETPORTLOC,Inlet port locations,进水口位置
+LBL_INLETPRESS,Inlet pressure,进口压力
+LBL_INLETSPACING,Inlet spacing,距进口
+LBL_INLETTCOLD,"Inlet T, Cold",进气口T，冷
+LBL_INLETTEMP,Inlet temperature,进口温度
+LBL_INLETTHOT,"Inlet T, Hot",进气口T，热
+LBL_INLETTSHELL,"Inlet T, Shell",进气口T，外壳
+LBL_INLETTTUBE,"Inlet T, Tube",进气口T，管
+LBL_INLETVAPFRAC,Inlet vapor fraction,进气口蒸汽分量
+LBL_INLETWTFRACVAPOR,Inlet weight fraction vapor,进气口重量分数蒸汽
+LBL_INLETYCOLD,"Inlet Y, Cold",进气口Y，冷
+LBL_INLETYHOT,"Inlet Y, Hot",进气口Y，热
+LBL_INLETYSHELL,"Inlet Y, Shell",进气口Y，外壳
+LBL_INLETYTUBE,"Inlet Y, Tube",进气口Y，管子
+LBL_INLETZONE,Inlet zone,进水区
+LBL_INLINE,Inline,在线式
+LBL_INOUT,In/Out,输入/输出
+LBL_INOUTP,Inlet/Outlet P,进口/出口P
+LBL_INOUTPRES,Inlet/Outlet pressure,入口/出口压力
+LBL_INOUTSPACING,Inlet/Outlet Spacing,进气口/出气口间距
+LBL_INOUTT,Inlet/Outlet T,入口/出口T
+LBL_INOUTTEMP,Inlet/Outlet temperature,入口/出口温度
+LBL_INOUTY,Inlet/Outlet Y,入口/出口Y
+LBL_INPAVG,Inlet P/Avg,进气口P/Avg
+LBL_INPLANE,In-Plane,平面内
+LBL_INPUTMAXVEL,Input maximum velocity,输入最大速度
+LBL_INPUTMAXWALLTEMP,Input maximum wall temperature,输入最大壁温
+LBL_INPUTMINVEL,Input minimum velocity,输入最小速度
+LBL_INPUTMINWALLTEMP,Input minimum wall temperature,输入最低壁温
+LBL_INPUTREPRINT,Input Reprint,输入重印
+LBL_INRETBEND,Inside return bend?,内侧回弯？
+LBL_INRUPTREG,In rupture regime - fraction of time,在断裂制度中--时间的一部分
+LBL_INSCOKELAY,Inside coke layer,焦炭层内部
+LBL_INSHEATLOSSIN,Q (Heat loss) in,Q (热损失) in
+LBL_INSIDDIA,Inside diameter,内径
+LBL_INSIDE,Inside,内部
+LBL_INSIDEFILMCOEF,Inside film coefficient,内膜系数
+LBL_INSIDEHTC,Inside heat transfer coefficient,内部传热系数
+LBL_INSIDEWALLTEMP,Inside wall temperature,内墙温度
+LBL_INSIDMETDIA,Inside metal diameter,金属内径
+LBL_INSLONGBAFF,Insulated long baffle,绝缘的长挡板
+LBL_INSLONGITUDINALBAFF,Insulated longitudinal baffle,绝缘的纵向挡板
+LBL_INSLOSSCOEFEQN,Q = A + B*T + C*T*T,q=a+b*t+c*t*t
+LBL_INSLOTAREA,Inlet slot area,进水槽面积
+LBL_INSPROFILE,Insert profile,插入简介
+LBL_INSSURFTEMP,Inside surface temperature,内表面温度
+LBL_INSTCONN,Instrument connections,仪器连接
+LBL_INSTEMPIN,T (Insulation inside surface temperature) in,T（保温层内表面温度）in
+LBL_INSTUBEMET,Inside tube metal,内管金属
+LBL_INTCOAT,Internal coating,内部涂层
+LBL_INTENHTUBEGEO,Internally Enhanced Tube Geometry,内部增强型管子的几何结构
+LBL_INTERM,Intermediate,中级
+LBL_INTERNALSDATA,Internals Data,内部数据
+LBL_INTEXT,Internal or external,内部或外部
+LBL_INTFINNUM,Number of fins,翅片的数量
+LBL_INTFINHEIGHT,Fin height,翅片高度
+LBL_INTFINTHICK,Fin thickness,翅片厚度
+LBL_INTFINID,Tube ID,管子内径
+LBL_INTFINHELIXANGLE,Fin helix angle,翅片螺旋角
+LBL_INTFINAPEXANGLE,Fin apex angle,翅片顶角
+LBL_INTINS,Internal insulation,内部绝缘
+LBL_INTTUBESUPP,Intermediate tube supports,中间管支架
+LBL_INTWALL,Internal wall,内墙
+LBL_INVALPRESSDROP,Inlet valve pressure drop,进气阀压降
+LBL_JETANGLE,Jet half angle,射流半角
+LBL_JFACT,j-Factor,j-Factor
+LBL_JFACTORAB,j-Factor a and b,j-因素a和b
+LBL_JRFAIRFLOWMAP,J.R. Fair flow map,J.R. Fair流向图
+LBL_K,K,K
+LBL_KETTID,Kettle ID,水壶ID
+LBL_KETTLEID,Kettle ID,水壶ID
+LBL_KETTLERECIRRATIO,Kettle Recirculation Ratio (Internal/Feed),釜内再循环比率（内部/进料）。
+LBL_KVAL,K-Value,K值
+LBL_KVALS,K-Values,K值
+LBL_KVALUE,K-Value,K值
+LBL_LADWALKWEI,Ladder/walkway weight,梯子/走道重量
+LBL_LARMILLDEPPROPS,Larson-Miller dependent properties,拉森-米勒的从属属性
+LBL_LARMILLPARAM,Larson-Miller parameter,Larson-Miller参数
+LBL_LASTGROUP,Last group,最后一组
+LBL_LATHEAT,Latent heat,潜热
+LBL_LAYERNUM,Layer #,层数 #
+LBL_LAYOUT,Layout,布局
+LBL_LAYOUTANG,Layout angle,布局角度
+LBL_LAYOUTSQUARE,Square,方形
+LBL_LAYOUTTRIANGULAR,Triangular,三角形
+LBL_LD,L/D,L/D
+LBL_LEAKAGE,Leakage,渗漏
+LBL_LEAVING,Leaving,离去
+LBL_LEFT,Left,左边
+LBL_LEFTSIDE,Left side,左侧
+LBL_LENARC,Length / Arc,长度/弧度
+LBL_LENFROMINLET,Length from inlet,从进水口开始的长度
+LBL_LENFROMPIPINLET,Length from piping inlet,从管道进口的长度
+LBL_LENGTH,Length,长度
+LBL_LENGTHNATFREQ,Length for natural frequency,自然频率的长度
+LBL_LENGTHTEMAMAXSPAN,Length/TEMA maximum span,长度/TEMA最大跨度
+LBL_LENGTHTOTANG,Length to tangent,长度与切线的关系
+LBL_LENGTHTUBEIN,Length from tube inlet,从管子入口的长度
+LBL_LEVEL,Level,级别
+LBL_LHV,LHV,LHV
+LBL_LIFEEXPEXCDS,The life expectancy exceeds,预期寿命超过
+LBL_LIFEUSEDPERIOD,"Life used in period, fraction",期内使用的寿命，分量
+LBL_LIFTCOEF,Lift coefficient,提升系数
+LBL_LIMDESMETTEMP,Limiting design metal temperature,极限的设计金属温度
+LBL_LIMMETTEX,Limiting metal temperature exceeded?,超过了限制性金属温度？
+LBL_LININGINTEXT,Lining: Internal / External,衬里。 内部/外部
+LBL_LININGMAT,Lining material,衬里材料
+LBL_LININGTHK,Lining thickness,衬里厚度
+LBL_LIQ,Liquid,液体
+LBL_LIQFLOW,Liquid flow,液体流动
+LBL_LIQFUELCHAR,Liquid fuel characteristics,液体燃料特性
+LBL_LIQGRAV,Liquid gravity (sp. gr @ 60f),液体重力（sp. gr.@60f)
+LBL_LIQMOLEFRAC,Liquid Mole Fractions,液体摩尔分数
+LBL_LIQOUT,Liq. Out,Liq. 淘汰
+LBL_LIQOUTLET,Liq. Outlet,锂电池 出口
+LBL_LIQOUTLETNOZZLE,liquid outlet nozzle,液体出口喷嘴
+LBL_LIQPRN,Liquid Prandtl,液体普朗特
+LBL_LIQPROP,Liquid Properties,液体特性
+LBL_LIQREY,Liquid Reynolds,液体雷诺兹
+LBL_LIQSTATHEADREQSPE,"Liquid static head, Required/Specified",液体静压头，需要/指定
+LBL_LIQTYPE,Liquid type,液体类型
+LBL_LMCCONST,L-M C constant,L-M C常数
+LBL_LMCONST,L-M constant A per Table 2,根据表2，L-M常数A
+LBL_LMTD,LMTD,LMTD
+LBL_LOC,Location,地点
+LBL_LOCENDTOPBOT,"Location (Ends, Top, Bottom)",位置（末端、顶部、底部）
+LBL_LOCFBHB,"Location (f.b. = fire box, h. b. = header box)",位置（f.b.=火箱，h.b.=头箱）。
+LBL_LOCFRONTBACK,Location (front/back),位置（前面/后面）
+LBL_LOCHTCCOLD,Local HTC - cold,本地HTC - 寒冷
+LBL_LOCHTCHOT,Local HTC - hot,本地HTC--热门
+LBL_LOCINTEXT,Location (Internal/External),地点（内部/外部）
+LBL_LOCLEFTRIGHT,Location (left/right),位置(左/右)
+LBL_LOCONBOTH,Location (on or both ends),地点（在或两端）
+LBL_LOCOVERALLU,Local overall U,地方总体U
+LBL_LOCREY,Local Reynolds,当地的Reynolds
+LBL_LOCRFFLSW,Location (Roof / Floor/ Sidewall),位置（屋顶/地板/侧墙）
+LBL_LOCTOPBOTT,Location (top/bottom),位置（顶部/底部）
+LBL_LOGDEC,Log decrement,对数递减
+LBL_LOKBAFFLE,Lok,洛克
+LBL_LONGBAFFLEN,Long. baffle length,长。挡板长度
+LBL_LONGBAFFSEALLEAKANA,Longitudinal Baffle Seal Leakage Analysis,纵向挡板密封泄漏分析
+LBL_LONGFLOWFJCURVE,Shellside Longitudinal Flow FJ-Curve,壳侧纵向流动FJ-曲线
+LBL_LONGITUDINAL,Longitudinal,纵向的
+LBL_LONGITUDINALPITCH,Longitudinal pitch,纵向间距
+LBL_LONGFLOW,Longitudinal flow,纵向流动
+LBL_LONGPITCH,Long pitch,长距离投球
+LBL_LONGPOSSHELLINNOZ,Longitudinal position on shell of inlet nozzle,进气口壳体上的纵向位置
+LBL_LOUVERS,Louvers,舷窗
+LBL_LOUVERSPRESENT,Louvers present,存在百叶窗
+LBL_LOWERCRITTEMP,Lower critical temperature,较低的临界温度
+LBL_LS,LS,医学博士
+LBL_MACHNUM,Mach number,马赫数
+LBL_MAINFINPAD1,Main fin - pad 1,主鳍 - 垫1
+LBL_MAINFINPAD2,Main fin - pad 2,主鳍-垫2
+LBL_MAINFINPAD3,Main fin - pad 3,主鳍 - 垫3
+LBL_MAINLEN,Main length,主要长度
+LBL_MAINPIPE,Main Pipe,主要管道
+LBL_MAINPIPEID,Main inside diameter,主体内径
+LBL_MALDISPARA,Maldistribution parameter,错误分布参数
+LBL_MALDISREPORT,Maldistribution Report,破坏性分配报告
+LBL_MALDISTRIBUTION,Maldistribution,诅咒分布
+LBL_MALDISTRIBUTIONDATA,Maldistribution Data,错误分布数据
+LBL_MANLOC,Manifold location (inside or outside header box),歧管的位置（集线盒内或外）。
+LBL_MANTUBECON,"Manifold to tube connection (welded, extruded, etc)",歧管与管子的连接（焊接的、挤压的，等等）
+LBL_MANUF,Manufacturer,制造商
+LBL_MANUFACTUREHOWDEN,Howden,豪顿
+LBL_MANUFACTUREHUDSON,Hudson,赫德森
+LBL_MANUFACTUREMOORE,Moore,摩尔
+LBL_MANUFACTURECOFIMCO,Cofimco,科菲姆科
+LBL_MANUFACTUREUNKNOWN,Unknown Manufacturer,未知的制造商
+LBL_MASS,Mass,群体
+LBL_MASSFLOWXYGS,Mass Flow Across Zone Boundaries for XY Planes %d to %d in Gas Space %d,XY平面%d至%d的气体空间%d的跨区域边界的质量流量
+LBL_MASSFLOWXZONE,Mass Flow Across Zone Boundaries,跨越区界的质量流
+LBL_MASSFRACVAP,Mass fraction vapor,蒸气的质量分数
+LBL_MASSVEL,Mass vel,质量速度
+LBL_MASSVEL2,Mass velocity,质量速度
+LBL_MAT,Material,材料
+LBL_MATCODE,Material code,材料代码
+LBL_MAX,Maximum,最大
+LBL_MAX2,Max,最大
+LBL_MAXALLCALCINFILMTEMP,Max. allow. / calc. inside film temperature,最大允许值。 /计算膜内温度
+LBL_MAXCLNTUBEMETTEMP,Maximum (clean) tube metal temperature,最高（清洁）管子金属温度
+LBL_MAXCONTUBETEMP,Maximum continuous tube temperature,最大连续管温
+LBL_MAXFILMCRITHEATFLUX,Breakdown heat flux,分解热通量
+LBL_MAXFINT,Max Fin T,最大翅片T
+LBL_MAXFINTEMP,Max fin temperature,最大翅片温度
+LBL_MAXFLUX,Maximum flux,最大通量
+LBL_MAXFLUXOD,Maximum local flux (OD),最大局部通量（OD）
+LBL_MAXFLUXRATE,Maximum flux rate,最大通量率
+LBL_MAXLINTUBEEND,Maximum linear temperature at end,结束时的最大线性温度
+LBL_MAXMASSVEL,Maximum mass velocity,最大质量速度
+LBL_MAXMETTEMP,Max metal temperature,最高金属温度
+LBL_MAXMOM,Max momentum,最大动量
+LBL_MAXOPERPRES,Max operating pressure,最大工作压力
+LBL_MAXOVERDES,Maximum overdesign,最大的过度设计
+LBL_MAXRADFLUXDENS,Max. rad. sect. flux density,最大径向截面磁通密度
+LBL_MAXSKINTEMP,Max skin temperature,最大的皮肤温度
+LBL_MAXTEMP,Maximum temperatures,最高温度
+LBL_MAXTEMPFUTHIST,Max temperature future history,最高温度的未来历史
+LBL_MAXTIPTEMPCALC,"Maximum tip temperature, (calculated)",最大的尖端温度，（计算）。
+LBL_MAXTUBEMETTEMP,Max tube metal temp.,最大管子金属温度。
+LBL_MAXTUBETEMP,Maximum tube temperature,最大的管子温度
+LBL_MAXVEL,Maximum velocity,最大速度
+LBL_MAXVORTEXSHED,Max Vortex Shedding,最大漩涡脱落
+LBL_MAXWALLT,Max Wall T,最大墙体T
+LBL_MEAN,Mean,平均值
+LBL_MEANHOLELEN,Mean hole length,平均孔长
+LBL_MEANMETTEMP,Mean Metal Temperatures,平均金属温度
+LBL_MEANSHELLTEMP,Mean shell temperature,壳的平均温度
+LBL_MEANTUBEMETTEMPPERPASS,"Mean tube metal temperature in each tubepass,",每个管段的平均管子金属温度。
+LBL_MECHDESCOND,Mechanical design conditions,机械设计条件
+LBL_MESSAGES,Messages,留言
+LBL_METAL,Metal,金属
+LBL_METALCOND,Metal thermal conductivity,金属导热性能
+LBL_METALTEMP,Metal temperature,金属温度
+LBL_METALTEMPS,Metal temperatures,金属温度
+LBL_METALTYPE,Metal type,金属类型
+LBL_METALWT,Metal weight,金属重量
+LBL_METHOD,Method,方法
+LBL_MIDFFACT,Midpoint f-factor,中点f系数
+LBL_MIDJFACT,Midpoint j-factor,中点j因子
+LBL_MIDPOINT,Midpoint,中点
+LBL_MIDVALUE,Middle Value,中间值
+LBL_MIDVEL,Midpoint velocity,中点速度
+LBL_MIN,Minimum,最低限度
+LBL_MIN2,Min,闵行区
+LBL_MINDISBRNCENT,Minimum distance burner centerline,燃烧器中心线的最小距离
+LBL_MINFLRELV,Minimum floor elevation,最低楼面标高
+LBL_MINMAXFINTIPT,Min/Max fin tip temperature,最小/最大翅尖温度
+LBL_MINMAXWALLT,Min/Max wall temperature,最小/最大壁温
+LBL_MINNORMAXAIRTEMP,Minimum / normal / maximum ambient air temp.,最低/正常/最高环境空气温度。
+LBL_MINOVERDES,Minimum overdesign,最低限度的过度设计
+LBL_MINPRACTTHK,Minimum practical thickness,最小实用厚度
+LBL_MINRUPSTRESS,Min rupture stress,最小断裂应力
+LBL_MINRUPTHK,Minimum rupture thickness,最小破裂厚度
+LBL_MINSERVTEMP,Minimum service temperature,最低服务温度
+LBL_MINSNDMETTHK,Minimum sound metal thickness,最小健全金属厚度
+LBL_MINSTRESSTHK,Minimum stress thickness,最小应力厚度
+LBL_MINSUGCLR,Minimum suggested clearance,建议的最小间隙
+LBL_MINTHK,Minimum thickness,最小厚度
+LBL_MINTHKCORRALLOW,Minimum thickness w/ corrosion allowance,最小厚度，含腐蚀余量
+LBL_MINTHKNOCORRALLOW,Minimum thickness w/o corrosion allowance,最小厚度，不含防腐剂
+LBL_MINWALLREQ,Minimum wall required,所需的最小墙体
+LBL_MISC,Miscellaneous,杂项
+LBL_MISTFLOWRATIO,Mist flow ratio,喷雾流量比
+LBL_MIXF,Mix F,混合F
+LBL_MODE,Mode,模式
+LBL_MODELNO,Model no.,模型编号。
+LBL_MODELSZ,Model / size,模型/尺寸
+LBL_MODEOPER,Mode of operation,操作模式
+LBL_MOLAR,Molar,摩尔
+LBL_MOLEFRAC,Mole Frac.,Mole Frac。
+LBL_MOLEFRACINERT,Mole fraction inert,惰性物质摩尔分率
+LBL_MOLPCT,Mole %,摩尔百分比
+LBL_MOLWEIGHT,Molecular weight,分子量
+LBL_MOMENTUM,MOMENTUM,势头（MOMENTUM
+LBL_MOMLOSS,Momentum loss,动量损失
+LBL_MOMPARAMGS,Momentum Parameters for Gas Space Type,气体空间类型的动量参数
+LBL_MOMPRESSDROP,Momentum pressure drop,动量压降
+LBL_MOMENTOFINERTIA,Area moment of inertia,面积惯性矩
+LBL_MONITOR,Monitor,监视器
+LBL_MOTPOWFANDES,Motor power per fan-design air temperature,每个风扇设计空气温度的电机功率
+LBL_MOTPOWFANDES2,Motor power/fan-design air temperature,电机功率/风扇-设计空气温度
+LBL_MOTPOWFANMIN,Motor power per fan-minimum air temperature,每个风扇的电机功率-最低空气温度
+LBL_MOTPOWFANMIN2,Motor power/fan-min air temperature,电机功率/风扇最小空气温度
+LBL_MTD,MTD,MTD
+LBL_MULTIPLIER,Multiplier,乘法器
+LBL_MULTPASSFLOW,Multipass flow,多通道流动
+LBL_MULTSNGLEAF,Multiple / single leaf,多叶/单叶
+LBL_N,N,N
+LBL_NAPI530FIG1,N (per API 530 Figure 1),N (根据API 530图1)
+LBL_NAPI530FIG2,N (per API 530 Figure 2),N (根据API 530图2)
+LBL_NATCONVH,Natural convective h,自然对流h
+LBL_NATDRAFTDATA,Natural Draft Data,自然界草案数据
+LBL_NET,Net,净值
+LBL_NETHFLOW,Net enthalpy flow,净热流
+LBL_NETHOUT,Net enthalpy out,净热能输出
+LBL_NO,No,无
+LBL_NO2,NO,无
+LBL_NOBAY,No/bay,没有/海湾
+LBL_NODE,Node,节点
+LBL_NOHOTCOLDCHANN,No. of hot & cold channels,冷热通道的数量
+LBL_NOISELIM,Noise limitations,噪声限制
+LBL_NOISEPWL,Noise PWL,噪声 PWL
+LBL_NOISESPEC,Noise specification,噪声规格
+LBL_NOMCHANNVEL,Nominal channel velocity,名义通道速度
+LBL_NOMDP,Nominal pressure drop,公称压降
+LBL_NOMESS,No %s.,没有%s。
+LBL_NOMRATING,Nominal rating,名义等级
+LBL_NOMRATSCH,Nominal rating or schedule,公称等级或时间表
+LBL_NOMVELXFLOWWIN,"Nom vel, X-flow/window",名义流速，X-流/窗口
+LBL_NONCOND,Noncondensables,不凝结物
+LBL_NONE,None,无
+LBL_NOPASSHOTCOLD,"No. of passes, hot/cold",通过次数，热/冷
+LBL_NORINGS,No. rings,编号环
+LBL_NORMAL,Normal,正常
+LBL_NOSLIPDEN,No slip mixed density,无滑移混合密度
+LBL_NOSLIPVEL,No slip velocity,无滑移速度
+LBL_NOSTUDRINGS,No. studs/ring,螺柱/环的数量
+LBL_NOTEDUTYFLOWMULT1,Note: Reported duty and flow rates include a user-specified,注：报告的负载和流量包括用户指定的
+LBL_NOTEDUTYFLOWMULT2,multiplier of ,的乘数
+LBL_NOTES,Notes:,注意事项。
+LBL_NOTUBEFLUXMON,No Tube Flux Monitor,无管通量监测器
+LBL_NOX,NOx,氮氧化物
+LBL_NOZZLE,Nozzle,喷嘴
+LBL_NOZZLEDATA,Nozzle Data,喷嘴数据
+LBL_NOZZFINNING,Nozzles/Finning,喷嘴/纺纱
+LBL_NOZZLEID,Nozzle inside diameter,喷嘴内径
+LBL_NOZZLELEN,Nozzle length,喷嘴长度
+LBL_NOZZLES,Nozzles,喷嘴
+LBL_NOZZPIPE,Nozzle Pipe,喷嘴管
+LBL_NOZZRVSQ,Nozzle R-V-SQ,喷头R-V-SQ
+LBL_NTIW,NTIW,缺口区不布管
+LBL_NTIWSEG,NTIW-Segmental,弓形，缺口区不布管
+LBL_NTIWSEG2,NTIW-Seg.,弓形，缺口区不布管
+LBL_NUCBOILH,Nucleate boiling h,成核的沸点h
+LBL_NUCLANDCONV,Nucleate and convective,成核和对流
+LBL_NUCLEATE,Nucleate,核子
+LBL_NUM,Number,数量
+LBL_NUM2,No.,编号
+LBL_NUMBRNRS,Number of burners,燃烧器的数量
+LBL_NUMCHANNTOTPERPASS,"Number of channels, total/per pass",通道数，总计/每通
+LBL_NUMCHANNTYPE,Number of channel types,通道类型的数量
+LBL_NUMEACHPOS,Number at each position,每个位置上的数量
+LBL_NUMFANPERBAY,Number of fans per bay,每个舱位的风扇数量
+LBL_NUMFIREDBACK,Number fired from back end,从后端发射的数量
+LBL_NUMFIREDFLOOR,Number fired from floor,从地面发射的数量
+LBL_NUMFIREDFRONT,Number fired from front end,从前端发射的数量
+LBL_NUMFLOWPASS,Number of flow passes,流动通道的数量
+LBL_NUMFLUIDS,Number of fluids,液体的数量
+LBL_NUMHOLES,Number of holes,孔的数量
+LBL_NUMLINE,Number of lines,行数
+LBL_NUMNOZZ,Number of nozzles,喷嘴的数量
+LBL_NUMOF,Number of,数目
+LBL_NUMPARAVERTPASSLANES,Number of parallel/vertical passlanes,平行/垂直通道的数量
+LBL_NUMPARTSEALROD,Number of partition seal rods,隔板密封杆的数量
+LBL_NUMPASS,Number of passes,通行证的数量
+LBL_NUMPASSHOTCOLD,"Number of passes, hot/cold",通过次数，热/冷
+LBL_NUMPERPHORIPASSLANES,Number of perpendicular/horizontal passlanes,垂直/水平通道的数量
+LBL_NUMPLATETOTEFF,"Number of plates, total/effective",板块数量，总的/有效的
+LBL_NUMPLATETYPE,Number of plate types,板块类型的数量
+LBL_NUMPROCFLUIDS,Number of process fluids,工艺流体的数量
+LBL_NUMREQ,Number required,所需数量
+LBL_NUMROWS,Number of rows,行数
+LBL_NUMSEALSTRPAIR,Number of seal strip pairs,密封条对的数量
+LBL_NUMSHELLINNOZ,Number of shellside inlet nozzles,壳侧入口喷嘴的数量
+LBL_NUMSHELLOUTNOZ,Number of shellside outlet nozzles,壳侧出口喷嘴的数量
+LBL_NUMSKIDBAR,Number of skid bars,防滑条的数量
+LBL_NUMSPAN,Number of spans,跨度的数量
+LBL_NUMSPTYPE,Number spaces of this type,这种类型的空间数量
+LBL_NUMSTUDRINGS,Number of stud rings,螺柱环的数量
+LBL_NUMSTUDSPERRING,Number of studs/ring,螺柱/环的数量
+LBL_NUMTBRWCNV,Number of tubes per row (convection section),每行管子的数量（对流部分）
+LBL_NUMTERM,Number of terminals,终端的数量
+LBL_NUMTIEROD,Number of tie rods,拉杆的数量
+LBL_NUMTUBEBUND,Number of tubes/bundle,管子的数量/捆绑
+LBL_NUMTUBECAL,Number of tubes (calculated),管子的数量（计算）。
+LBL_NUMTUBEINNOZ,Number of tubeside inlet nozzles,管侧进气嘴的数量
+LBL_NUMTUBEOUTNOZ,Number of tubeside outlet nozzles,管侧出口喷嘴的数量
+LBL_NUMTUBEPASSES,Number of tubepasses,管状物的数量
+LBL_NUMTUBEROW,Number of tube rows,管子的行数
+LBL_NUMTUBEROWS,Number of tuberows,块茎的数量
+LBL_NUMTUBES,Number of tubes,管子的数量
+LBL_NUMTUBESECT,Number of tube sections,管段数量
+LBL_NUMTUBESPE,Number of tubes (specified),管子的数量（指定）
+LBL_NUMTUBESPERPASS,Number of tubes per pass,每个通道的管子数量
+LBL_NUMUBENDSUPP,Number U-Bend supports,U型弯管的数量
+LBL_NUMUNITSERIPARA,"Number of units, series/parallel",单位数量，串联/并联
+LBL_O2ANAL,O2 analyzer,O2分析器
+LBL_OBSERVATION,Observation,观察
+LBL_OD,OD,椁室
+LBL_ODSURFACE,OD surface,外径表面
+LBL_OFINCRS,of  Incr.,的印记。
+LBL_ONSTREAM,On Stream,在流媒体上
+LBL_ONSTRMTIME,On stream time,流动时间
+LBL_ONSTRMTIMEPERIOD,On stream time per period,每一时期的流动时间
+LBL_OPERATING,Operating,运作
+LBL_OPERCASE,Operating Case,操作案例
+LBL_OPERDATA,Operating data,操作数据
+LBL_OPTIONALDATA,Optional Data,可选数据
+LBL_OPTIONALGEOMDATA,Optional Geometry Data,可选的几何数据
+LBL_ORDCOMP,Order of computation,计算的顺序
+LBL_ORIEN,Orientation,适应情况
+LBL_ORIENHORIZ,Orientation (from horiz.),方向（从水平方向）。
+LBL_OTHER,Other,其他
+LBL_OTHEROBST,Other obstruction,其他阻挠
+LBL_OTHERTYPE,Other type,其他类型
+LBL_OUT,Out,淘汰
+LBL_OUTERTUBELIM,Outer tube limit,外管限制
+LBL_OUTIN,out/in,出/进
+LBL_OUTLET,Outlet,销路
+LBL_OUTLETCOND,Outlet conditions,出口条件
+LBL_OUTLETDISTR,Outlet distributor,出口分销商
+LBL_OUTLETHEI,Outlet height,出口高度
+LBL_OUTLETID,Outlet inside diameter,出口内径
+LBL_OUTLETMAT,Outlet: material,出口：材料
+LBL_OUTLETNOZZLE,outlet nozzle,出口喷嘴
+LBL_OUTLETPIPE,Outlet Piping,出口管道
+LBL_OUTLETPRESS,Outlet pressure,出口压力
+LBL_OUTLETSPACING,Outlet spacing,距出口
+LBL_OUTLETTCOLD,"Outlet T, Cold",出口T，冷
+LBL_OUTLETTHOT,"Outlet T, Hot",出口T，热
+LBL_OUTLETTSHELL,"Outlet T, Shell",出口T，外壳
+LBL_OUTLETTTUBE,"Outlet T, Tube",出口T，管子
+LBL_OUTLETVAPFRAC,Outlet vapor fraction,出口蒸气分量
+LBL_OUTLETWTFRACVAPOR,Outlet weight fraction vapor,出口重量分数的蒸气
+LBL_OUTLETYCOLD,"Outlet Y, Cold",出口Y，冷
+LBL_OUTLETYHOT,"Outlet Y, Hot",出口Y，热
+LBL_OUTLETYSHELL,"Outlet Y, Shell",出口Y，外壳
+LBL_OUTLETYTUBE,"Outlet Y, Tube",出口Y，管子
+LBL_OUTOFPLANE,Out-of-Pln,预算外的Pln
+LBL_OUTPUTSUM,Output Summary,输出摘要
+LBL_OUTSIDE,Outside,外围
+LBL_OUTSIDEDIA,Outside diameter,外径
+LBL_OUTSIDEFILMCOEF,Outside film coef,外膜系数
+LBL_OUTSIDEFILMCOEF2,Outside film coefficient,外膜系数
+LBL_OUTSIDEH,Outside h,外界h
+LBL_OUTSIDEINCRMON,Outside Incremental Monitor,外部增量监测器
+LBL_OUTSIDEMET,Outside metal,外部金属
+LBL_OUTSIDEPROCCOND,Outside Process Conditions,外部工艺条件
+LBL_OUTSLOTAREA,Outlet slot area,出口槽面积
+LBL_OUTTUBEDIA,Outside tube diameter,外管直径
+LBL_OVER,Over,逾越
+LBL_OVERALLAVGFLUX,Overall average heat flux,总体平均热通量
+LBL_OVERALLCOEFDCA,"Overall coef, Design/Clean/Actual",总传热系数，设计/清洁/实际
+LBL_OVERALLCOEFRCA,"Overall coef., Reqd/Clean/Actual",总传热系数，要求/清洁/实际
+LBL_OVERALLEXCHPERF,Overall Exchanger Performance,整体交换器性能
+LBL_OVERALLLEN,Overall length,总长度
+LBL_OVERALLMAXFLUX,Overall maximum heat flux,整体最大热通量
+LBL_OVERALLPERF,Overall Performance Data,性能数据
+LBL_OVERALLPERF2,Overall Performance,性能
+LBL_OVERALLREY,Overall Reynolds,整体雷诺兹
+LBL_OVERALLTUBELEN,Overall tube length,管子总长度
+LBL_OVERALLU,Overall U,整体U
+LBL_OVERALLUO,Overall Uo,总体而言，Uo
+LBL_OVERALLWALLCORR,Overall wall correction,整体墙体校正
+LBL_OVERALLWALLCORRFACT,Overall wall correction factor,整体墙体校正系数
+LBL_OVERDES,Over Des,逾限
+LBL_OVERDESIGN,Overdesign,过度设计
+LBL_OVERDESIGN2,Over design,过度设计
+LBL_OVERDESIGN3,Over Design,过度设计
+LBL_OVERFIN,Over fin,过翅
+LBL_OVERFINDIA,Over fin diameter,超过翅片直径
+LBL_OXIDANT,Oxidant,氧化剂
+LBL_OXIDRATE,Oxidant rate,氧化剂率
+LBL_OXTHRTVEL,Oxidant throat velocity,氧化剂喉部速度
+LBL_PAD3HEADER,Pad 3 - Header,焊盘3--焊头
+LBL_PACKCONF,Pack Configuration,包装配置
+LBL_PAIRSEALSTR,Pairs seal strips,密封条（对）
+LBL_PARAFLOWAMP,Parallel flow amplitude,平行流的振幅
+LBL_PARALLEL,Parallel,并联
+LBL_PARAPASSWID,Parallel passlane width,平行通道的宽度
+LBL_PARAVERTPASSLANEWID,Parallel/vertical passlane width,平行/垂直通道的宽度
+LBL_PARTICULATES,Particulates,颗粒物
+LBL_PASS,Pass,通过
+LBL_PASSAGEDIA,Passage diameter,通道直径
+LBL_PASSARRDIAGRAM,Pass Arrangement Diagram,通道安排图
+LBL_PASSNUM,Pass number,通行证号码
+LBL_PASSSEQ,Pass sequence,通行证序列
+LBL_PASSSHELL,Passes Shell,程数，壳
+LBL_PASTDAMAGE,Past Damage Evaluation,过去的损害评估
+LBL_PASTHISTORY,Past history,过去的历史
+LBL_PCT,%,%
+LBL_PCTAREA,Pct Area,面积%
+LBL_PCTCOC,%CO/C,%CO/C
+LBL_PCTDIA,Pct Dia.,Pct Dia.
+LBL_PCTDUTY,% of Duty,职责的百分比
+LBL_PCTEXCESS,% Excess,超额百分比
+LBL_PCTHHV,% HHV,HHV百分比
+LBL_PCTLHV,% LHV,LHV百分比
+LBL_PCTO2DRY,% O2 dry,干燥的O2百分比
+LBL_PCTO2WET,% O2 wet,湿的O2百分比
+LBL_PCTQAVAIL,% QAvail,% QAvail
+LBL_PCTRH,% RH,%RH
+LBL_PCTTUBEREMOVED,Pct tubes removed,移除换热管的占比
+LBL_PERCBLOCK,"Percent blockage, other obstruction",堵塞的百分比，其他障碍物
+LBL_PERCENT,Percent,百分比
+LBL_PERCENTGS,Percent into gas space,进入气体空间的百分比
+LBL_PERCENTSHELLID,% shell ID,%的外壳ID
+LBL_PERCENTTOTAL,% of total,占总数的百分比
+LBL_PERCFLUIDLEAKPASTSEAL,Percent fluid leakage past seal,漏过密封圈的液体百分比
+LBL_PERCINLETFLOW,Percent of inlet flow,进水流量的百分比
+LBL_PERCOPENAREA,Percent open area,开放面积百分比
+LBL_PERCWELDRADIO,Percent of weld fully radiographed,完全辐射的焊缝的百分比
+LBL_PERFORMANCE,Performance,业绩
+LBL_PERFTESTREQ,Performance test required (yes or no),需要进行性能测试（是或否）。
+LBL_PERIOD,Period,期间
+LBL_PERIODS,Periods,期限
+LBL_PERPENDICULAR,Perpendicular,垂直度
+LBL_PERPERIOD,Per Period,每期
+LBL_PERPHORIPASSLANEWID,Perpendicular/horizontal passlane width,垂直/水平通道的宽度
+LBL_PERPPASSWID,Perpendicular passlane width,垂直通道的宽度
+LBL_PH,pH,pH值
+LBL_PHYPROPPROF,Physical Properties Profile,物理特性简介
+LBL_PHYSICALPROPERTYDATA,Physical Property Data,物理属性数据
+LBL_PILOTS,Pilots,飞行员
+LBL_PILOTTYPE,"Pilot, type",飞行员，类型
+LBL_PIPELEN,Pipe length,管道长度
+LBL_PIPEMAT,Pipe material,管道材料
+LBL_PIPERVSQ,Pipe R-V-SQ,管道R-V-SQ
+LBL_PIPESCH,Piping schedule,配管时间表
+LBL_PIPESIZESCHTHK,Pipe size / schedule or thickness,管道尺寸/规格或厚度
+LBL_PIPINGINLETDATA,Piping Inlet Data,管道入口数据
+LBL_PIPINGOUTLETDATA,Piping Outlet Data,管道出口数据
+LBL_PITCH,Pitch,管心距
+LBL_PITCHRAT,Pitch ratio,螺距比
+LBL_PITCHTRANSLONG,Pitch Trans/Long,俯仰转换/长
+LBL_PLAIN,Plain,平凡的
+LBL_PLATE,Plate,碟子
+LBL_PLATECHANNEL,Plate Channel,板块渠道
+LBL_PLATECOMBO,Plate Combinations,板块组合
+LBL_PLATEDATA,Plate Data,板块数据
+LBL_PLATEFJCURVEDATA,Plate FJ-Curve Data,板块FJ-曲线数据
+LBL_PLATEGEO,Plate Geometry,板块的几何形状
+LBL_PLATEID,Plate ID,板块标识
+LBL_PLATEMAT,Plate material,板材材料
+LBL_PLATEMON,Plate Monitor,板块监控
+LBL_PLATENUM,Plate Number,车牌号
+LBL_PLATES,Plates,板块
+LBL_PLATETHICK,Plate thickness,板材厚度
+LBL_PLATETYPE,Plate type,板块类型
+LBL_PLATETYPE1,Plate Type 1,板块类型1
+LBL_PLATETYPE1GEO,Plate Type 1 Geometry,板块类型1的几何形状
+LBL_PLATETYPE2,Plate Type 2,板块类型2
+LBL_PLATETYPE2GEO,Plate Type 2 Geometry,板块类型2的几何形状
+LBL_PLATETYPEGEO,Plate Type Geometry,板块类型的几何形状
+LBL_PLATFORMS,Platforms,平台
+LBL_PLENUMCHAMB,Plenum chamber (Air),全流室（空气）
+LBL_PLENUMTYPE,Plenum type,全罩式
+LBL_PLOTLIM,Plot limitations,剧情限制
+LBL_PLUGGED,Plugged,堵塞的
+LBL_PLUGTYPEHD,Plug type headers,插头式集线器
+LBL_PNTREQ,Painting requirements,油漆要求
+LBL_PNTTROLRAILINC,Are painters trolley and rail included,是否包括油漆工的手推车和轨道
+LBL_POINT,Point,观点
+LBL_POINTNUM,Point number,点数
+LBL_POINTNUM2,Point Number,点号
+LBL_POISSONSRATIO,Poissons ratio,泊松比率
+LBL_PORTDIA,Port diameter,端口直径
+LBL_PORTDP,Port pressure drop,端口压降
+LBL_PORTGEO,Port Geometry,端口的几何形状
+LBL_PORTPRESSDROPINOUT,"Port pressure drop, In/Out",端口压降，输入/输出
+LBL_PORTVEL,Port Velocities,港口速度
+LBL_PORTVELINOUT,"Port velocity, In/Out",端口速度，输入/输出
+LBL_PORTVELOCITY,Port velocity,港口速度
+LBL_POSINBUND,Position In The Bundle,捆绑在一起的位置
+LBL_POSTWELD,Post weld heat treatment (yes or no),焊后热处理（是或不是）
+LBL_PPM,ppm,ppm
+LBL_PPMCACO3,ppm CaCO3,ppm CaCO3
+LBL_PRANDTLNO,Prandtl no.,Prandtl不。
+LBL_PRES2,Pres.,负责人。
+LBL_PRESBRN,Press. @ burner,新闻。 @燃烧器
+LBL_PRESDROP,Pres. drop,跌倒总统
+LBL_PRESDROPBRNR,Pressure drop across burner,燃烧器上的压降
+LBL_PRESDROPCNST,Pressure drop constant,压降常数
+LBL_PRESDROPOPENREG,Pressure drop (open register),压降（开放的寄存器）
+LBL_PRESS,Pressure,压力
+LBL_PRESSDROP,Pressure drop,压降
+LBL_PRESSDROPMON,Pressure Drop Monitor,压降监测器
+LBL_PRESSDROPPER,Pressure Drops  (Percent of Total),压力下降（占总数的百分比）
+LBL_PRESSDROPPER2,"Pressure Drop, % of Total",压降，占总量的百分比
+LBL_PRESSDROPREFLUX,"Pressure Drop, A-frame reflux section",压降，A型架回流部分
+LBL_PRESSDROPTOTALLOW,"Pressure drop, Total/Allowed",压降，总/允许
+LBL_PRESSDROPTOTALLOW2,"Pressure drop, Total/Allow",压降，总/允许
+LBL_PRESSET,Pressure set,压力设置
+LBL_PRESSINAVG,"Pressure, In/Average",压力，进口/平均
+LBL_PRESSINAVG2,"Pressure, Inlet/Average",压力，进口/平均
+LBL_PRESSINOUT,"Pressure, Inlet/Outlet",压力，进口/出口
+LBL_PRESSINOUT2,"Pressure, In/Out",压力，进/出
+LBL_PROBLEM,Problem,问题
+LBL_PROCCOEF,Process coefficient,过程系数
+LBL_PROCCOND,Process Conditions,过程条件
+LBL_PROCCONDDATA,Process Conditions Data,工艺条件数据
+LBL_PROCDATA,Process Data,工艺数据
+LBL_PROCDESCOND,Process Design Conditions,工艺设计条件
+LBL_PROCESS,Process,过程
+LBL_PROCFILM,Process film coefficient,加工薄膜系数
+LBL_PROCFLUID,Process Fluid,工艺流体
+LBL_PROCFLUIDMASSVEL,Process fluid mass velocity,工艺流体的质量速度
+LBL_PROCFLUIDTEMP,Process fluid temperature,工艺流体温度
+LBL_PROCFOULDATA,Process Fouling Data,工艺污损数据
+LBL_PROCHTC,Process HTC,工艺HTC
+LBL_PROCINLET,Process inlet,过程入口
+LBL_PROCMETHS,Process Methods,工艺方法
+LBL_PROCOUTLET,Process outlet,加工出口
+LBL_PROCPASS,Process pass,流程通行证
+LBL_PROCREYN,Process reynolds,过程雷诺兹
+LBL_PROCTEMP,Process temperature,工艺温度
+LBL_PROGMESS,Program Messages,程序消息
+LBL_PROGRAMDECIDES,Program decides,方案决定
+LBL_PROGRAMSET,Program set,程序集
+LBL_PROPCONSTS,Property constants,属性常数
+LBL_PROPERTIES,Properties,财产
+LBL_PROPERTYDATA,Property Data,财产数据
+LBL_PROPHIST,Proposed history,拟议的历史
+LBL_PROPPROFMON,Properties Profile Monitor,属性配置文件监控
+LBL_PROVOPER,Provision for operation (Manual or Automatic),规定操作（手动或自动）。
+LBL_PT1METALTEMP,Plate type 1 metal temperature,板块类型1金属温度
+LBL_PT2METALTEMP,Plate type 2 metal temperature,板块类型2金属温度
+LBL_PUROWNER,Purchaser / owner,购买者/所有者
+LBL_RADCOEF,Radiation coefficient,辐射系数
+LBL_RADCONVERGENCE,Radiant Section Convergence Parameters,辐射段收敛参数
+LBL_RADIAL,Radial,径向
+LBL_RADIAL2,RADIAL,RADIAL
+LBL_RADIALZONE,Radial zone,辐射区
+LBL_RADIANT,Radiant,辐射
+LBL_RADIANTBOX,Radiant box,辐射箱
+LBL_RADIANTBOXPROCCOND,Radiant box process conditions,辐射箱工艺条件
+LBL_RADIANTEXAREA,Radiant exchange area,辐射交换区
+LBL_RADIANTFEED,Radiant Feed,辐射饲料
+LBL_RADIANTFG,Radiant flue gas,辐射烟道气
+LBL_RADIATFRAC,Radiative fraction,辐射分量
+LBL_RADIATION,Radiation,辐射
+LBL_RADIATIVE,Radiative,辐射性
+LBL_RADIUSBRNRCIRC,Radius of burner circle,燃烧器圆的半径
+LBL_RADIUSBRNRNOZZ,Radius of burner nozzle,燃烧器喷嘴的半径
+LBL_RADIUSINSURF,Radius of inside surface,内表面的半径
+LBL_RADIUSTUBECIRC,Radius of tube circle,管圆的半径
+LBL_RADLOSS,"Radiation loss, % of heat release (LHV)",辐射损失，占释放热量的百分比（LHV）。
+LBL_RADPOSSHELLOUTNOZ,Radial position on shell outlet nozzle,壳体出口喷嘴的径向位置
+LBL_RADPOSSINNOZ,Radial position on shell inlet nozzle,壳体入口喷嘴的径向位置
+LBL_RADPROC,Radiant process,辐射过程
+LBL_RADSECT,Radiant section,辐射部分
+LBL_RATE,Rate,速率
+LBL_RATING,Rating,评价
+LBL_RATIO,Ratio,比率
+LBL_RATIOCLEARDIA,"Ratio, ground clearance to fan diameter",比率，离地间隙与风扇直径
+LBL_RATIOFANBAYAREA,"Ratio, fan area to bay face area",比率，风扇面积与舱面面积之比
+LBL_RATIOFANBUNDAREA,"Ratio, Fan/bundle face area",比率，风扇/捆绑面面积
+LBL_RATIOSINKENVAREA,Ratio of sink to envelope area,水槽与围护结构面积之比
+LBL_RATIOVAPSPECHEAT,Ratio of vapor specific heats,蒸汽比热的比率
+LBL_REDISTRIBUTOR,Redistributor,再分配器
+LBL_REINDISTRIBUTOR,Re-Inlet Distributor,再进水分配器
+LBL_REDISTR,Redist.,重新整理。
+LBL_REINDISTR,Re-Inlet Dist.,再进水区。
+LBL_REARHEAD,Rear head,后端
+LBL_REARHEADSUPPPLATE,Rear head support plate,后端支撑板
+LBL_REBOILERDATA,Reboiler Data,再沸器数据
+LBL_REBPIPEINFO,Reboiler Piping Information,再沸器管道信息
+LBL_RECTFINLEN,Rectangular fin height,矩形翅片高度
+LBL_RECTFINWID,Rectangular fin width,矩形翅片宽度
+LBL_REFDESBAS,Refractory design basis,耐火材料的设计基础
+LBL_REFLUXCOND,Reflux condenser,回流冷凝器
+LBL_REFPRESS,Reference pressure,参考压力
+LBL_REFRACT,Refract.,折射。
+LBL_REFRACTORY,Refractory,耐火材料
+LBL_REFTEMP,Reference temperature,参考温度
+LBL_REGION,Region,地区
+LBL_REGNUM,Region number,地区编号
+LBL_RELBOXHEAT,Relative heat into box,入箱的相对热量
+LBL_RELEASECOMP,Released to the following HTRI Member Company:,发布给以下HTRI会员公司
+LBL_RELHUM,Relative humidity,相对湿度
+LBL_REMARKS,Remarks,备注
+LBL_REMLIFE,"Remaining life, fraction",剩余寿命，分数
+LBL_REMREQ,Remarks and special requirements,备注和特殊要求
+LBL_REQEMIS,Required emissions:  PPMV (d) (Corrected to 3% O2),要求的排放。 PPMV (d) (校正为3%的O2)
+LBL_REQOAU,Req'd overall coeff,要求的总体系数
+LBL_REQTUBELIFE,Required tube life,所需的管子寿命
+LBL_REQTURNDOWN,Required turndown,所需的转差率
+LBL_REQU,Required U,所需的U
+LBL_RESTIME,Residence time,居住时间
+LBL_RESULTS,Results,结果
+LBL_RETBRNDS,Return bends,回程弯道
+LBL_REVISION,Revision,修订版
+LBL_REVMASSFLOW,Reverse mass flows,逆向质量流
+LBL_REY,Reynolds,雷诺兹
+LBL_REYNO,Reynolds no.,雷诺兹没有。
+LBL_REYNUM,Reynolds number,雷诺数
+LBL_RF,RF,射频
+LBL_RHOVSQ,RHO-V-SQ,RHO-V-SQ
+LBL_RIGHT,Right,对
+LBL_RIGHTSIDE,Right side,右侧
+LBL_RINGID,Ring ID,戒指ID
+LBL_RINGTHICK,Ring Thickness,环厚
+LBL_RODBAFFLE,Rods,杆件
+LBL_RODOD,ROD OD,ROD OD
+LBL_ROOF,Roof,屋顶
+LBL_ROOFOPENDIA,Roof opening diameter,屋顶开口直径
+LBL_ROOFOPENINDIA,Roof opening inside diameter,屋顶开口内径
+LBL_ROOFOPENLEN,Roof opening length,屋顶开口长度
+LBL_ROOFOPENOUTDIA,Roof opening outside diameter,屋顶开口外径
+LBL_ROOFOPENWID,Roof opening width,屋顶开口宽度
+LBL_ROOFSURFACE,Roof surface,屋顶表面
+LBL_ROOTDIA,Root diameter,根部直径
+LBL_ROW,Row,行
+LBL_ROWCORR,Row Correction,行数校正
+LBL_ROWS,Rows,行数
+LBL_ROWSIMPROD,Rows of impingement rods,成排的撞击杆
+LBL_RS,RS,ǞǞǞ
+LBL_RUNCANCEL,Run Cancelled,取消的运行
+LBL_RUNFAILED,Run Failed,运行失败
+LBL_RUNFATALMSGS,See Runtime Message Report for Fatal Messages.,参见《致命信息的运行时信息报告》。
+LBL_RUNINFOMSGS,See Runtime Message Report for Informative Messages.,见运行时信息报告中的信息性消息。
+LBL_RUNLEN,Run length,运行长度
+LBL_RUNLOG,Run Log,运行日志
+LBL_RUNNOMSGS,No Runtime Messages.,没有运行时消息。
+LBL_RUNNOTRUN,Not Run,不运行
+LBL_RUNTIMEMESS,Runtime Messages,运行时消息
+LBL_RUNUNCONV,Run Unconverged,运行非混合型
+LBL_RUNWARNINGMSGS,See Runtime Message Report for Warning Messages.,警告信息见运行时信息报告。
+LBL_RUPDESRES,"Rupture design results (3), (4)",破裂设计结果（3），（4）。
+LBL_RUPEXPSOR,Rupture exponent at Start of Run,运行开始时的断裂指数
+LBL_RUPSTRESS,Rupture stress,断裂应力
+LBL_RUPSTRESSCRV,Rupture stress curve,破裂应力曲线
+LBL_RUPSTRMINAVG,Rupture strength (minimum or average),破裂强度（最小或平均）
+LBL_RVSQ,R-V-SQ,R-V-SQ
+LBL_SAFEINSYS,Safety interlock system for atomizing medium & oil,雾化介质和油的安全联锁系统
+LBL_SCANCONNSIZE,Scanner connection:size / No.,扫描仪连接：尺寸/编号。
+LBL_SEALLEAKCLEAR,Seal leakage clearance,密封泄漏间隙
+LBL_SECONDVALUE,Second value,第二个值
+LBL_SECTION,Section,科目
+LBL_SEENEXTPAGEFORTUBEINFO,See Next Page For Tube Information.,见下页的管子信息。
+LBL_SEEREPORT,See %s Report for ,请参阅报告以了解
+LBL_SEISMICZN,Seismic zone,地震区
+LBL_SELFSUPP,Self-supported or guyed,自身支撑的或悬挂的
+LBL_SENSLIQH,Sensible liquid h,感性液体h
+LBL_SENSVAPORH,Sensible vapor h,感应蒸汽h
+LBL_SERIES,Series,系列
+LBL_SERISUMM,Series Summary,系列摘要
+LBL_SERVICE,Service,服务
+LBL_SETLOSSES,Setting losses,设置损失
+LBL_SHADAREATUBEFLUID,Shaded areas contain values for tubeside fluid,阴影区域包含管状流体的数值
+LBL_SHAFT,Shaft,轴线
+LBL_SHAREDTUBES,Shared tubes?,共用管？
+LBL_SHEET,Sheet,钣金
+LBL_SHELL,Shell,壳
+LBL_SHELLACOUFREQ,Shell acoustic frequency,壳体声学频率
+LBL_SHELLCOND,Shellside condition,壳边情况
+LBL_SHELLCONSINFO,Shell Construction Information,壳体结构信息
+LBL_SHELLDATA,Shell Data,壳牌数据
+LBL_SHELLDELTAP,Shellside delta P,壳侧三角洲P
+LBL_SHELLDIA,Shell diameter,外壳直径
+LBL_SHELLENT,Shell ent.,壳牌公司。
+LBL_SHELLENTREXITPARA,Shell Entrance/Exit Parameters,壳体入口/出口参数
+LBL_SHELLEXPJOINT,Shell expansion joint,壳体膨胀节
+LBL_SHELLFLOWREG,Shellside Flow Region,壳侧流动区域
+LBL_SHELLFLUID,Shellside fluid,壳边液
+LBL_SHELLGEO,Shell Geometry,壳的几何形状
+LBL_SHELLH,Shell h,壳h
+LBL_SHELLHEATTRANCORR,Shellside Heat Transfer Corrections,壳侧传热校正
+LBL_SHELLID,Shell ID,壳内径
+LBL_SHELLIN,Shell inlet,壳体进气口
+LBL_SHELLINCMON,Shellside Incremental Monitor,壳侧增量监测器
+LBL_SHELLINFO,Shell Information,壳牌信息
+LBL_SHELLNOZZ,Shell Nozzles,外壳喷嘴
+LBL_SHELLORIANG,Shell orientation angle (deg),壳倾角（度）
+LBL_SHELLORIENT,Shell orientation,壳朝向
+LBL_SHELLOUT,Shell outlet,壳体出口
+LBL_SHELLPASS,Shell pass,壳通
+LBL_SHELLPERF,Shellside Performance,壳边性能
+LBL_SHELLSERI,Shells Series,壳串联
+LBL_SHELLSIDE,Shellside,壳侧
+LBL_SHELLSIDEH,Shellside h,壳侧h
+LBL_SHELLSIDEINLET,Shellside inlet,壳侧进口
+LBL_SHELLSIDELIQOUT,Shellside outlet liquid,壳侧出口液体
+LBL_SHELLSIDEOUTLET,Shellside outlet,壳侧出口
+LBL_SHELLTYPE,Shell type,壳类型
+LBL_SHIELDVTWALLS,Shielded vertical walls,屏蔽的垂直墙
+LBL_SHOCKTUBEDUTY,Shock tube duty,减震管职责
+LBL_SHORTOPERCOND,SHORT TERM OPERATING CONDITIONS,短期运行条件
+LBL_SHROUDDATA,Shroud Data,护罩数据
+LBL_SHROUDGEO,Shroud Geometry,护罩的几何形状
+LBL_SHROUDINFO,Shroud Information,裹尸布信息
+LBL_SHROUDPRESENT,Shroud present,裹尸布存在
+LBL_SIDE,Side,侧面
+LBL_SIGHTPORT,Sight port,视口
+LBL_SINGLEINCRMETHOD,Single increment method,单一增量法
+LBL_SINK,Sink,水槽
+LBL_SINKEMIS,Sink emissivity,水槽发射率
+LBL_SINKFB,Sink FR/BK,水槽FR/BK
+LBL_SINKTEMP,Sink temperature,水槽温度
+LBL_SINNOZDISTNEARESTTUBE,Shell inlet distance from nearest tubesheet,壳体进口与最近的管板的距离
+LBL_SIZE,Size,尺寸
+LBL_SIZEMODNO,Size / model no,尺寸/型号编号
+LBL_SIZENETAREA,Size or net free area,尺寸或净自由面积
+LBL_SIZENO,Size / No.,尺寸/编号
+LBL_SIZESCHTHK,Size / schedule or thickness,尺寸/时间表或厚度
+LBL_SKINTEMP,Skin temperature,表面温度
+LBL_SKINTEMPMAXMIN,"Skin temperature, Max/Min",表面温度，最高/最低
+LBL_SKINTEMPMINMAX,"Skin temperature, Min/Max",表面温度，最低/最高
+LBL_SLIQOUTNOZDISTNEARESTTUBE,Shell liquid outlet distance from nearest tubesheet,外壳液体出口与最近的管板的距离
+LBL_SLOTAREA,Slot area,槽位面积
+LBL_SMALL,Small,小型
+LBL_SNDMETTHK,Sound metal thickness @ final conditions,最终条件下的健全金属厚度
+LBL_SNGPASS,Single pass,单次通过
+LBL_SNGPASSFLOW,Single-pass flow,单程流
+LBL_SNGSEG,Single-Segmental,单弓形
+LBL_SNGSEG2,Single-Seg.,单弓形
+LBL_SNGZNMON,Single Zone Firebox Monitor,单区火箱监控
+LBL_SNOWLOAD,Snow load,雪载荷
+LBL_SNUFFSTM,Snuffing steam / purge,嗤之以鼻的蒸汽/吹扫
+LBL_SOOTBLWR,Sootblowers,吹灰之力
+LBL_SOUTNOZDISTNEARESTTUBE,Shell outlet distance from nearest tubesheet,壳体出口与最近的管板的距离
+LBL_SOX,SOx,硫氧化物
+LBL_SPACING,Spacing,株距
+LBL_SPAN,Span,延伸
+LBL_SPCEQ,Special equipment,特殊设备
+LBL_SPCFRLASTBRN,Space Fr. Last Brn.,空间 Fr. Last Brn.
+LBL_SPCSTUDPLN,Spacing (studs / plane),间隔(螺柱/平面)
+LBL_SPCTUBECW,"Spacing tube cent. to furnace wall, (min.)",与炉壁的间距管分，(最小)
+LBL_SPEC_ACTAIRSUPP,Actuator air supply,执行器空气供应
+LBL_SPEC_ACTCONTROL,Action control,动作控制
+LBL_SPEC_ACTCONTSIGNALFAIL,Action on control signal failure,控制信号失效时的动作
+LBL_SPEC_ACTTYPE,Action type,动作类型
+LBL_SPEC_ACTUAL,Actual,实际
+LBL_SPEC_ADDRESS,Address,地址
+LBL_SPEC_AIRFLOWRATEFAN,Actual air flow rate/fan,实际空气流量/风扇
+LBL_SPEC_AIRFLOWRATEITEM,Std. air flow rate/item,标准空气流量/单元
+LBL_SPEC_AIRINLETTEMP,Air inlet temperature,空气进口温度
+LBL_SPEC_AIROUTLETTEMP,Air outlet temperature,空气出口温度
+LBL_SPEC_AIRRECIR,Air recirculation,空气再循环
+LBL_SPEC_ALTITUDE,Altitude,海拔
+LBL_SPEC_ANGLE,Angle,角度
+LBL_SPEC_API661AIRCOOLEDSPEC,API 661 Air-Cooled Heat Exchanger - Specification Sheet,API 661 风冷式热交换器 - 规格表
+LBL_SPEC_API662PLATESPEC,API 662 Plate Heat Exchanger Specification Sheet,API 662 板式热交换器规格表
+LBL_SPEC_AREAFRAME,Area/Frame,面积/框架
+LBL_SPEC_AREAPERUNIT,Area Per Unit,每组面积
+LBL_SPEC_ASMECODE,"ASME Code, Sec. VIII, Div. 1","ASME Code, Sec. VIII, Div."
+LBL_SPEC_AVGFILECOEFF,Average Film Coefficient,平均薄膜系数
+LBL_SPEC_BAFFCROSS,Baffles-Cross,折流板
+LBL_SPEC_BAFFLONG,Baffles-Long,纵向挡板
+LBL_SPEC_BARETUBE,Bare tube,基管
+LBL_SPEC_BARETUBECLEAN,"Bare tube, clean",基管，清洁
+LBL_SPEC_BARETUBESERV,"Bare tube, service",基管，实际
+LBL_SPEC_BASICDESIGNDATA,Basic design data,基本设计数据
+LBL_SPEC_BAY,Bay,跨
+LBL_SPEC_BAYSIZE,Bay size (WxL),跨尺寸（宽x长）
+LBL_SPEC_BLADEMAT,Blade material,叶片材料
+LBL_SPEC_BUNDENTR,Bundle Entrance,管束进口
+LBL_SPEC_BUNDEXIT,Bundle Exit,管束出口
+LBL_SPEC_BUNDINPARA,Bundles in parallel,并联的管束
+LBL_SPEC_BUNDINSERI,Bundles in series,串联的管束
+LBL_SPEC_BUNDLE,Bundle,管束
+LBL_SPEC_BUNDWEI,Bundle weight,管束重量
+LBL_SPEC_BY,By,通过
+LBL_SPEC_BYPASSSEALARR,Bypass Seal Arrangement,旁路挡板数量
+LBL_SPEC_CALCULATED,Calculated,计算
+LBL_SPEC_CHANNBONNET,Channel or Bonnet,管箱 / 封头
+LBL_SPEC_CHANNCOV,Channel Cover,管箱封头 / 盖板
+LBL_SPEC_CHEMCLEAN,Chemical Cleaning,化学清洗
+LBL_SPEC_CLEAN,Clean,清洁
+LBL_SPEC_CODEREQ,Code Requirements,标准规范
+LBL_SPEC_COLDSIDE,Cold Side,冷侧
+LBL_SPEC_CONNECTEDIN,Connected In,连接方式
+LBL_SPEC_CONNECTIONS,Connections,连接
+LBL_SPEC_CONSONESHELL,CONSTRUCTION OF ONE SHELL,单壳结构
+LBL_SPEC_CONTINUED,continued,继续
+LBL_SPEC_CONTRACTNO,Contract No.,合同编号
+LBL_SPEC_CONTROLSAIRSIDE,Controls - Air Side,控制 - 空气侧
+LBL_SPEC_CORRALLOW,Corrosion Allowance,腐蚀裕量
+LBL_SPEC_CORRALLOWCARBSTE,Corrosion Allowance - Wetted Carbon Steel only,腐蚀裕量 - 仅限湿润的碳钢
+LBL_SPEC_CORRLMTD,Corrected LMTD,修正后的对数平均温差
+LBL_SPEC_CRITPRESS,Critical Pressure,临界压力
+LBL_SPEC_CROSSBAFFTYPE,Cross Baffle Type,折流板类型
+LBL_SPEC_CROSSFLOW,Crossflow,错流
+LBL_SPEC_CUSTOMER,Customer,用户
+LBL_SPEC_CUSTOMERSPEC,Customer Specifications,用户要求
+LBL_SPEC_CYCLE,Cycle,循环
+LBL_SPEC_DATE,Date,日期
+LBL_SPEC_DEG,deg,度
+LBL_SPEC_DEG2,Deg.,度
+LBL_SPEC_DEGCONTROUTPROCTEMP,Degree control of outlet process temp.,出口温度的控制
+LBL_SPEC_DEGREES,degrees,度数
+LBL_SPEC_DEN,Density,密度
+LBL_SPEC_DESMATCONST,"Design, Material, and Construction",设计、材料和建造
+LBL_SPEC_DESMDMTTEMP,Design/MDMT Temperature,设计温度/最低设计金属温度
+LBL_SPEC_DESPRESS,Design Pressure,设计压力
+LBL_SPEC_DESPRESS2,Design pressure,设计压力
+LBL_SPEC_DESTEMP,Design Temperature,设计温度
+LBL_SPEC_DESTEMP2,Design temperature,设计温度
+LBL_SPEC_DESTESTPRESS,Design/Test Pressure,设计/试验压力
+LBL_SPEC_DEWBUBPOINT,Dew/bubble point,露点/泡点
+LBL_SPEC_DIA,Diameter,直径
+LBL_SPEC_DRAIN,Drain,排液
+LBL_SPEC_DRIVER,Driver,驱动器
+LBL_SPEC_DRY,Dry,干
+LBL_SPEC_ENCLOSURE,Enclosure,附文
+LBL_SPEC_EXPJOINT,Expansion Joint,膨胀节
+LBL_SPEC_FACEVEL,Face velocity,迎风面速度
+LBL_SPEC_FAN,Fan,风扇
+LBL_SPEC_FANNOISELEVEL,Fan noise level,风扇噪音水平
+LBL_SPEC_FANPITCH,Fan pitch,风扇间距
+LBL_SPEC_FILLWITHWATER,Filled with Water,充水
+LBL_SPEC_FIN,Fin,翅片
+LBL_SPEC_FINDEN,Fin density,翅片密度
+LBL_SPEC_FINMATTYPE,Fin material and type,翅片材料和类型
+LBL_SPEC_FINTHICK,Fin thickness,翅片厚度
+LBL_SPEC_FIXMOVECOVER,Fixed and Movable Covers,固定和可动的封头
+LBL_SPEC_FLAMMABLESERVICE,Flammable service,可燃用途
+LBL_SPEC_FLOAHEAD,Floating Head,浮头
+LBL_SPEC_FLOAHEADCOV,Floating Head Cover,浮头盖
+LBL_SPEC_FLOWDIR,Flow Direction,流动方向
+LBL_SPEC_FLOWFRAC,Flow Fractions,流动分量
+LBL_SPEC_FLUIDALLOC,Fluid Allocation,流体分配
+LBL_SPEC_FLUIDNAME,Fluid Name,流体名称
+LBL_SPEC_FLUIDNAME2,Fluid name,流体名称
+LBL_SPEC_FLUIDQUANTOT,"Fluid Quantity, Total",流体数量，总计
+LBL_SPEC_FOULING,Fouling,污垢
+LBL_SPEC_FOULRESMIN,Fouling Resistance (min),污垢热阻（最小）
+LBL_SPEC_FRAMESIZELWH,"Frame Size: L x W x H,",框架尺寸：长x宽x高
+LBL_SPEC_FRAMEUNIT,Frames/Unit,框架数/组
+LBL_SPEC_FROM,From,自
+LBL_SPEC_FSTRSEALRODNO,Passlane Seal Rod No.,隔板区域密封挡杆数
+LBL_SPEC_GASKETMAT,Gasket material,垫片材料
+LBL_SPEC_GASKETS,Gaskets,垫片
+LBL_SPEC_GASKSHELL,Gaskets-Shell Side,垫片-壳侧
+LBL_SPEC_GASKTYPE,Gasket Type,垫片类型
+LBL_SPEC_GLUE,Glue,胶水
+LBL_SPEC_HEADER,Header,封头
+LBL_SPEC_HEADSURFPREP,Header surface prep.,封头表面预处理。
+LBL_SPEC_HEATCOIL,Heating Coil,加热盘管
+LBL_SPEC_HEATCOILSTAMP,Heating coil code stamped,加热盘管盖章
+LBL_SPEC_HEATEXCHANGED,Heat Exchanged,热负荷
+LBL_SPEC_HEATEXCHANGED2,Heat exchanged,热负荷
+LBL_SPEC_HEATEXCHRATDATASHEET,HEAT EXCHANGER RATING DATA SHEET,热交换器核算数据表
+LBL_SPEC_HEATEXCHSPECSHEET,HEAT EXCHANGER SPECIFICATION SHEET,热交换器规格表
+LBL_SPEC_HEATFLUID,Heating fluid,加热流体
+LBL_SPEC_HEATFLUIDFLOWRATE,Heating fluid flow rate,加热流体的流速
+LBL_SPEC_HOTSIDE,Hot Side,热侧
+LBL_SPEC_HUBMAT,Hub material,Hub材料
+LBL_SPEC_ID,ID,内径
+LBL_SPEC_IMPPLATE,Impingement Plate,防冲板
+LBL_SPEC_IN,In,进
+LBL_SPEC_INLET,Inlet,进口
+LBL_SPEC_INLETOUTLETNOZZ,Inlet/Outlet nozzle,进口/出口管嘴
+LBL_SPEC_INLETPRESS,Inlet Pressure,进口压力
+LBL_SPEC_INLETPRESS2,Inlet pressure,进口压力
+LBL_SPEC_INOUT,In/Out,进/出
+LBL_SPEC_INQUIRYNO,Inquiry No.,查询号
+LBL_SPEC_INSIDEFOULRES,Inside fouling resistance,内部污垢热阻
+LBL_SPEC_INTERM,Intermediate,中间
+LBL_SPEC_ITEMNO,Item No.,项目编号
+LBL_SPEC_JOBNO,Job No.,任务编号
+LBL_SPEC_KETTID,Kettle ID,釜内径
+LBL_SPEC_LADDWALKPLAT,"Ladders, walkways, platforms",梯子、走道、平台
+LBL_SPEC_LATHEAT,Latent Heat,潜热
+LBL_SPEC_LATHEAT2,Latent heat,潜热
+LBL_SPEC_LAYOUT,Layout,布局
+LBL_SPEC_LENGTH,Length,长度
+LBL_SPEC_LETHALSUBSTANCE,Lethal/toxic service,致命/有毒用途
+LBL_SPEC_LIQ,Liquid,液相
+LBL_SPEC_LIQOUT,Liq. Out,液相出
+LBL_SPEC_LIQVAP,Liquid/Vapor,液相/汽相
+LBL_SPEC_LIQVAP2,Liq/Vap,液相/汽相
+LBL_SPEC_LMTD,LMTD,对数平均温差
+LBL_SPEC_LOUVER,Louver,百叶
+LBL_SPEC_LOUVERS,Louvers,百叶
+LBL_SPEC_MANUF,Manufacturer,制造商
+LBL_SPEC_MASSVEL,Mass velocity,质量速度
+LBL_SPEC_MAT,Material,材料
+LBL_SPEC_MATCONSTR,Materials of Construction,建造材料
+LBL_SPEC_MAXCOOLING,"(Max. Cooling),+/-","(最大制冷量),+/-"
+LBL_SPEC_MAXPLATECAP,Max Plate Capacity,最大板片容量
+LBL_SPEC_MECHEQUIP,Mechanical Equipment,机械设备
+LBL_SPEC_METAL,Metal,金属
+LBL_SPEC_MINDESAMBTEMP,Minimum design ambient temp.,最小设计环境温度。
+LBL_SPEC_MINDESMETTEMP,Min. design metal temp.,最小设计金属温度。
+LBL_SPEC_MINWALLTHK,Min. Wall Thk.,最低壁厚
+LBL_SPEC_MODELNO,Model no.,型号
+LBL_SPEC_MODELNUM,Model Number,型号
+LBL_SPEC_MOLWEIGHTNONCOND,"Molecular Weight, Noncondensables",分子量，不凝气
+LBL_SPEC_MOLWEIGHTNONCOND2,Molecular Weight Noncondensables,分子量，不凝气
+LBL_SPEC_MOLWEIGHTVAP,"Molecular Weight, Vapor",分子量，汽相
+LBL_SPEC_MOLWEIGHTVAP2,Molecular Weight Vapor,分子量，汽相
+LBL_SPEC_MOLWTVAPNONCOND,Molecular Wt. (Vap/Non-cond),分子量（汽/不凝气）
+LBL_SPEC_MTDCORR,MTD (Corrected),平均温差 (修正后)
+LBL_SPEC_MTDEFF,"MTD, Eff.",有效平均温差
+LBL_SPEC_NO,No.,数量
+LBL_SPEC_NOBAY,No./Bay,数量/跨
+LBL_SPEC_NOBAYITEM,No. of bays/Items,跨数/单元数
+LBL_SPEC_NOBLADE,No. of blades,叶片数
+LBL_SPEC_NOBUND,No./Bundle,数量/管束
+LBL_SPEC_NOCROSSPASS,No. of Crosspasses,错流数
+LBL_SPEC_NOMPLATEGAP,Nominal Plate Gap,板片波纹深度
+LBL_SPEC_NONCOND,Noncondensables,不凝气
+LBL_SPEC_NONGLUE,Nonglue,非胶粘
+LBL_SPEC_NOPASS,No. of passes,程数
+LBL_SPEC_NOPASSNOCHANNPERPASS,No. Passes/ No. Channels Per Pass,程数/每程的通道数
+LBL_SPEC_NOPASSPERSHELL,No Passes per Shell,程数
+LBL_SPEC_NOTES,Notes,备注
+LBL_SPEC_NOTUBES,No. of tubes,换热管数量
+LBL_SPEC_NOZZLE,Nozzle,管嘴
+LBL_SPEC_NUMTUBEROW,Number of tube rows,换热管行数
+LBL_SPEC_OD,OD,外径
+LBL_SPEC_ORDERNO,Order No.,订单号
+LBL_SPEC_ORIEN,Orientation,方位
+LBL_SPEC_OUT,Out,出
+LBL_SPEC_OUTLET,Outlet,出口
+LBL_SPEC_OUTSIDEDIA,Outside diameter,外径
+LBL_SPEC_OVERALLFOULALLOW,Overall Fouling Allowance,总体污垢允许值
+LBL_SPEC_OVERDESIGN,Overdesign,设计裕量
+LBL_SPEC_PAGE,Page,页码
+LBL_SPEC_PAIRSEALSTR,Pairs seal strips,成对的密封条
+LBL_SPEC_PARALLEL,Parallel,并联
+LBL_SPEC_PERCCUTDIAM,%Cut (Diam),切口（按直径）%
+LBL_SPEC_PERCEXCAREA,% Excess Area,剩余面积%
+LBL_SPEC_PERFDATAAIR,Performance Data - Air Side,性能数据--空气侧
+LBL_SPEC_PERFDATATUBE,Performance Data - Tube Side,性能数据--管侧
+LBL_SPEC_PERFONEUNIT,PERFORMANCE OF ONE UNIT,单台性能
+LBL_SPEC_PERFONEUNIT2,Performance of One Unit,单台性能
+LBL_SPEC_PHASE,Phase,相态
+LBL_SPEC_PIPERACKBEAM,Pipe rack beams,管架横梁
+LBL_SPEC_PITCH,Pitch,中心距
+LBL_SPEC_PITCHADJUST,Pitch adjustment,间距调整
+LBL_SPEC_PLANTLOC,Plant Location,工厂地址
+LBL_SPEC_PLANTLOC2,Plant location,工厂地址
+LBL_SPEC_PLATECHEVANG,Plate Chevron Angle(s),板片波纹夹角
+LBL_SPEC_PLATES,Plates,板片
+LBL_SPEC_PLATETHICK,Plate Thickness,板片厚度
+LBL_SPEC_PLOTAREAWL,Plot area (WxL),地块面积（宽x长）
+LBL_SPEC_PLUGMAT,Plug material,管塞材料
+LBL_SPEC_POSITIONER,Positioner,定位器
+LBL_SPEC_PREPBY,Prepared by,编写
+LBL_SPEC_PRESSDESIGNCODE,Pressure design code,设计规范
+LBL_SPEC_PRESSDROPALLCALC,Pressure drop (All/Calc),压降（允许/计算）
+LBL_SPEC_PRESSDROPALLOWCALC,"Pressure Drop, Allow/Calc",压降（允许/计算）
+LBL_SPEC_PRESSDROPALLOWCALC2,Pressure Drop Allowed/Calc'd,压降（允许/计算）
+LBL_SPEC_PROPNO,Proposal No.,方案编号
+LBL_SPEC_RATING,Rating,等级
+LBL_SPEC_RATINGFACING,Rating/Facing,等级/密封面
+LBL_SPEC_REFNO,Reference No.,引用编号
+LBL_SPEC_REFNO2,Ref No.,引用编号
+LBL_SPEC_REMARKS,Remarks,备注
+LBL_SPEC_REV,Rev,版本
+LBL_SPEC_REVISION,Revision,版本
+LBL_SPEC_REVSMIN,Revs/min.,转速/分钟。
+LBL_SPEC_RHOV2INNOZZ,Rho-V2-Inlet Nozzle,Rho-V2 - 壳程进口
+LBL_SPEC_RPM,RPM,转速
+LBL_SPEC_SEALTYPE,Seal Type,密封类型
+LBL_SPEC_SELETEMP,Selection temp.,选择温度。
+LBL_SPEC_SERIES,Series,串联
+LBL_SPEC_SERVICE,Service,用途
+LBL_SPEC_SERVICEUNIT,Service of Unit,设备用途
+LBL_SPEC_SERVIEFACTOR,Service factor,用途系数
+LBL_SPEC_SHELL,Shell,壳体
+LBL_SPEC_SHELLCOVER,Shell Cover,壳体封头
+LBL_SPEC_SHELLENTR,Shell Entrance,壳体进口
+LBL_SPEC_SHELLEXIT,Shell Exit,壳体出口
+LBL_SPEC_SHELLID,Shell ID,壳体内径
+LBL_SPEC_SHELLSIDE,Shell Side,壳侧
+LBL_SPEC_SHELLSIDE2,Shellside,壳侧
+LBL_SPEC_SHELLUNIT,Shell/Unit,壳/台
+LBL_SPEC_SHIPPING,Shipping,运输
+LBL_SPEC_SHROUD,Shroud,裹布
+LBL_SPEC_SIGNALAIRPRESS,Signal air pressure,信号空气压力
+LBL_SPEC_SIZE,Size,尺寸
+LBL_SPEC_SIZE2,Size &,尺寸与
+LBL_SPEC_SIZERATFAC,"Size, Rating, & Facing",尺寸、等级、与密封面
+LBL_SPEC_SIZEWL,Size (WxL),尺寸（宽x长）
+LBL_SPEC_SKETCHBUNDNOZZ,Sketch (Bundle/Nozzle Orientation),简图（管束/管嘴朝向）
+LBL_SPEC_SLOPE,Slope,坡度
+LBL_SPEC_SPACING,Spacing(c/c),间距（c/c）
+LBL_SPEC_SPECGRAV,Specific Gravity,比重
+LBL_SPEC_SPECHEAT,Specific Heat,比热
+LBL_SPEC_SPECHEAT2,Specific heat,比热
+LBL_SPEC_SPEEDRATIO,Speed ratio,速度比
+LBL_SPEC_SPEEDREDUCER,Speed Reducer,减速器
+LBL_SPEC_STASTUDFLAN,State whether studded or flanged,说明是带钉子的还是带法兰的
+LBL_SPEC_STATPRESS,Static pressure (bundle/total),静压（管束/总）
+LBL_SPEC_STEAM,Steam,蒸汽
+LBL_SPEC_STRUCTCODE,Structural code,结构规范
+LBL_SPEC_STRUMOUNT,Structure mounting,结构安装
+LBL_SPEC_STRUSURFPREP,Structure surface prep.,结构表面预处理。
+LBL_SPEC_SUPPLYAIRPRESS,Supply air pressure,供应空气压力
+LBL_SPEC_SUPPORT,Support,支撑
+LBL_SPEC_SUPPTUBE,Supports-Tube,换热管支撑
+LBL_SPEC_SURFITEMFINTUBE,Surface/Item-Finned tube,换热面积/项目-夹层管
+LBL_SPEC_SURFSHELLGROEFF,Surf/Shell (Gross/Eff),单壳换热面积（总/有效）
+LBL_SPEC_SURFUNITGROEFF,Surf/Unit (Gross/Eff),单台换热面积（总/有效）
+LBL_SPEC_TEMACLASS,TEMA Class,TEMA分类
+LBL_SPEC_TEMP,Temperature,温度
+LBL_SPEC_TESTPRESS,Test pressure,试验压力
+LBL_SPEC_THERMCOND,Thermal Conductivity,导热系数
+LBL_SPEC_THERMCOND2,Thermal Cond.,导热系数
+LBL_SPEC_THERMRES,"Thermal Resistance, %",热阻%。
+LBL_SPEC_THICK,Thickness,壁厚
+LBL_SPEC_THKAVG,Thk(Avg),平均壁厚
+LBL_SPEC_TIEBOLTS,Tie Bolts,拉杆螺栓
+LBL_SPEC_TIPSPEED,Tip speed,触点速度
+LBL_SPEC_TO,To,至
+LBL_SPEC_TOTAL,Total,共计
+LBL_SPEC_TOTFLOWRATELIQVAP,Total flow rate (Liq/Vap),总体流速（液/汽）
+LBL_SPEC_TOTFLUIDENTER,Total fluid entering,进入的液体总量
+LBL_SPEC_TOTFLUIDFLOW,Total Fluid Flow,总流体流量
+LBL_SPEC_TOTNOPLATES,Total No. Plates,板片总数
+LBL_SPEC_TRANSRATE,Transfer Rate,传热系数
+LBL_SPEC_TRANSRATEFIN,Transfer rate-Finned,翅片传热系数
+LBL_SPEC_TRANSRATESERV,"Transfer Rate, Service",传热系数，污垢
+LBL_SPEC_TUBE,Tube,换热管
+LBL_SPEC_TUBEBUND,Tube bundle,管束
+LBL_SPEC_TUBEBUNDLESTAMP,Tube bundle code stamped,管束代码盖章
+LBL_SPEC_TUBEFLOA,Tubesheet-Floating,浮动管板
+LBL_SPEC_TUBEMAT,Tube material,管材料
+LBL_SPEC_TUBENO,Tube No.,换热管数量
+LBL_SPEC_TUBEOD,Tube outside diameter,管外径
+LBL_SPEC_TUBESIDE,Tube Side,管侧
+LBL_SPEC_TUBESIDE2,Tubeside,管侧
+LBL_SPEC_TUBESTA,Tubesheet-Stationary,固定管板
+LBL_SPEC_TUBETUBEJOINT,Tube-Tubesheet Joint,换热管-管板连接
+LBL_SPEC_TUBETYPE,Tube Type,换热管形式
+LBL_SPEC_TYPE,Type,形式
+LBL_SPEC_TYPEDRAFT,Type draft,简图
+LBL_SPEC_UBEND,U-Bend,U形弯
+LBL_SPEC_UNITWEIGHTS,Unit Weights,单台重量
+LBL_SPEC_VAP,Vapor,气相
+LBL_SPEC_VEL,Velocity,流速
+LBL_SPEC_VELALLOWCALC,Velocity (Allow/Calc),流速 (允许/计算)
+LBL_SPEC_VELS,Velocities,流速
+LBL_SPEC_VENT,Vent,排气
+LBL_SPEC_VIBSWITCH,Vib. switch,震动开关
+LBL_SPEC_VIS,Viscosity,粘度
+LBL_SPEC_VOLTAGE,Voltage,电压
+LBL_SPEC_WALLSHEARSTRAVG,"Wall Shear Stress, Average",壁面切应力，平均
+LBL_SPEC_WATER,Water,水
+LBL_SPEC_WATERSTEAM,Water/Steam,水/蒸汽
+LBL_SPEC_WEISHELL,Weight/Shell,重量 - 壳体
+LBL_SPEC_WINDOW,Window,窗口
+LBL_SPEC_WTPERC,wt%,重量%
+LBL_SPECGRAV1,Specific gravity (Air = 1.0),比重（空气=1.0）
+LBL_SPECGRAVAPI,Specific gravity / deg. api,比重/度 API
+LBL_SPECHEAT,Specific heat,比热
+LBL_SPECHEATLV,"Specific heat, (liquid/vapor)",比热（液体/蒸汽）
+LBL_SPECIAL,Special,特别
+LBL_SPLITSEGHEIGHT,Split segment height,分割段高度
+LBL_SPLITSEGWID,Split segment width,分割段宽度
+LBL_SS,SS,党卫军
+LBL_STACK,Stack,堆栈
+LBL_STACKBUNDLE,Stack bundle,堆栈捆绑
+LBL_STACKELM,Stack Element,堆栈元素
+LBL_STACKFG,Stack Flue Gas,烟囱烟气
+LBL_STACKHT,Stack height,堆栈高度
+LBL_STACKINFO,Stack Information,堆栈信息
+LBL_STACKLEN,Stack length,堆栈长度
+LBL_STACKLIM,Stack limitations,堆栈限制
+LBL_STACKMON,Stack Monitor,堆栈监控
+LBL_STAGGERED,Staggered,交错式
+LBL_STAIRSLAD,Stairs / ladder,楼梯/梯子
+LBL_STANDARD,Standard,标准
+LBL_STARTOFPERIOD,Start of Period,期间开始
+LBL_STARTOFRUN,SOR,证券交易所
+LBL_STARTOFRUN2,Start of Run,运行开始
+LBL_STATHEADLOSS,Static head loss,静态水头损失
+LBL_STATHEADPRESSDROP,Static head pressure drop,静压头压降
+LBL_STATIC,Static,靜態
+LBL_STATICHEAD,Static head,静态头
+LBL_STATPRESS,Bundle pressure drop,捆绑式压降
+LBL_STATPRESSLOSS,Static pressure loss,静态压力损失
+LBL_STATVELPRESS,Bundle pressure drop/ Velocity pressure,捆绑压降/速度压力
+LBL_STEAM,Steam,蒸汽
+LBL_STEAMCOIL,Steam coil,蒸汽盘管
+LBL_STEAMCOILPRESS,Steam coil pressure drop,蒸汽盘管压降
+LBL_STEPSIZE,Step Size,台阶大小
+LBL_STIRFACT,Stirring factor,搅动因素
+LBL_STKSTUB,Stack or stack stub,堆栈或堆栈存根
+LBL_STRAIGHT,Straight,直线
+LBL_STRAIGHTLEN,Straight length,直线长度
+LBL_STREAM,Stream,溪流
+LBL_STREAMPROP,Stream Properties,溪流属性
+LBL_STRESSCRVINT,Stress curves intersect,应力曲线相交
+LBL_STRESSTORUP,Stress-to-rupture basis,应力-断裂基础
+LBL_STRTUBELEN,Straight tube length,直管长度
+LBL_STRUCTWINDVEL,Structural design data: wind velocity,结构设计数据：风速
+LBL_STRUWEI,Structure weight,结构重量
+LBL_STUDDIA,Stud diameter,螺柱直径
+LBL_STUDHT,Stud height,螺柱高度
+LBL_STUDLEN,Stud length,螺柱长度
+LBL_SUMMARYMSGS,Summary Messages,摘要信息
+LBL_SUPPBAFFSPA,Supports/baffle space,支撑/折流板空间
+LBL_SUPPLRES,Supplementary Results,补充结果
+LBL_SUPPORT,Support,支持
+LBL_SUPPPLTBAFFSPA,Support plates/baffle space,支撑板/巴伐利亚空间
+LBL_SUPPSPACE,Support Spacing,支架间距
+LBL_SURFACE,Surface,表面
+LBL_SURFAREA,Surface area,表面积
+LBL_SURFAREAENLFACT,Surface area enlargement factor,表面积扩大系数
+LBL_SURFTENS,Surface tension,表面张力
+LBL_SYMPASS,Symmetric pass,对称性通过
+LBL_TAPERED,Tapered,锥形
+LBL_TBWLTHKMINAVG,"Tube wall thickness, (minimum) (average)",管壁厚度，（最小）（平均）。
+LBL_TDOWN,T Down,T 坠落
+LBL_TEMA,TEMA,TEMA
+LBL_TEMAFOULRES,TEMA fouling resistance,TEMA抗污性
+LBL_TEMAQMULT1,Note: Reported duty and flow rates include a user-specified multiplier of,注：报告的负载和流量包括一个用户指定的乘数，即
+LBL_TEMAQMULT2,Reported duty and flow rates include a user-,报告的值班和流速包括一个用户的
+LBL_TEMAQMULT3,specified multiplier of,指定乘数为
+LBL_TEMASHELLTYPE,TEMA shell type,TEMA形式
+LBL_TEMATYPE,TEMA type,TEMA型
+LBL_TEMP,Temperature,温度
+LBL_TEMP2,Temp.,温度。
+LBL_TEMPALLOW,Temperature allowance,温度津贴
+LBL_TEMPALLOWDES,Temperature allowance for design,设计的温度余量
+LBL_TEMPAVGSKIN,"Temperature, Average/Skin",温度，平均/皮肤
+LBL_TEMPBRN,Temp. @ burner,温度。 @ 燃烧器
+LBL_TEMPDEPPROPS,Temperature dependent properties,与温度有关的特性
+LBL_TEMPFACT,Temperature factor (FT),温度系数 (FT)
+LBL_TEMPINOUT,"Temperature, In/Out",温度，进/出
+LBL_TEMPINOUT2,Temperature (In/Out),温度（进/出）
+LBL_TEMPINOUT3,"Temperature, Inlet/Outlet",温度，进/出
+LBL_TEMPMALDISTDATA,Temperature Maldistribution Data,温度不良分布数据
+LBL_TEMPMINMAXDES,"Temperature, (min. / max. /design)",温度，（最小/最大/设计）。
+LBL_TEMPPROFHTR,Heater Temperature Profile,加热器温度曲线
+LBL_TEMPPROFMON,Temperature Profile Monitor,温度曲线监测器
+LBL_TERMSMAN,Terminals and / or manifolds,端子和/或歧管
+LBL_THERMALSPROCOND,Thermosiphon Process Conditions,热虹吸工艺条件
+LBL_THERMCOND,Thermal conductivity,导热性能
+LBL_THERMCONDLV,"Thermal conductivity, (liquid/vapor)",热导率，（液体/蒸汽）
+LBL_THERMEFF,Thermal efficiency,热效率
+LBL_THERMEXPAND,Thermal expansion,热膨胀
+LBL_THERMOREB,Thermosiphon reboiler,热虹吸式再沸腾器
+LBL_THERMRES,Thermal Resistance,热阻
+LBL_THICKNESS,Thickness,厚度
+LBL_THIRDVALUE,Third value,第三种价值
+LBL_THREEVALPRINT,3 values printed per data point:,每个数据点打印3个值。
+LBL_THROATDIA,Throat diameter,喉部直径
+LBL_THROATVEL,Throat velocity,喉咙的速度
+LBL_THRUFLOW,ThroughFlow,贯穿流
+LBL_TIGHTPACKLEN,Tightened pack length,收紧的包装长度
+LBL_TIME,Time,时间
+LBL_TIMECREEP,Time in creep range,蠕变范围内的时间
+LBL_TIPCLEAR,Tip clearance,提示间隙
+LBL_TIPSPEED,Tip speed,触点速度
+LBL_TIPTHK,Tip thickness,针尖厚度
+LBL_TITLE,Title,标题
+LBL_TOADJBRN,To adjacent burner centerline (horizontal / vertical),至相邻的燃烧器中心线（水平/垂直）。
+LBL_TOCL,to C.L,距中线
+LBL_TOP,Top,返回顶部
+LBL_TOPVALUE,Top value,最高价值
+LBL_TOT,Total,共计
+LBL_TOTAREA,Total area,总面积
+LBL_TOTBAREAREA,Total bare area,总的裸露面积
+LBL_TOTDRAFT,Total draft,草案总数
+LBL_TOTEFFAREA,Total effective area,总有效面积
+LBL_TOTEXPSURF,Total exposed surface,暴露的总表面
+LBL_TOTEXTAREA,Total Extended area,总扩展面积
+LBL_TOTFLOWRATE,Total flow rate,总流量
+LBL_TOTFOULRES,Total fouling resistance,总的抗污能力
+LBL_TOTHTRABSQ,Total heater absorbed duty,加热器吸收的总负载
+LBL_TOTNUMTUBES,Total number of tubes,管子总数
+LBL_TOTPIPPRESSDROP,Total piping pressure drop,管道总压降
+LBL_TOTPLATCHANN,Total plates/channels,板块/通道总数
+LBL_TOTSINKAREA,Total sink area,水槽总面积
+LBL_TOTTUBE,Total tubesheet,管板厚度
+LBL_TOTTUBECOUNT,Total tube count,总管子数
+LBL_TOTTUBES1PASS,Total number of tubes in 1 pass,1个通道的总管数
+LBL_TOTTUBESURFAREA,Total tube surface area,管子总表面积
+LBL_TOTUBECENT,To tube centerline (horizontal / vertical),对管子中心线（水平/垂直）。
+LBL_TOTUBESAT,To tubes at,对管在
+LBL_TOTWEIDRYWET,"Total weight, Dry / Wet",总重量，干/湿
+LBL_TOUNSREF,To unshielded refractory (horizontal / vertical),至非屏蔽耐火材料（水平/垂直）。
+LBL_TRANSPITCH,Trans pitch,转距
+LBL_TRANSVERSEPITCH,Transverse pitch,横向间距
+LBL_TUBE,Tube,管
+LBL_TUBECIRCDIA,Tube circle diameter,管圆直径
+LBL_TUBECOILEXISTS,Tube coil exists?,管状线圈存在吗？
+LBL_TUBECOUNT,Tubecount,管数
+LBL_TUBEDATA,Tube Data,管子数据
+LBL_TUBEDELTAP,Tubeside delta P,油管边的三角洲P
+LBL_TUBEDESPRESS,Tubeside design pressure,油管侧设计压力
+LBL_TUBEDESTEMP,Tubeside design temperature,管壁设计温度
+LBL_TUBEDIA,Tube diameter,管子直径
+LBL_TUBEFILMCOEF,Tubeside film coef,管状薄膜系数
+LBL_TUBEFINBAFF,Tube finned in baffles,挡板内的管状翅片
+LBL_TUBEFIRECONFIG,Tube firing configuration,管式发射配置
+LBL_TUBEFJCURVE,Tubeside FJ-Curve,管侧FJ-曲线
+LBL_TUBEFLUXMON,Tube flux monitor,管子通量监测器
+LBL_TUBEFORM,Tube form,管道形式
+LBL_TUBEGAP,Tube gap,管子间隙
+LBL_TUBEGEO,Tube Geometry,管子的几何形状
+LBL_TUBEGUIDES,Tube guides,导管
+LBL_TUBEH,Tube h,管子h
+LBL_TUBEID,Tube ID,管子内径
+LBL_TUBEINCMON,Tubeside Incremental Monitor,油管旁的增量监测器
+LBL_TUBEINF,Tube Information,换热管信息
+LBL_TUBEINLET,Tube inlet,换热管进口
+LBL_TUBELAYINSTAG,Tube layout (in-line or staggered),管道排列（直列式或交错式）。
+LBL_TUBELAYOUTANG,Tube layout angle,换热管排列角度
+LBL_TUBELEN,Tube length,换热管长度
+LBL_TUBELIFEEVAL,Tube Life Evaluation,管子寿命评估
+LBL_TUBELIFEEVALMAX,Tube Life Evaluation (Maximum Temperature),管子寿命评估（最高温度）
+LBL_TUBELIFEEVALPAST,Tube Life Evaluation (Past),管子寿命评估（过去）
+LBL_TUBELIFEEVALPREDICT,Tube Life Evaluation (Predicted Life),管子寿命评估（预测寿命）
+LBL_TUBELIFEPREVUSED,"Tube life previously used, fraction",以前使用的管子寿命，分数
+LBL_TUBELIM,Tube limitations,管子的限制
+LBL_TUBEMAT,Tube material,换热管材料
+LBL_TUBEMATINFO,Tube Material Information,换热管材料信息
+LBL_TUBEMET,Tube metal,材料
+LBL_TUBEMETRGY,Tube metallurgy,管子冶金学
+LBL_TUBENATFREQ,Tube natural frequency,管子的自然频率
+LBL_TUBENO,Tube No.,管号
+LBL_TUBENOZDIST,Tubeside nozzle entry/exit type,油管侧喷嘴入口/出口类型
+LBL_TUBENOZIMPDEVICE,Tubeside nozzle impingement device,管侧喷嘴撞击装置
+LBL_TUBENOZZ,Tube Nozzle,管状喷头
+LBL_TUBENUM,Tube number,换热管数
+LBL_TUBEOD,Tube OD,管外径
+LBL_TUBEODDEVEN,"Tubecount, Odd rows/Even rows",管数，奇数行/偶数行
+LBL_TUBEODDEVEN2,Tubecount Odd/Even,管子数量奇数/偶数
+LBL_TUBEODID,Tube OD/ID,管子外径/内径
+LBL_TUBEORIENT,Tube orientation,管子方向
+LBL_TUBEORVTHZ,Tube orientation: vertical or horizontal,管子方向：垂直或水平
+LBL_TUBEOUTLET,Tube outlet,管子出口
+LBL_TUBEPASS,Tube Pass,钢管通行证
+LBL_TUBEPASS2,Tubepass,管乐通
+LBL_TUBEPASSARRDATA,Tubepass Arrangement Data,管口安排数据
+LBL_TUBEPASSDETAIL,Tubepass Details,管程详细
+LBL_TUBEPASSES,Tubepasses,管程
+LBL_TUBEPASSTUBEROW,Tubepasses/Tuberows,管状物/管状物
+LBL_TUBEPATT,Tube pattern (deg),排列角度
+LBL_TUBEPERROW,Tubes per row,每行管子
+LBL_TUBEPERSHELL,Tubecount per shell,单台管数
+LBL_TUBEPITCH,Tube pitch,管距
+LBL_TUBEPITCHRATIO,Tube pitch ratio,管距比
+LBL_TUBEPRESSDROPTOTALLOW,"Tube pressure drop, Total/Allowed",管子压降，总的/允许的
+LBL_TUBEPROCCOND,Tubeside Process Conditions,管子侧的工艺条件
+LBL_TUBEREM,Tube removal,拆管
+LBL_TUBEROW,Tuberow,图博罗
+LBL_TUBEROW2,Tube row,管排
+LBL_TUBEROWMON,Tuberow Monitor,图博罗监控器
+LBL_TUBEROWS,Tube rows,管排
+LBL_TUBES,Tubes,管子
+LBL_TUBESDATA,Tubes Data,油管数据
+LBL_TUBESECTION,Tube section,管段
+LBL_TUBESIDE,Tubeside,管侧
+LBL_TUBESIDEENTRYTYPE,Tubeside entry type,管状入口类型
+LBL_TUBESIDEEXITTYPE,Tubeside exit type,管子侧出口类型
+LBL_TUBESIDEH,Tubeside h,油管边h
+LBL_TUBESIDEHOT,Tubeside (Hot),筒子楼 (热)
+LBL_TUBESIDEINLET,Tubeside inlet,油管侧进油口
+LBL_TUBESIDEINPOS,Tubeside inlet position,油管侧进气口位置
+LBL_TUBESIDELIQOUT,Tubeside outlet liquid,管侧出口液体
+LBL_TUBESIDEOUTLET,Tubeside outlet,油管侧出口
+LBL_TUBESKINTHERM,Tube skin thermocouples,管皮式热电偶
+LBL_TUBESPACCC,"Tube spacing, cent. to cent.: horz. x diag. (or vert.)",管子的间距，厘米对厘米：角x直角（或垂直）。
+LBL_TUBESUPP,Tube supports,管子支撑
+LBL_TUBESUPPINFO,Tube support information,软管支持信息
+LBL_TUBETHICK,Tubesheet thickness,管板厚度
+LBL_TUBETOBAFF,Tube-to-baffle,管子到挡板
+LBL_TUBETYPE,Tube type,换热管类型
+LBL_TUBETYPEHIGHFIN,High-finned,高鳍鱼
+LBL_TUBETYPEIPERAC,IPERAC,IPERAC
+LBL_TUBETYPELOWFIN,Low-finned,低鳍鱼
+LBL_TUBETYPEPLAIN,Plain,朴素
+LBL_TUBETYPESTUDFIN,Stud-fin,螺线管
+LBL_TUBEVIB,Tube Vibration Check,管子振动检查
+LBL_TUBEVOL,Tubeside volume,管状体积
+LBL_TUBEWALLTHK,Tube wall thickness,管壁厚度
+LBL_TUBEZONES,Tube zones,管区
+LBL_TUP,T Up,T向上
+LBL_TURBBUFFAMP,Turbulent buffeting amplitude,湍流冲击波振幅
+LBL_TURBBUFFRAT,Turbulent buffeting ratio,湍流缓冲比
+LBL_TURNSPACING,Turn Spacing,转弯间距
+LBL_TWISTPITCH,Twist pitch,扭曲间距
+LBL_TWISTSWAG,Twisted/Swagged,扭曲/扭曲的
+LBL_TWOPHASEFLOWREG,Two-phase flow regime,两相流制度
+LBL_TWOPHASEPARA,Two-Phase Parameters,两相参数
+LBL_TWOPHASEPROP,Two-Phase Properties,两相属性
+LBL_TWOPHASEREY,Two phase Reynolds,两相雷诺
+LBL_TYPE,Type,类型
+LBL_TYPE1,Type 1,类型1
+LBL_TYPE2,Type 2,类型2
+LBL_TYPEBEVMANFLG,"Type (bev. = beveled, manif. = manifold, flg. = flanged)",类型（bev.=斜面，manif.=歧管，flg.=法兰盘）。
+LBL_TYPEBURN,Type of burner,燃烧器的类型
+LBL_TYPECNTRL,"Type (control, tight shut-off, etc.)",类型（控制、紧闭等）。
+LBL_TYPEFINS,Type: (studs) (serrated fins) (solid fins),类型：（螺柱）（锯齿状翅片）（实心翅片）
+LBL_TYPEFLOOR,Type of flooring,地板类型
+LBL_TYPEFUEL,Type of fuel,燃料类型
+LBL_TYPEHEATER,Type of heater,加热器类型
+LBL_TYPEMETAL,Type of metal,金属类型
+LBL_TYPEOPER,Type of operator (cable or pneumatic),操作器的类型（电缆或气动）。
+LBL_TYPESPACING,Type / spacing,类型/间距
+LBL_TYPETHKINS,Type and thickness of insulation,绝缘材料的类型和厚度
+LBL_UARR,U,U
+LBL_UBENDSPANPROFILE,U-Bend Span Profiles Table,U型弯管跨度概况表
+LBL_UCALC,U (Calc),U (计算)
+LBL_UHC,UHC,UHC
+LBL_UINOUT,"Coefficient, Inside/Outside",系数，内部/外部
+LBL_UNFINNEDLEN,Unfinned length,无销路的长度
+LBL_UNHEATEDLEN,Unheated length,未加热的长度
+LBL_UNIT,Unit #,单位 #
+LBL_UNIT2,Unit,单位
+LBL_UNITBUNDCONS,Unit and Bundle Construction Information,单元和捆绑式结构信息
+LBL_UNITCONFIGDATA,Unit Configuration Data,单位配置数据
+LBL_UNITDATA,Unit Data,单位数据
+LBL_UNITGEO,Unit Geometry,单位几何学
+LBL_UNITSERIPARA,Units in series/parallel,串联/并联的单位
+LBL_UNITSINPARALLEL,Units in parallel,并联的单位
+LBL_UNKNOWN,Unknown,不详
+LBL_UNSPECIFIED,Unspecified,未说明
+LBL_UOPFLUIDTYPE,UOP fluid type,UOP流体类型
+LBL_UP,Up,上
+LBL_UPWARD,Upward,向上
+LBL_UTUBE,U-tube,U形管
+LBL_UTUBES,U-tubes,U形管
+LBL_VANLAARAB,"VanLaar constants (A, B)",范拉尔常数（A，B）
+LBL_VAP,Vapor,蒸汽
+LBL_VAPFLOW,Vapor flow,蒸汽流
+LBL_VAPI530FIG2,V (per API 530 Figure 2),V (根据API 530图2)
+LBL_VAPMOLEFRAC,Vapor Mole Fractions,蒸汽摩尔分数
+LBL_VAPMOLEWT,Vapor molecular weight,蒸汽分子量
+LBL_VAPORH,Vapor phase h,气相h
+LBL_VAPPRESDATA,Vapor Pressure Data,蒸汽压力数据
+LBL_VAPPRN,Vapor Prandtl,蒸汽普朗特（Vapor Prandtl
+LBL_VAPPROP,Vapor Properties,蒸气特性
+LBL_VAPREY,Vapor Reynolds,蒸汽雷诺兹
+LBL_VAPRHOV2,Vapor RHO-V2,Vapor RHO-V2
+LBL_VARBAFFSPADATA,Variable Baffle Spacing Data,可变挡板间距数据
+LBL_VARBAFFSPAGEO,Variable Baffle Spacing Geometry,可变的挡板间距几何
+LBL_VARYBLOCKS,Vary blocks,变化的区块
+LBL_VARYMODELS,Vary models,不同的模型
+LBL_VARYPROCESSPASSES,Vary process passes,变化的程序通过
+LBL_VARYSERIVEPASSES,Vary service passes,变化的服务通行证
+LBL_VEL,Velocity,速度
+LBL_VELFANINLET,Velocity at fan inlet,风机入口处的速度
+LBL_VELLIMIT,Velocity limitation,速度限制
+LBL_VELMIDMAXALLOW,"Velocity, Mid/Max allow",流速，中间/最高允许
+LBL_VELPRESS,Velocity pressure,速度压力
+LBL_VELS,Velocities,速度
+LBL_VENTDRAIN,Vents / drains,通风口/排水口
+LBL_VERT,Vertical,纵向
+LBL_VERT2,Vert.,眩晕。
+LBL_VERTDISPORTCENT,Vertical distance of port centers,港口中心的垂直距离
+LBL_VERTPORTCC,Vertical port c-c,垂直口c-c
+LBL_VERTZONE,Vertical Zone,垂直区
+LBL_VIBANALYSIS,Vibration Analysis,振动分析
+LBL_VIBDATA,Vibration Data,振动数据
+LBL_VIBINFO,Vibration Information,振动信息
+LBL_VIBMESS1,Natural or acoustic frequency used in vibration analysis.,振动分析中使用的自然或声学频率。
+LBL_VIBMESS1A,See help for additional information.,其他信息见帮助。
+LBL_VIBMESS2,Items with asterisk exceed a conservative lower limit for vibration-free design.,带星号的项目超过了无振动设计的保守下限。
+LBL_VIBMESS2A,Review your case using the procedure described in Online Help;,使用在线帮助中描述的程序审查你的案件。
+LBL_VIBMESS2B, You may find that a vibration problem is unlikely.,你可能会发现，振动问题不太可能。
+LBL_VIBMODMESSAGE, * Mode shapes at equivalent natural frequencies have been combined.,* 等效自然频率的模式形状已被合并。
+LBL_VIS,Viscosity,粘度
+LBL_VISCLV,"Viscosity, (liquid/vapor)",粘度，（液体/蒸汽）
+LBL_VL,V/L,V/L
+LBL_VOLENBOX,Volumetric energy into box,体积能量入箱
+LBL_VOLFLOW,Volumetric flow,体积流量
+LBL_VOLFLOWPERFANINLET,Volumetric flow per fan at fan inlet,风扇入口处每个风扇的体积流量
+LBL_VOLHEATRES,Volumetric heat release (LHV):,体积热量释放（LHV）。
+LBL_VOLPCT,Vol. %,量％。
+LBL_VOLUME,Volume,卷首语
+LBL_VORTEXSHEDRAT,Vortex shedding ratio,涡流脱落率
+LBL_VORTSHEDAMPMON,Vortex Shedding Amplitude Monitor,涡流脱落振幅监测器
+LBL_VT,VT,VT
+LBL_WALLCLR,Wall Clr.,墙面
+LBL_WALLCONST,Wall construction,墙体结构
+LBL_WALLCORR,Wall Correction,墙面矫正
+LBL_WALLDTREQUIREDFORONB,Superheat for Onset of Nucleate Boiling,核酸沸腾开始时的过热度
+LBL_WALLSURFACE,Wall surface,墙壁表面
+LBL_WALLTEMPMINMAX,"Wall temperature, Min/Max",壁温，最低/最高
+LBL_WALLTHICK,Wall thickness,壁厚
+LBL_WALLTHICKNESSFINNED,Wall thickness (finned),壁厚（翅片式）
+LBL_WALLVISC,Wall viscosity,壁面黏度
+LBL_WARNING,Warning,警告
+LBL_WARNINGS,Warnings,警告
+LBL_WARNMSGS,Warning Messages,警告信息
+LBL_WATER,Water,水
+LBL_WDIST,w/Dist,湿度
+LBL_WEIBUND,Weight/Bundle,重量/捆绑
+LBL_WEIESTWETDRYBUND,Weight estimation Wet/Dry/Bundle,估重 湿/干/管束
+LBL_WEIGHT,Exchanger Weights,热交换器重量
+LBL_WELDFLG,Welded or flanged,焊接式或法兰式
+LBL_WELDJNT,Welded or rolled joint,焊接或轧制接头
+LBL_WID,Width,宽度
+LBL_WINDOCCUR,Wind occurrence,风的发生
+LBL_WINDOW,Window,窗口
+LBL_WINPARAVEL,Window parallel velocity,窗口平行速度
+LBL_WIREDIA,Wire Diameter,钢丝直径
+LBL_WITH,With,与
+LBL_WITHDIST,/w Dist,/w Dist
+LBL_WTFRAC,Wt. fraction,重量分量
+LBL_WTFRACVAP,Wt. frac vap.,重量，裂解蒸汽。
+LBL_WTFRACVAPOR,Weight fraction vapor,蒸气的重量分数
+LBL_WTPCT,Wt. %,重量百分比
+LBL_X,X,X
+LBL_XDIR,X-Direction,X-方向
+LBL_XZONE,X Zone,X区
+LBL_Y,Weight fraction vapor,蒸气的重量分数
+LBL_YDIR,Y-Direction,Y-方向
+LBL_YEARS,Years,年
+LBL_YES,Yes,有
+LBL_YES2,YES,有
+LBL_YIELDSTRESS,Yield stress,屈服应力
+LBL_YINOUT,"Weight fraction vapor, In/Out",气相质量分率，进/出
+LBL_YINOUT2,"Weight fraction vapor, Inlet/Outlet",气相质量分率，进/出
+LBL_YY,Y,Y
+LBL_YZONE,Y Zone,Y区
+LBL_Z,Z,Z
+LBL_ZARR,Z,Z
+LBL_ZDIR,Z-Direction,Z-方向
+LBL_ZONE,Zone,区
+LBL_ZONENUM,Zone number,区号
+LBL_ZZONE,Z Zone,Z区
+LBL_WALL,Wall,墙壁
+LBL_STARTING,Starting,开始
+LBL_ENDING,Ending,结束
+LBL_NUMBERING,Numbering,编号
+LBL_STARTSAT,Starts at,起点是
+LBL_FBOXTUBENUM,Box tube numbers,箱体管号
+LBL_SHARED,Shared,共用的
+LBL_ANNULUS,Annulus,环形物
+LBL_ANNULUSDELTAP,Annulus delta P,环形三角区P
+LBL_ANNULUSFLUID,Annulus fluid,环状液
+LBL_ANNULUSH,Annulus h,环形物h
+LBL_ANNULUSIN,Annulus In,环形物在
+LBL_ANNULUSOUT,Annulus Out,环形山出山
+LBL_APPANNULUS,Approximate annulus,近似的环形结构
+LBL_APPPIPE,Approximate pipe,大约的管道
+LBL_EXCHORIANG,Exchanger orientation angle,交换器定向角
+LBL_EXCHSERI,Exchangers in Series,串联的交换器
+LBL_INLETTANNULUS,"Inlet T, Annulus",进气口T，环形口
+LBL_INLETTPIPE,"Inlet T, Pipe",进气口T，管道
+LBL_INLETYANNULUS,"Inlet Y, Annulus",进气口Y，环形
+LBL_INLETYPIPE,"Inlet Y, Pipe",进气口Y，管道
+LBL_INSIDEANNULUS,Inside Annulus,环形区内部
+LBL_INSIDEPIPE,Inside Pipe,内管
+LBL_JACKETGEO,Jacket Geometry,夹克的几何形状
+LBL_JACKETID,Jacket ID,外套标识
+LBL_ORIENTATION,Orientation,适应情况
+LBL_OUTLETTANNULUS,"Outlet T, Annulus",出口T，环形区
+LBL_OUTLETTPIPE,"Outlet T, Pipe",出口T，管道
+LBL_OUTLETYANNULUS,"Outlet Y, Annulus",出口Y，环形
+LBL_OUTLETYPIPE,"Outlet Y, Pipe",出口Y，管道
+LBL_PIPE,Pipe,管子
+LBL_PIPEDELTAP,Pipe delta P,管道三角洲P
+LBL_PIPEGEO,Pipe Geometry,管道的几何形状
+LBL_PIPEH,Pipe h,管子h
+LBL_PIPEIN,Pipe In,管子进
+LBL_PIPEINFO,Pipe Information,管道信息
+LBL_PIPEOD,Pipe OD,管道外径
+LBL_PIPEOUT,Pipe Out,管出
+LBL_PIPETYPE,Pipe type,管道类型
+LBL_WEIESTWETDRYPIPE,Weight estimation Wet/Dry/Pipe,重量估计 湿/干/管道
+LBL_JACKETDATA,Jacket Data,外套数据
+LBL_PIPEMET,Pipe metal,金属管
+LBL_NUMEXCHSERIES,Number of exchangers in series,串联的交换器数量
+LBL_NUMEXCHPARALLEL,Number of exchangers in parallel,并联的交换器数量
+LBL_JACKETINDIA,Jacket inside diameter,护套内径
+LBL_FLOWINEXCH,Flow in exchanger,交换器中的流量
+LBL_PIPEDATA,Pipe Data,管道数据
+LBL_PIPEOUTDIA,Pipe outside diameter,管道外径
+LBL_PIPEMATDENS,Pipe material density,管道材料密度
+LBL_PIPEMATTHERCOND,Pipe material thermal conductivity,管道材料的导热性
+LBL_PIPEMATELAMOD,Pipe material elastic modulus,管道材料的弹性模量
+LBL_LONGFINDATA,Longitudinal Fin Data,纵向翅片数据
+LBL_ANNULUSINLET,Annulus Inlet ID,环形进气口ID
+LBL_ANNULUSOUTLET,Annulus Outlet ID,环形出口ID
+LBL_PIPEINLET,Pipe Inlet ID,管道进水口内径
+LBL_PIPEOUTLET,Pipe Outlet ID,管道出口内径
+LBL_RADPOSANNULUSINNOZ,Radial position of annulus inlet nozzle,环状入口喷嘴的径向位置
+LBL_LONGPOSANNULUSINNOZ,Longitudinal position of annulus inlet nozzle,环状入口喷嘴的纵向位置
+LBL_RADPOSANNULUSOUTNOZ,Radial position of annulus outlet nozzle,环状出口喷嘴的径向位置
+LBL_DESTEMPPIPE,Design temperature inside pipe,管道内的设计温度
+LBL_DESPRESSPIPE,Design pressure inside pipe,管内设计压力
+LBL_DESTEMPANNULUS,Design temperature inside annulus,环形物内的设计温度
+LBL_DESPRESSANNULUS,Design pressure inside annulus,环形空间内的设计压力
+LBL_VARYPIPELEN,Vary pipe length,改变管道长度
+LBL_VARYPIPEDIA,Vary pipe diameter,改变管道直径
+LBL_VARYJACKETDIA,Vary jacket diameter,改变护套直径
+LBL_ANNFRICFACTMETH,Annulus friction factor method,环形摩擦系数法
+LBL_ANNFILMCOEFMULT,annulus film coefficient multiplier,环形膜系数乘数
+LBL_ANNLIQCOEF,annulus liquid coefficient,环状液体系数
+LBL_ANNVAPCOEF,annulus vapor coefficient,环形蒸气系数
+LBL_ANNFILMCOEF,annulus film coefficient,环形膜系数
+LBL_ANNFRICFACTMULT,annulus friction factor multiplier,环形摩擦系数乘数
+LBL_PIPEFRICFACTMETH,Pipe friction factor method,管道摩擦系数法
+LBL_PIPEFILMCOEFMULT,pipe film coefficient multiplier,管膜系数乘数
+LBL_PIPELIQCOEF,pipe liquid coefficient,管道液体系数
+LBL_PIPEVAPCOEF,pipe vapor coefficient,管道蒸汽系数
+LBL_PIPEFILMCOEF,pipe film coefficient,管膜系数
+LBL_PIPEFRICFACTMULT,pipe friction factor multiplier,管道摩擦系数乘数
+LBL_PIPEROUGHNESS,Pipe roughness,管道粗糙度
+LBL_SINGLESEG,Single-Seg,单弓形
+LBL_DOUBLESEG,Double-Seg,双弓形
+LBL_TRIPLESEG,Triple-Seg,三弓形
+LBL_RODS,Rods,杆件
+LBL_HOTFLUID2,Hot Fluid,热流体
+LBL_COLDFLUID2,Cold Fluid,冷剂
+LBL_TUBEPATTERN,Tube pattern,排列方式
+LBL_SHELL2,shell,壳
+LBL_EXCHANGER,exch,吐出
+LBL_EXCHCONSINFO,Exchanger Construction Information,交换器结构信息
+LBL_ANNHEATTRANCORR,Annulus Heat Transfer Corrections,环形传热校正
+LBL_PERFINANN,Performance Inside Annulus,环形物内的性能
+LBL_NOMVEL,Nominal velocity,名义速度
+LBL_ANNNOZZ,Annulus Nozzles,环形喷嘴
+LBL_PIPENOZZ,Pipe Nozzles,管状喷头
+LBL_EXTENHPIPEGEO,Externally Enhanced Pipe Geometry,外部增强的管道几何结构
+LBL_INTENHPIPEGEO,Internally Enhanced Pipe Geometry,内部增强的管道几何结构
+LBL_MEANJACKETTEMP,Mean jacket temperature,夹层平均温度
+LBL_MEANPIPEMETTEMP,"Mean pipe metal temperature,",平均管道金属温度。
+LBL_CONTCONVERGENCE,Control Convergence Data,控制收敛数据
+LBL_NOMLEN,Nominal length,标称长度
+LBL_MEANTUBEMETTEMP,"Mean tube metal temperature,",平均管子金属温度。
+LBL_ANNINCRMON,Annulus Incremental Monitor,环状增量监测器
+LBL_PIPEINCRMON,Pipe Incremental Monitor,管道增量监测器
+LBL_HEADSUPPDIST,Head to support distance,头部到支架的距离
+LBL_INPUTMODWRN,NOTE: Case input modified.  Values may not be consistent with other output reports.,注意：案例输入已修改。 数值可能与其他输出报告不一致。
+LBL_RELEASECOMPED,Released to the following organization:,发布给以下公司
+LBL_TUBELOC,Tube Locations,管子位置
+LBL_HOTINCRMONITOR,Hotside Incremental Monitor,热点增量监测器
+LBL_COLDINCRMONITOR,Coldside Incremental Monitor,科德赛增量监测器
+LBL_NUMBEROFTURNS,Number of turns,圈数
+LBL_INCREMENTALLENGTH,Incremental length,递增长度
+LBL_LENGTHFROMCENTER,Length from center,从中心开始的长度
+LBL_RADIUSOFCURVATURE,Radius of curvature,曲率半径
+LBL_INNERWALLBOUNDARY,Inner Wall Boundary,内墙边界
+LBL_OUTERWALLBOUNDARY,Outer Wall Boundary,外墙边界
+LBL_HOTPOINTNUM,Hot point number,热点编号
+LBL_COLDPOINTNUM,Cold point number,冷点数
+LBL_SPIRALGEOMDATA,Spiral Geometry Data,螺旋形几何数据
+LBL_NUMINNOZ,Number of inlet nozzles,进气口喷嘴的数量
+LBL_NUMOUTNOZ,Number of outlet nozzles,出口喷嘴的数量
+LBL_HOTCHANGAPWIDTH,Hot channel gap width,热通道间隙宽度
+LBL_COLDCHANGAPWIDTH,Cold channel gap width,冷通道间隙宽度
+LBL_PLATEWIDTH,Plate width,板块宽度
+LBL_PLATELENGTH,Plate length,板块长度
+LBL_PLATECONDUCTIVITY,Plate conductivity,板块传导性
+LBL_STUDDENSITY,Stud density,螺柱密度
+LBL_COREDIAMETER,Core diameter,磁芯直径
+LBL_OUTERDIAMETER,Outer diameter,外径
+LBL_TURNS,Turns,转弯
+LBL_SUBCOOLPROFILE,Shellside Subcooling Monitor,壳侧过冷度监测器
+LBL_DISTSHELLIN,Distance from shell inlet,与壳体进口的距离
+LBL_FILMCOEF,Film coefficient,薄膜系数
+LBL_FLOODTUBES,Flooded tubes,淹没的管子
+LBL_CONDT,Condensing temperature,冷凝温度
+LBL_MIXCONDT,Mixed condensate temperature,混合冷凝水温度
+LBL_LIQLEVEL,Liquid level,液位
+LBL_CONDFLOW,Condensate flow,冷凝水流量
+LBL_FLUIDVEL,Fluid velocity,流体速度
+LBL_AVGSPANLEN,Average span length,平均跨度长度
+LBL_EFFWEIGHT,Effective weight,有效重量
+LBL_TOTDUTYIN,Total duty in (heat release + sensible heat),总的职责是（热量释放+显热）。
+LBL_PERCENTDUTYIN,% Duty in,税率%在
+LBL_ROOFDUTY,Roof sink duty / shock tube duty,屋顶下沉式工作/冲击管工作
+LBL_HFLUXOUT,Enthalpy flux out of radiant section,辐射段外的焓通量
+LBL_TOTLOSS,Total heat loss,总的热损失
+LBL_TOTDUTYOUT,Total duty out,总的说来
+LBL_TOTLOSSREF,Total heat loss through refractory,通过耐火材料的总热损失
+LBL_LOSSCOVERED,Heat loss through refractory covered by sink,通过水槽覆盖的耐火材料的热损失
+LBL_LOSSNOTCOVERED,Heat loss through refractory not covered by sink,通过未被水槽覆盖的耐火材料的热损失
+LBL_BAFFXFRAC,Baffle crossing fraction,挡板交叉部分
+LBL_INTTUBETYPE,Internal tube type,内管型
+LBL_SEENEXTPAGEFORINTTUBEINFO,See Next Page For Internal Tube Type Information.,参见下页，了解内部管型信息。
+LBL_TUBESHTSUPP,Tubesheet to inlet/outlet support,管板到入口/出口的支架
+LBL_HELICALBAFFSETS,Helical baffle sets,螺旋形挡板组
+LBL_TUBEHOLETOL,Tube hole tolerance,管孔公差
+LBL_CLEANABLELANE,Cleanable lane,可清洁的车道
+LBL_TURNAROUNDSPACING,Turn-around spacing,转身的间隔
+LBL_NONNEWTONIANDATA,Non-Newtonian Data,非牛顿数据
+LBL_TOTQABS,Total duty absorbed,吸收的关税总额
+LBL_SHEARSTRESS,Shear stress,剪切应力
+LBL_OUTLIQID,Outlet liquid inside diameter,出口液体内径
+LBL_OUTVAPID,Outlet vapor inside diameter,出口蒸汽内径
+LBL_OUTVAPNOZ,Number of vapor outlet nozzles per bundle,每束蒸汽出口喷嘴的数量
+LBL_AFRAMEDATA,A-Frame Data,A-框架数据
+LBL_TWALLSHEARSTRESS,Shear stress at tube wall,管壁的剪切应力
+LBL_LWDSWD,LWD/SWD,LWD/SWD
+LBL_KETENTRAINREPORT,Kettle Entrainment Report,Kettle Entrainment报告
+LBL_KETTLEDIAMETER,Kettle diameter,水壶直径
+LBL_ENTRAINMENTRATIO,Entrainment ratio,诱导率
+LBL_MAXALLOWVAPORVELOCITY,Allowable vapor velocity,允许的蒸汽速度
+LBL_TOTALVAPORVELOCITY,Calculated vapor velocity,计算的蒸气速度
+LBL_HORIZVAPORVELOCITY,Horizontal vapor velocity,水平蒸气速度
+LBL_VERTVAPORVELOCITY,Vertical vapor velocity,垂直蒸气速度
+LBL_AVGINCRVAPORRATE,Average incremental vapor rate,平均增量汽化率
+LBL_VAPORVELOCITY,Vapor velocity,蒸汽速度
+LBL_BUNDLELENGTH,Bundle length,捆绑长度
+LBL_MAXKETTLEDIAMETER,Max kettle diameter,最大水壶直径
+LBL_MINKETTLEDIAMETER,Min kettle diameter,最小水壶直径
+LBL_LWD,LWD,LWD
+LBL_SWD,SWD,SWD
+LBL_BAFFMAT,Baffle material,挡板材料
+LBL_PARTNUMBER,Part number,零件编号
+LBL_SERPENTINE,Serpentine,蛇形结构
+LBL_TOPCOVER,Top cover,顶盖
+LBL_BOTTOMCOVER,Botton cover,棉套
+LBL_INLETPOS,Inlet position,进气口位置
+LBL_OUTLETPOS,Outlet position,出口位置
+LBL_SHELLHELIHFAC,Shellside Helical Baffle Heat Transfer Correction Factors,壳侧螺旋挡板传热校正系数
+LBL_SHELLHELIDP,Shellside Helical Baffle Pressure Drop Correction Factors,壳侧螺旋挡板压降校正系数
+LBL_UNSUPPORTMSGS,Unsupported Items,不支持的项目
+LBL_CALCMSGS,Calculated Values,计算值
+LBL_DEFTRANSMSGS,Defaulted Values,默认值
+LBL_DEFNOTTRANSMSGS,Default Values Not Transferred,未转移的默认值
+LBL_TRANSMESS,Translation Messages,翻译信息
+LBL_TRANSINFO,General Information,一般信息
+LBL_SPECSHEET,Specification Sheet,规格表
+LBL_SHELLCOVERMAT,Shell cover material,壳体封头材料
+LBL_CHNLORBONNMAT,Channel or bonnet material,通道或阀盖材料
+LBL_TSSTATMAT,Tubesheet-Stationary material,管片-静止的材料
+LBL_TSFLTMAT,Tubesheet-Floating material,管板-浮动材料
+LBL_BAFFCROSSMAT,Baffle-Cross material,挡板-交叉材料
+LBL_BAFFLONGMAT,Baffle-Long material,挡板-长材料
+LBL_SUPPTUBEMAT,Supports-Tube material,支架-管子材料
+LBL_EXPJNTPRESENT,Expansion joint present,存在伸缩缝
+LBL_SHELLGASKET,Shellside gasket,壳侧垫片
+LBL_TUBEGASKET,Tubeside gasket,油管侧垫片
+LBL_FLOATGASKET,Floating head gasket,浮动头垫
+LBL_SHELLOD,Shell outside diameter,外壳外径
+LBL_BAFFLECOUNT,Bafflecount,挡板计数
+LBL_DUMMYCOUNT,Dummy tube count,虚拟管数量
+LBL_DUMMYOD,Dummy tube OD,虚拟管外径
+LBL_BLNKSTRIPAREA,Blanking strip area,空白条区域
+LBL_INOUTSPACINGDP,Inlet/outlet baffle spacing for DP,DP的入口/出口挡板间距
+LBL_TURNAROUNDSPACINGDP,Turn-around baffle spacing for DP,DP的转弯挡板间距
+LBL_FORDP,For DP,对于DP
+LBL_SHELLNOMOD,Shell nominal outside diameter,壳体名义外径
+LBL_FHEADID,Front head inside diameter,前头部内径
+LBL_FHEADOD,Front head outside diameter,前头部外径
+LBL_FHEADTHK,Front head thickness,前部头部厚度
+LBL_RHEADID,Rear head inside diameter,后头部内径
+LBL_RHEADOD,Rear head outside diameter,后头部外径
+LBL_RHEADTHK,Rear head thickness,后脑勺厚度
+LBL_CONSTDATA,Construction Data,建筑数据
+LBL_SUPPSDATA,Supports Data,支持数据
+LBL_LONGBAFFDATA,Longitudinal Baffle Data,纵向挡板数据
+LBL_NOZZLOCDATA,Nozzle Location Data,喷嘴位置数据
+LBL_TIERODDATA,"Passlanes, Tie Rods, and Seal Strip Data",帕斯兰、拉杆和密封条数据
+LBL_PASSLANE,Passlane,帕斯兰
+LBL_DISTANCE,Distance,距离
+LBL_INUSE,In use,使用中
+LBL_TUBELAYOUTDATA,Tube Layout Data,管子的布局数据
+LBL_EXCHRDATA,Exchanger Data,交换器数据
+LBL_UPPERLEG,Upper leg,上肢
+LBL_LOWERLEG,Lower leg,小腿
+LBL_SHELLINPOS,Shellside inlet position,壳侧进气口位置
+LBL_EXCHGEO,Exchanger Geometry,交换器的几何形状
+LBL_LAYERS,Layers,分层
+LBL_INLETT,Inlet T,进气口T
+LBL_INLETY,Inlet Y,进水口Y
+LBL_OUTLETT,Outlet T,出口T
+LBL_OUTLETY,Outlet Y,出口Y
+LBL_DELTAP,Delta P,三角洲P
+LBL_INLETP,Inlet P,进水口P
+LBL_PROCSTRMS,Process streams,过程流
+LBL_EXCHLEN,Exchanger length,交换器长度
+LBL_EXCHWIDTH,Exchanger width,交换器宽度
+LBL_EXCHHT,Exchanger height,交换器高度
+LBL_ENDALEN,End A Length,结束语A 长度
+LBL_ENDBLEN,End B Length,B端长度
+LBL_NUMEXCHRS,Number of exchangers,交换器的数量
+LBL_NUMSTRMS,Number of streams,流的数量
+LBL_NUMFINTYPES,Number of fin types,翅片类型的数量
+LBL_LAYERSEXCHRS,Layers/Exchanger,分层/交换器
+LBL_STRMLOC,Stream locations,溪流位置
+LBL_EXCHSKETCH,Exchanger sketch,交换器简图
+LBL_STACKARRG,Stacking arrangement,叠加安排
+LBL_STRMPRESPROF,Stream pressure profile,水流压力曲线
+LBL_STRMTHERMPROF,Stream thermal profile,溪流热力概况
+LBL_STRMPRESDROP,Stream pressure drop,水流压降
+LBL_PROFSTRM,Profiles for stream,溪流的概况
+LBL_FRICGRAD,Friction gradient,摩擦梯度
+LBL_STATICGRAD,Static gradient,静态梯度
+LBL_VOIDFRAC,Void fraction,空隙率
+LBL_OVERALL,Overall,总的来说
+LBL_PRESCHANGES,Pressure changes,压力变化
+LBL_PROPERTYMESS,Property Messages,财产信息
+LBL_DESIGNLOG,Design Log,设计日志
+LBL_PFFINGEOMSUMMARY,Fin Geometry Summary,翅片几何学摘要
+LBL_PFFINCHARACTERISTICS,Fin Characteristics,翅片特性
+LBL_PFFINPERFORMANCE,Fin Performance,翅片性能
+LBL_PFASPECTRATIO,Aspect Ratio,纵横比
+LBL_PFBLOCKAGEFRACTION,Blockage Fraction,堵塞的部分
+LBL_PFPRIMARYPERIM,Primary Perimeter,主要周长
+LBL_PFSECONDARYPERIM,Secondary Perimeter,二级周长
+LBL_PFHYDRAULICDIAM,Hydraulic Diameter,油压直径
+LBL_PFFINLOC,Fin Locations,翅片位置
+LBL_RODTYPE,Rod-type,杆式
+LBL_PF_ZZ_ANALYSIS,Zig Zag Analysis,Zig Zag分析
+LBL_PF_ZZ_ASSESSMENT,Main ZigZag Assessment ,主要的ZigZag评估
+LBL_PF_ZZ_FRACZEROCROSSES,Fraction of Zero Crosses,零点交叉的分数
+LBL_PF_ZZ_DEVFROMIDEAL,Deviation from Ideal,对理想的偏离
+LBL_PF_ZZ_HEATLOADS,Cumulative Heat Loads as Fraction of Mean Layer Heat Load,累积热负荷占平均层热负荷的百分比
+LBL_PF_ZZ_QUARTER,Quarter,季度
+LBL_PF_ZZ_TOTAL,Total,共计
+LBL_PF_ZZ_LAYERPATTERN,Layer Pattern,图层图案
+LBL_PF_ENDA,End A,结束A
+LBL_PF_ENDB,End B,结束语B
+LBL_PF_ZZ_BASIS,"(Stream Basis (S), Layer Basis (L))",(流基础(S)，层基础(L))
+LBL_PF_WALL,Wall,墙壁
+LBL_GRASHOF,Grashof,格拉斯霍夫
+LBL_RICHARDSON,Richardson,理查德森
+LBL_MALRISK,Maldistribution risk,恶性分布风险
+LBL_FRICDPRANGE,Percent pressure range,百分比压力范围
+LBL_FROTHLEVEL,Froth level,泡沫水平
+LBL_LAYERMONITOR,Layer Monitor,层监控
+LBL_PRECALCARRAYS,Precalculated Arrays,预先计算的数组
+LBL_FINNUM,Fin number,翅片数量
+LBL_MASSFLUX,Mass flux,质量通量
+LBL_STEPLEN,Step length,步长
+LBL_MASSFRAC,Mass fraction,质量分数
+LBL_STEPCODE,Step code,步骤代码
+LBL_BYPASS,Bypass,旁路
+LBL_ETF,Enthalpy transfer function,焓的传递函数
+LBL_PRESGRAD,Pressure gradient,压力梯度
+LBL_USEDERESBAFF,Use deresonating baffles,使用消音挡板
+LBL_THERMOREPT,Thermosiphon report,热虹吸管报告
+LBL_THERMOTYPE,Thermosiphon type,热虹吸式
+LBL_CALCTYPE,Calculation type,计算类型
+LBL_ADJCONDPARM,Adjusted condensing parameter,调整后的冷凝参数
+LBL_HXOUTLETQ,Exchanger outlet quality,交换器出口质量
+LBL_PIPEOUTLETQ,Piping outlet quality,管道出口质量
+LBL_OUTLETPIPEFRIC,Outlet pipe (friction),出口管道（摩擦）。
+LBL_OUTLETPIPESH,Outlet pipe (static head),出口管（静压头）。
+LBL_OUTLETDISTFRIC,Outlet distributor (friction),出口分配器(摩擦)
+LBL_OUTLETDISTSH,Outlet distributor (static head),出口分配器（静态水头）
+LBL_EXFINLENATOUT,Extra fin length at outlet,出口处的额外翅片长度
+LBL_MAINFINDP,Main fin pressure drop,主翅片压降
+LBL_EXFINLENATIN,Extra fin length at inlet,进气口的额外翅片长度
+LBL_INLETDISTFRIC,Inlet distributor (friction),进气口分配器（摩擦力）
+LBL_INLETDISTSH,Inlet distributor (static head),入口分配器（静态水头）
+LBL_INLETPIPEFRIC,Inlet pipe (friction),进气管(摩擦)
+LBL_INLETPIPESH,Static head (submergence),静态水头(浸没)
+LBL_SHTOEFFLEN,Static head to eff length,静态头至功效长度
+LBL_ALLOWENTR,Allowable entrainment,允许的夹带量
+LBL_ACTUALENTR,Actual entrainment,实际夹带量
+LBL_HTINKETTLE,Height in kettle,水壶中的高度
+LBL_NUMVAPOUTNOZ,Number of vapor outlet nozzles,蒸汽出口喷嘴的数量
+LBL_KETTLEREB,Kettle Reboiler,水壶再沸器
+LBL_BOILINGFLUID,Boiling Fluid,沸腾的液体
+LBL_CIRCUITDP,Circuit Pressure Drops,电路压力下降
+LBL_CIRCUITDF,Circuit Driving Force,电路驱动力
+LBL_CONDFLUID,Condensing Fluid,冷凝液
+LBL_HEADERS,Headers,标题
+LBL_SIDEBARS,Side Bars,侧边栏杆
+LBL_PARTINGSHEETS,Parting Sheets,分割单
+LBL_CAPSHEETS,Cap Sheets,帽片
+LBL_EMPTY,Empty,空的
+LBL_FULL,Full of Water,充满了水
+LBL_LENFROMA,Length from A,从A开始的长度
+LBL_TEMPPROFILE,Temperature Profile,温度简介
+LBL_ACROSS,Across,纵观
+LBL_ATOB,A to B,A到B
+LBL_BTOA,B to A,B到A
+LBL_XFLOWRTL,Cross Flow is Right-to-Left,横向流动是从右到左
+LBL_XFLOWLTR,Cross Flow is Left-to-Right,横向流动是从左到右
+LBL_WALLTEMPS,Wall temperatures,墙体温度
+LBL_FLOWATOB,Flow is A to B,流量是A到B
+LBL_FLOWBTOA,Flow is B to A,流量是B到A
+LBL_ENTHPROFILE,Enthalpy Profile,焓值简介
+LBL_DPPROFILE,Pressure Drop Profile,压降简介
+LBL_VAPFRACPROFILE,Vapor Fraction Profile,蒸汽分量简介
+LBL_STACKPAT,Stacking pattern,叠加模式
+LBL_ESTIMATED,Estimated,估计的
+LBL_PEAKWALLT,Peak wall temperature,壁面峰值温度
+LBL_OUTSIDEWALLT,Outside wall temperature,外墙温度
+LBL_FLUEGASBULKTEMP,Flue gas temperature,烟气温度
+LBL_INSIDEAREA,Inside area,内部区域
+LBL_METALCONDUCTIVITY,Metal conductivity,金属导电性
+LBL_RODW_TO_NOZD,Rod row width to nozzle diameter,杆排宽度与喷嘴直径之比
+LBL_IDEALBUNDLE,Ideal bundle,理想的捆绑
+LBL_PROPERTYPACKAGE,Property package,财产包
+LBL_WALLMETALTEMP,Wall metal temperature,壁面金属温度
+LBL_DRAWINGS,Drawings,图纸
+LBL_KETTLEPROCOND,Kettle Process Conditions,釜的工艺条件
+LBL_PIPEINOUT,Inlet pipe/Inlet/Outlet/Outlet pipe,进水管/进水口/出水口/出水管
+LBL_BUNDLESWT,Bundle(s) weight,捆绑的重量
+LBL_RELEASECOMPHON,Released to the following company:,被释放到以下公司。
+LBL_RETURNBONNET,Return bonnet,返回阀盖
+LBL_DRAFTPROFILE,Draft Profile,草案简介
+LBL_ELEVATION,Elevation,海拔
+LBL_UBENDSCHEDULE,U-Bend Schedule,U型弯的规格
+LBL_PROPERTYCONDITIONS,User-Specified Conditions for Property Generation,用户指定的属性生成条件
+LBL_UBENDSUPPDIST,UBend tangent to Support Dist.,U型弯切线至支撑的距离
+LBL_LININGMATERIALS,Lining Materials,衬里材料
+LBL_MW,MW,分子量
+LBL_NAME,Name,名称
+LBL_FRAME,Frame,框架
+LBL_UNITID,Unit identifier,单位标识符
+LBL_SCAREA,Subcooled area,过冷面积
+LBL_SCDUTY,Subcooled duty,过冷负荷
+LBL_SCCOEFFICIENT,Subcooling coefficient,过冷系数
+LBL_SCCONDENSATET,Condensate temperature,凝液温度
+LBL_SCCONDENSINGT,Condensing temperature,冷凝温度
+LBL_SCMTD,Condensate MTD,凝液的平均温差
+LBL_SCU,Subcooling overall U,过冷的U
+LBL_ON,On,开
+LBL_OFF,Off,关
+LBL_FANONOFFSTATE,Fan On/Off State,风扇开/关
+LBL_TSHEETTEMP,Tubesheet temperature,管板温度
+LBL_ALLFANSON,All Fans On,所有风扇开启
+LBL_NOFANS,No Fans,无风扇
+LBL_FANSOFF,Fans turned-off,风扇关闭
+LBL_CROSSFLOWAMPTUBEGAPRATIO,Crossflow amplitude/tube gap,错流振幅/管隙
+LBL_CRITVELSHELLENTREXIT,Critical velocity,临界速度
+LBL_FLOWREGIME,Flow regime,流动机制
+LBL_AMPLITUDETUBEGAP,Amplitude / Tube Gap,振幅/管隙
+LBL_SHELLLININGMATERIAL,Shell lining material,壳体衬里材料
+LBL_TSTUBESHEETLININGMAT,Tubesheet (tubeside) lining material,管板（管侧）衬里材料
+LBL_SSTUBESHEETLININGMAT,Tubesheet (shellside) lining materal,管板（壳侧）衬里材料
+LBL_CHANNELLININGMAT,Channel lining material,管箱的衬里材料
+LBL_FLOATHDCVRLININGMAT,Floating head cover lining material,浮头盖的衬里材料
